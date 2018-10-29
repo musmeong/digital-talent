@@ -1,0 +1,1881 @@
+kode_provinsi,nama_provinsi,kode_kabkota,nama_kabkota,tahun,jumlah_penduduk_miskin,persen_penduduk_miskin,indeks_p1,indeks_p2,garis_kemiskinan
+11,Prov. Nanggroe Aceh Darussalam,1101,Kab. Simeulue,2007,25100,32.26,5.24,1.22,216518
+11,Prov. Nanggroe Aceh Darussalam,1101,Kab. Simeulue,2008,20600,26.45,4.51,1.19,253123
+11,Prov. Nanggroe Aceh Darussalam,1101,Kab. Simeulue,2009,19100,24.72,3.95,1.01,255471
+11,Prov. Nanggroe Aceh Darussalam,1101,Kab. Simeulue,2010,19000,23.61,4.29,1.19,278023
+11,Prov. Nanggroe Aceh Darussalam,1102,Kab. Aceh Singkil,2007,26500,28.54,5.5,1.5,208087
+11,Prov. Nanggroe Aceh Darussalam,1102,Kab. Aceh Singkil,2008,22200,23.27,4.82,1.38,213997
+11,Prov. Nanggroe Aceh Darussalam,1102,Kab. Aceh Singkil,2009,20300,21.06,3.4,0.84,257778
+11,Prov. Nanggroe Aceh Darussalam,1102,Kab. Aceh Singkil,2010,19900,19.38,2.91,0.65,280534
+11,Prov. Nanggroe Aceh Darussalam,1103,Kab. Aceh Selatan,2007,49800,24.72,4.57,1.21,196167
+11,Prov. Nanggroe Aceh Darussalam,1103,Kab. Aceh Selatan,2008,38800,19.4,3.62,1.01,203761
+11,Prov. Nanggroe Aceh Darussalam,1103,Kab. Aceh Selatan,2009,35400,17.5,2.44,0.56,236741
+11,Prov. Nanggroe Aceh Darussalam,1103,Kab. Aceh Selatan,2010,32200,15.93,3.1,0.91,257640
+11,Prov. Nanggroe Aceh Darussalam,1104,Kab. Aceh Tenggara,2007,36300,21.6,3.8,0.94,155423
+11,Prov. Nanggroe Aceh Darussalam,1104,Kab. Aceh Tenggara,2008,30900,18.51,2.83,0.66,165925
+11,Prov. Nanggroe Aceh Darussalam,1104,Kab. Aceh Tenggara,2009,27900,16.77,2.79,0.68,170569
+11,Prov. Nanggroe Aceh Darussalam,1104,Kab. Aceh Tenggara,2010,30100,16.78,2.62,0.75,185626
+11,Prov. Nanggroe Aceh Darussalam,1105,Kab. Aceh Timur,2007,84900,28.15,6.87,2.53,221862
+11,Prov. Nanggroe Aceh Darussalam,1105,Kab. Aceh Timur,2008,76200,24.05,5.29,1.72,256739
+11,Prov. Nanggroe Aceh Darussalam,1105,Kab. Aceh Timur,2009,68300,21.33,3.49,0.99,264671
+11,Prov. Nanggroe Aceh Darussalam,1105,Kab. Aceh Timur,2010,66600,18.42,2.98,0.71,288036
+11,Prov. Nanggroe Aceh Darussalam,1106,Kab. Aceh Tengah,2007,39900,24.41,3.83,0.92,246435
+11,Prov. Nanggroe Aceh Darussalam,1106,Kab. Aceh Tengah,2008,40600,23.36,4.39,1.03,283307
+11,Prov. Nanggroe Aceh Darussalam,1106,Kab. Aceh Tengah,2009,38200,21.43,3.18,0.74,305619
+11,Prov. Nanggroe Aceh Darussalam,1106,Kab. Aceh Tengah,2010,35300,20.09,2.88,0.62,332598
+11,Prov. Nanggroe Aceh Darussalam,1107,Kab. Aceh Barat,2007,48200,32.63,7.23,2.32,297287
+11,Prov. Nanggroe Aceh Darussalam,1107,Kab. Aceh Barat,2008,43700,29.96,11.06,4.83,335955
+11,Prov. Nanggroe Aceh Darussalam,1107,Kab. Aceh Barat,2009,40400,27.09,5.73,1.85,341606
+11,Prov. Nanggroe Aceh Darussalam,1107,Kab. Aceh Barat,2010,42400,24.42,4.76,1.53,371762
+11,Prov. Nanggroe Aceh Darussalam,1108,Kab. Aceh Besar,2007,79100,26.69,6.5,2.17,266749
+11,Prov. Nanggroe Aceh Darussalam,1108,Kab. Aceh Besar,2008,63500,21.52,5.56,1.7,285876
+11,Prov. Nanggroe Aceh Darussalam,1108,Kab. Aceh Besar,2009,59000,20.09,3.91,1.31,308440
+11,Prov. Nanggroe Aceh Darussalam,1108,Kab. Aceh Besar,2010,66200,18.8,3.71,1.04,324096
+11,Prov. Nanggroe Aceh Darussalam,1109,Kab. Pidie,2007,120300,33.31,5.16,1.18,249440
+11,Prov. Nanggroe Aceh Darussalam,1109,Kab. Pidie,2008,101800,28.11,6.33,1.62,277688
+11,Prov. Nanggroe Aceh Darussalam,1109,Kab. Pidie,2009,93800,25.87,4.07,0.9,312476
+11,Prov. Nanggroe Aceh Darussalam,1109,Kab. Pidie,2010,90200,23.8,3.44,0.74,328337
+11,Prov. Nanggroe Aceh Darussalam,1110,Kab. Bireuen,2007,93000,27.18,5.2,1.5,200060
+11,Prov. Nanggroe Aceh Darussalam,1110,Kab. Bireuen,2008,79100,23.27,5.21,1.66,214801
+11,Prov. Nanggroe Aceh Darussalam,1110,Kab. Bireuen,2009,72900,21.65,4.24,1.3,242576
+11,Prov. Nanggroe Aceh Darussalam,1110,Kab. Bireuen,2010,76100,19.5,4.11,1.31,263990
+11,Prov. Nanggroe Aceh Darussalam,1111,Kab. Aceh Utara,2007,163200,33.16,6.55,1.98,186286
+11,Prov. Nanggroe Aceh Darussalam,1111,Kab. Aceh Utara,2008,135700,27.56,5.61,1.68,218970
+11,Prov. Nanggroe Aceh Darussalam,1111,Kab. Aceh Utara,2009,126600,25.29,4.51,1.15,229559
+11,Prov. Nanggroe Aceh Darussalam,1111,Kab. Aceh Utara,2010,124400,23.43,4.46,1.38,249824
+11,Prov. Nanggroe Aceh Darussalam,1112,Kab. Aceh Barat Daya,2007,33500,28.63,4.87,1.35,198562
+11,Prov. Nanggroe Aceh Darussalam,1112,Kab. Aceh Barat Daya,2008,27400,23.42,3.72,0.82,231460
+11,Prov. Nanggroe Aceh Darussalam,1112,Kab. Aceh Barat Daya,2009,25000,21.33,3.06,0.7,231758
+11,Prov. Nanggroe Aceh Darussalam,1112,Kab. Aceh Barat Daya,2010,25200,19.93,3.31,0.84,252217
+11,Prov. Nanggroe Aceh Darussalam,1113,Kab. Gayo Lues,2007,23100,32.31,4.89,1.12,203848
+11,Prov. Nanggroe Aceh Darussalam,1113,Kab. Gayo Lues,2008,18900,26.57,4.85,1.09,231260
+11,Prov. Nanggroe Aceh Darussalam,1113,Kab. Gayo Lues,2009,17100,24.22,5.31,1.8,232481
+11,Prov. Nanggroe Aceh Darussalam,1113,Kab. Gayo Lues,2010,19100,23.9,3.4,0.8,253004
+11,Prov. Nanggroe Aceh Darussalam,1114,Kab. Aceh Tamiang,2007,50800,22.19,4.35,1.39,206110
+11,Prov. Nanggroe Aceh Darussalam,1114,Kab. Aceh Tamiang,2008,50800,22.29,3.58,0.88,240753
+11,Prov. Nanggroe Aceh Darussalam,1114,Kab. Aceh Tamiang,2009,45300,19.96,3.43,1,274295
+11,Prov. Nanggroe Aceh Darussalam,1114,Kab. Aceh Tamiang,2010,45200,17.98,2.7,0.64,298509
+11,Prov. Nanggroe Aceh Darussalam,1115,Kab. Nagan Raya,2007,40000,33.61,7.75,2.55,257193
+11,Prov. Nanggroe Aceh Darussalam,1115,Kab. Nagan Raya,2008,33200,28.11,7.62,2.26,288593
+11,Prov. Nanggroe Aceh Darussalam,1115,Kab. Nagan Raya,2009,30900,26.22,5.12,1.47,294493
+11,Prov. Nanggroe Aceh Darussalam,1115,Kab. Nagan Raya,2010,33500,24.06,4.43,1.15,320490
+11,Prov. Nanggroe Aceh Darussalam,1116,Kab. Aceh Jaya,2007,19500,29.28,5.46,1.57,212762
+11,Prov. Nanggroe Aceh Darussalam,1116,Kab. Aceh Jaya,2008,17200,23.86,5.79,1.94,215382
+11,Prov. Nanggroe Aceh Darussalam,1116,Kab. Aceh Jaya,2009,17100,21.86,4.49,1.37,254156
+11,Prov. Nanggroe Aceh Darussalam,1116,Kab. Aceh Jaya,2010,15600,20.17,3.67,1.09,267057
+11,Prov. Nanggroe Aceh Darussalam,1117,Kab. Bener Meriah,2007,28100,26.55,4.34,1.14,252495
+11,Prov. Nanggroe Aceh Darussalam,1117,Kab. Bener Meriah,2008,31300,29.21,5.13,1.11,272217
+11,Prov. Nanggroe Aceh Darussalam,1117,Kab. Bener Meriah,2009,28600,26.58,4.14,0.98,274560
+11,Prov. Nanggroe Aceh Darussalam,1117,Kab. Bener Meriah,2010,32100,26.22,3.64,0.79,298798
+11,Prov. Nanggroe Aceh Darussalam,1118,Kab. Pidie Jaya,2007,43300,35,4.84,0.99,228601
+11,Prov. Nanggroe Aceh Darussalam,1118,Kab. Pidie Jaya,2008,37700,30.26,8.33,2.57,274078
+11,Prov. Nanggroe Aceh Darussalam,1118,Kab. Pidie Jaya,2009,35600,27.97,4.75,1.33,309857
+11,Prov. Nanggroe Aceh Darussalam,1118,Kab. Pidie Jaya,2010,34700,26.07,3.78,0.8,337211
+11,Prov. Nanggroe Aceh Darussalam,1171,Kota Banda Aceh,2007,14000,6.61,0.93,0.2,346750
+11,Prov. Nanggroe Aceh Darussalam,1171,Kota Banda Aceh,2008,19900,9.56,3.44,1.31,362992
+11,Prov. Nanggroe Aceh Darussalam,1171,Kota Banda Aceh,2009,17300,8.64,1.55,0.36,414172
+11,Prov. Nanggroe Aceh Darussalam,1171,Kota Banda Aceh,2010,20800,9.19,1.46,0.36,435191
+11,Prov. Nanggroe Aceh Darussalam,1172,Kota Sabang,2007,7800,27.13,5.23,1.38,300351
+11,Prov. Nanggroe Aceh Darussalam,1172,Kota Sabang,2008,7100,25.72,6.16,1.82,310697
+11,Prov. Nanggroe Aceh Darussalam,1172,Kota Sabang,2009,6500,23.89,3.81,0.93,368637
+11,Prov. Nanggroe Aceh Darussalam,1172,Kota Sabang,2010,6700,21.68,4.36,1.4,401180
+11,Prov. Nanggroe Aceh Darussalam,1173,Kota Langsa,2007,19100,14.25,2.33,0.6,175149
+11,Prov. Nanggroe Aceh Darussalam,1173,Kota Langsa,2008,24000,17.97,3.88,1.31,199628
+11,Prov. Nanggroe Aceh Darussalam,1173,Kota Langsa,2009,21300,16.2,2.92,0.79,248283
+11,Prov. Nanggroe Aceh Darussalam,1173,Kota Langsa,2010,22400,15.01,3.09,1.11,270201
+11,Prov. Nanggroe Aceh Darussalam,1174,Kota Lhokseumawe,2007,19400,12.75,3.2,1.09,177523
+11,Prov. Nanggroe Aceh Darussalam,1174,Kota Lhokseumawe,2008,23900,15.87,2.77,0.72,194884
+11,Prov. Nanggroe Aceh Darussalam,1174,Kota Lhokseumawe,2009,22500,15.08,1.78,0.37,246539
+11,Prov. Nanggroe Aceh Darussalam,1174,Kota Lhokseumawe,2010,24100,14.07,2.68,0.83,268303
+11,Prov. Nanggroe Aceh Darussalam,1175,Kota Subulussalam,2007,18700,30.16,4.64,1.17,
+11,Prov. Nanggroe Aceh Darussalam,1175,Kota Subulussalam,2008,17700,28.99,5.11,1.28,168953
+11,Prov. Nanggroe Aceh Darussalam,1175,Kota Subulussalam,2009,16800,26.8,4.97,1.52,201149
+11,Prov. Nanggroe Aceh Darussalam,1175,Kota Subulussalam,2010,16500,24.33,4.87,1.43,218906
+12,Prov. Sumatera Utara,1175,Kota Subulussalam,2007,,,,,166693
+12,Prov. Sumatera Utara,1201,Kab. Nias,2007,139300,31.75,4.32,0.95,163308
+12,Prov. Sumatera Utara,1201,Kab. Nias,2008,110600,25.19,3.9,0.86,203882
+12,Prov. Sumatera Utara,1201,Kab. Nias,2009,98900,22.57,5.23,1.76,214244
+12,Prov. Sumatera Utara,1201,Kab. Nias,2010,26400,19.97,4.14,1.27,233876
+12,Prov. Sumatera Utara,1202,Kab. Mandailing Natal,2007,77400,18.74,2.75,0.59,166287
+12,Prov. Sumatera Utara,1202,Kab. Mandailing Natal,2008,60700,14.46,2.17,0.46,180164
+12,Prov. Sumatera Utara,1202,Kab. Mandailing Natal,2009,55200,13.02,1.95,0.46,210060
+12,Prov. Sumatera Utara,1202,Kab. Mandailing Natal,2010,51000,12.6,1.53,0.32,229308
+12,Prov. Sumatera Utara,1203,Kab. Tapanuli Selatan,2007,128400,20.33,2.4,0.44,175724
+12,Prov. Sumatera Utara,1203,Kab. Tapanuli Selatan,2008,87600,13.77,1.46,0.25,188158
+12,Prov. Sumatera Utara,1203,Kab. Tapanuli Selatan,2009,33200,12.67,1.57,0.32,221497
+12,Prov. Sumatera Utara,1203,Kab. Tapanuli Selatan,2010,31600,11.96,1.25,0.2,241793
+12,Prov. Sumatera Utara,1204,Kab. Tapanuli Tengah,2007,83100,27.47,5.05,1.39,179440
+12,Prov. Sumatera Utara,1204,Kab. Tapanuli Tengah,2008,60400,19.35,3.96,0.95,210534
+12,Prov. Sumatera Utara,1204,Kab. Tapanuli Tengah,2009,57000,17.83,2.8,0.65,216405
+12,Prov. Sumatera Utara,1204,Kab. Tapanuli Tengah,2010,52200,16.73,2.86,0.75,240457
+12,Prov. Sumatera Utara,1205,Kab. Tapanuli Utara,2007,52400,20.06,2.83,0.74,168539
+12,Prov. Sumatera Utara,1205,Kab. Tapanuli Utara,2008,37500,14.15,1.73,0.32,183605
+12,Prov. Sumatera Utara,1205,Kab. Tapanuli Utara,2009,35100,13.1,1.5,0.27,211814
+12,Prov. Sumatera Utara,1205,Kab. Tapanuli Utara,2010,34900,12.49,2.12,0.5,235356
+12,Prov. Sumatera Utara,1206,Kab. Toba Samosir,2007,25600,15.28,2.13,0.46,191574
+12,Prov. Sumatera Utara,1206,Kab. Toba Samosir,2008,19800,11.62,2.35,0.63,209225
+12,Prov. Sumatera Utara,1206,Kab. Toba Samosir,2009,17300,10.07,1.19,0.26,213848
+12,Prov. Sumatera Utara,1206,Kab. Toba Samosir,2010,17600,10.15,1.64,0.38,237369
+12,Prov. Sumatera Utara,1207,Kab. Labuhan Batu,2007,123400,12.33,2.05,0.57,184401
+12,Prov. Sumatera Utara,1207,Kab. Labuhan Batu,2008,109700,10.76,1.65,0.43,193743
+12,Prov. Sumatera Utara,1207,Kab. Labuhan Batu,2009,102100,9.85,1.38,0.33,223935
+12,Prov. Sumatera Utara,1207,Kab. Labuhan Batu,2010,44300,10.67,2.25,0.62,244455
+12,Prov. Sumatera Utara,1208,Kab. Asahan,2007,91800,13.77,2.2,0.53,161480
+12,Prov. Sumatera Utara,1208,Kab. Asahan,2008,88000,12.89,2.03,0.47,174787
+12,Prov. Sumatera Utara,1208,Kab. Asahan,2009,83700,12.09,1.96,0.54,202180
+12,Prov. Sumatera Utara,1208,Kab. Asahan,2010,76300,11.42,1.53,0.35,224417
+12,Prov. Sumatera Utara,1209,Kab. Simalungun,2007,124400,14.84,2.4,0.61,169699
+12,Prov. Sumatera Utara,1209,Kab. Simalungun,2008,124600,14.75,2.39,0.63,201811
+12,Prov. Sumatera Utara,1209,Kab. Simalungun,2009,107500,12.67,1.93,0.48,210265
+12,Prov. Sumatera Utara,1209,Kab. Simalungun,2010,87700,10.73,1.8,0.49,233391
+12,Prov. Sumatera Utara,1210,Kab. Dairi,2007,42200,15.82,1.98,0.38,154046
+12,Prov. Sumatera Utara,1210,Kab. Dairi,2008,29800,11.07,1.72,0.36,165193
+12,Prov. Sumatera Utara,1210,Kab. Dairi,2009,27100,10.03,1.63,0.36,196523
+12,Prov. Sumatera Utara,1210,Kab. Dairi,2010,26900,9.97,1.3,0.26,218138
+12,Prov. Sumatera Utara,1211,Kab. Karo,2007,50500,14.47,2.18,0.49,223830
+12,Prov. Sumatera Utara,1211,Kab. Karo,2008,46100,12.86,4.47,1.64,236371
+12,Prov. Sumatera Utara,1211,Kab. Karo,2009,41800,11.42,1.32,0.23,257833
+12,Prov. Sumatera Utara,1211,Kab. Karo,2010,38700,11.02,1.52,0.31,286191
+12,Prov. Sumatera Utara,1212,Kab. Deli Serdang,2007,94800,5.67,1.06,0.25,156821
+12,Prov. Sumatera Utara,1212,Kab. Deli Serdang,2008,89000,5.16,0.95,0.27,182786
+12,Prov. Sumatera Utara,1212,Kab. Deli Serdang,2009,91400,5.17,0.53,0.09,216408
+12,Prov. Sumatera Utara,1212,Kab. Deli Serdang,2010,96000,5.34,0.45,0.07,241274
+12,Prov. Sumatera Utara,1213,Kab. Langkat,2007,185800,18.23,3.31,0.9,186595
+12,Prov. Sumatera Utara,1213,Kab. Langkat,2008,153000,14.81,2.97,0.76,216320
+12,Prov. Sumatera Utara,1213,Kab. Langkat,2009,133100,12.75,1.67,0.36,221625
+12,Prov. Sumatera Utara,1213,Kab. Langkat,2010,104800,10.84,1.92,0.51,247090
+12,Prov. Sumatera Utara,1214,Kab. Nias Selatan,2007,91100,33.84,5.72,1.5,128852
+12,Prov. Sumatera Utara,1214,Kab. Nias Selatan,2008,65800,24.36,2.78,0.56,164154
+12,Prov. Sumatera Utara,1214,Kab. Nias Selatan,2009,59900,22.19,3.48,0.81,170227
+12,Prov. Sumatera Utara,1214,Kab. Nias Selatan,2010,60100,20.72,2.51,0.48,185825
+12,Prov. Sumatera Utara,1215,Kab. Humbang Hasundutan,2007,28400,18.84,2.34,0.42,162593
+12,Prov. Sumatera Utara,1215,Kab. Humbang Hasundutan,2008,20000,12.99,1.9,0.43,184341
+12,Prov. Sumatera Utara,1215,Kab. Humbang Hasundutan,2009,17600,11.31,1.8,0.47,187938
+12,Prov. Sumatera Utara,1215,Kab. Humbang Hasundutan,2010,18200,10.6,1.61,0.41,208826
+12,Prov. Sumatera Utara,1216,Kab. Pakpak Bharat,2007,8600,22.42,3.84,0.92,121844
+12,Prov. Sumatera Utara,1216,Kab. Pakpak Bharat,2008,6100,15.02,2.23,0.51,142420
+12,Prov. Sumatera Utara,1216,Kab. Pakpak Bharat,2009,5900,13.99,1.29,0.24,159142
+12,Prov. Sumatera Utara,1216,Kab. Pakpak Bharat,2010,5600,18.78,1.32,0.2,176830
+12,Prov. Sumatera Utara,1217,Kab. Samosir,2007,36100,27.76,4.29,1.13,153888
+12,Prov. Sumatera Utara,1217,Kab. Samosir,2008,24400,18.76,22.72,0.54,156352
+12,Prov. Sumatera Utara,1217,Kab. Samosir,2009,22800,17.55,2.02,0.38,181619
+12,Prov. Sumatera Utara,1217,Kab. Samosir,2010,19700,16.5,2.69,0.66,201595
+12,Prov. Sumatera Utara,1218,Kab. Serdang Bedagai,2007,72600,11.84,1.43,0.45,172585
+12,Prov. Sumatera Utara,1218,Kab. Serdang Bedagai,2008,66300,10.61,1.87,0.52,194387
+12,Prov. Sumatera Utara,1218,Kab. Serdang Bedagai,2009,60400,9.51,1.25,0.22,223753
+12,Prov. Sumatera Utara,1218,Kab. Serdang Bedagai,2010,62900,10.59,1.69,0.39,248363
+12,Prov. Sumatera Utara,1219,Kab. Batu Bara,2007,67700,17.89,3.05,0.87,164931
+12,Prov. Sumatera Utara,1219,Kab. Batu Bara,2008,51700,13.64,1.76,0.34,189552
+12,Prov. Sumatera Utara,1219,Kab. Batu Bara,2009,49500,12.87,1.64,0.34,232538
+12,Prov. Sumatera Utara,1219,Kab. Batu Bara,2010,46100,12.28,1.89,0.48,253846
+12,Prov. Sumatera Utara,1220,Kab. Padang Lawas Utara,2009,22700,11.83,1.93,0.48,191446
+12,Prov. Sumatera Utara,1220,Kab. Padang Lawas Utara,2010,25000,11.19,1.78,0.43,208989
+12,Prov. Sumatera Utara,1221,Kab. Padang Lawas,2009,21900,11.9,1.67,0.36,191357
+12,Prov. Sumatera Utara,1221,Kab. Padang Lawas,2010,25000,11.13,1.42,0.27,208891
+12,Prov. Sumatera Utara,1222,Kab. Labuhan Batu Selatan,2010,43400,15.58,2.53,0.64,247824
+12,Prov. Sumatera Utara,1223,Kab. Labuhan Batu Utara,2010,40900,12.32,2.02,0.55,263914
+12,Prov. Sumatera Utara,1224,Kab. Nias Utara,2010,40700,31.9,5.23,1.35,258680
+12,Prov. Sumatera Utara,1225,Kab. Nias Barat,2010,25200,30.89,7.22,2.52,254429
+12,Prov. Sumatera Utara,1271,Kota Sibolga,2007,9000,9.73,1.85,0.5,179033
+12,Prov. Sumatera Utara,1271,Kota Sibolga,2008,16600,17.67,2.46,0.52,224259
+12,Prov. Sumatera Utara,1271,Kota Sibolga,2009,15000,15.82,2.36,0.56,258135
+12,Prov. Sumatera Utara,1271,Kota Sibolga,2010,11700,13.9,1.77,0.36,286825
+12,Prov. Sumatera Utara,1272,Kota Tanjung Balai,2007,18200,11.52,1.51,0.34,178698
+12,Prov. Sumatera Utara,1272,Kota Tanjung Balai,2008,29800,18.35,2.2,0.45,233772
+12,Prov. Sumatera Utara,1272,Kota Tanjung Balai,2009,28300,17.1,3.42,1.06,234091
+12,Prov. Sumatera Utara,1272,Kota Tanjung Balai,2010,25200,16.31,2.65,0.72,259838
+12,Prov. Sumatera Utara,1273,Kota Pematang Siantar,2007,22000,9.46,0.89,0.16,199185
+12,Prov. Sumatera Utara,1273,Kota Pematang Siantar,2008,31600,13.36,2.19,0.54,241238
+12,Prov. Sumatera Utara,1273,Kota Pematang Siantar,2009,29100,12.25,1.53,0.35,285863
+12,Prov. Sumatera Utara,1273,Kota Pematang Siantar,2010,27500,11.72,1.55,0.31,317304
+12,Prov. Sumatera Utara,1274,Kota Tebing Tinggi,2007,13400,9.67,0.93,0.15,189744
+12,Prov. Sumatera Utara,1274,Kota Tebing Tinggi,2008,23100,16.5,2.32,0.53,237294
+12,Prov. Sumatera Utara,1274,Kota Tebing Tinggi,2009,20500,14.58,2.1,0.55,254387
+12,Prov. Sumatera Utara,1274,Kota Tebing Tinggi,2010,19000,13.04,1.87,0.41,282366
+12,Prov. Sumatera Utara,1275,Kota Medan,2007,148100,7.17,1.39,0.35,201330
+12,Prov. Sumatera Utara,1275,Kota Medan,2008,217300,10.43,1.87,0.46,240319
+12,Prov. Sumatera Utara,1275,Kota Medan,2009,200400,9.58,1.4,0.35,297478
+12,Prov. Sumatera Utara,1275,Kota Medan,2010,212300,10.05,1.57,0.42,331659
+12,Prov. Sumatera Utara,1276,Kota Binjai,2007,14000,5.72,0.94,0.19,173323
+12,Prov. Sumatera Utara,1276,Kota Binjai,2008,20300,8.12,1.17,0.3,223697
+12,Prov. Sumatera Utara,1276,Kota Binjai,2009,17900,7.04,1.08,0.21,229639
+12,Prov. Sumatera Utara,1276,Kota Binjai,2010,18100,7.33,1.06,0.27,256025
+12,Prov. Sumatera Utara,1277,Kota Padangsidimpuan,2007,20000,10.92,1.72,0.41,191064
+12,Prov. Sumatera Utara,1277,Kota Padangsidimpuan,2008,21700,11.61,1.95,0.61,228382
+12,Prov. Sumatera Utara,1277,Kota Padangsidimpuan,2009,18500,9.77,1.92,0.55,229921
+12,Prov. Sumatera Utara,1277,Kota Padangsidimpuan,2010,20300,10.53,1.79,0.5,250989
+12,Prov. Sumatera Utara,1278,Kota Gunungsitoli,2010,42600,33.86,11.57,5.06,248577
+13,Prov. Sumatera Barat,1301,Kab. Kepulauan Mentawai,2007,10000,15.99,2,0.38,104192
+13,Prov. Sumatera Barat,1301,Kab. Kepulauan Mentawai,2008,14700,22.86,3.41,0.76,129094
+13,Prov. Sumatera Barat,1301,Kab. Kepulauan Mentawai,2009,13200,20.54,4.82,1.39,165814
+13,Prov. Sumatera Barat,1301,Kab. Kepulauan Mentawai,2010,15100,19.74,5.06,1.77,186381
+13,Prov. Sumatera Barat,1302,Kab. Pesisir Selatan,2007,54600,13.21,1.67,0.32,152190
+13,Prov. Sumatera Barat,1302,Kab. Pesisir Selatan,2008,47300,11.36,1.97,0.61,184077
+13,Prov. Sumatera Barat,1302,Kab. Pesisir Selatan,2009,44300,10.56,1.43,0.33,223328
+13,Prov. Sumatera Barat,1302,Kab. Pesisir Selatan,2010,44000,10.22,1.65,0.48,251029
+13,Prov. Sumatera Barat,1303,Kab. Solok,2007,58500,17.59,3.38,1.08,161746
+13,Prov. Sumatera Barat,1303,Kab. Solok,2008,45000,13.43,2.74,0.8,192928
+13,Prov. Sumatera Barat,1303,Kab. Solok,2009,40800,12.15,1.57,0.32,233097
+13,Prov. Sumatera Barat,1303,Kab. Solok,2010,41000,11.74,1.68,0.42,262010
+13,Prov. Sumatera Barat,1304,Kab. Sijunjung,2007,28800,15.35,1.91,0.42,176492
+13,Prov. Sumatera Barat,1304,Kab. Sijunjung,2008,21900,11.51,2.6,0.73,216938
+13,Prov. Sumatera Barat,1304,Kab. Sijunjung,2009,19000,9.8,1.25,0.27,216968
+13,Prov. Sumatera Barat,1304,Kab. Sijunjung,2010,21100,10.45,2.19,0.7,243880
+13,Prov. Sumatera Barat,1305,Kab. Tanah Datar,2007,24600,7.72,0.77,0.11,162283
+13,Prov. Sumatera Barat,1305,Kab. Tanah Datar,2008,23800,7.52,1.07,0.27,179321
+13,Prov. Sumatera Barat,1305,Kab. Tanah Datar,2009,21800,6.93,0.89,0.18,216986
+13,Prov. Sumatera Barat,1305,Kab. Tanah Datar,2010,23400,6.9,0.86,0.16,243901
+13,Prov. Sumatera Barat,1306,Kab. Padang Pariaman,2007,62500,17.12,3.07,0.87,182772
+13,Prov. Sumatera Barat,1306,Kab. Padang Pariaman,2008,51500,14.15,3.09,0.84,222744
+13,Prov. Sumatera Barat,1306,Kab. Padang Pariaman,2009,45200,12.41,1.82,0.43,231533
+13,Prov. Sumatera Barat,1306,Kab. Padang Pariaman,2010,46300,11.86,1.38,0.26,260252
+13,Prov. Sumatera Barat,1307,Kab. Agam,2007,51100,12.59,1.95,0.45,155561
+13,Prov. Sumatera Barat,1307,Kab. Agam,2008,45300,11.2,1.59,0.33,193185
+13,Prov. Sumatera Barat,1307,Kab. Agam,2009,39700,9.86,1.35,0.26,201074
+13,Prov. Sumatera Barat,1307,Kab. Agam,2010,44900,9.84,1.36,0.3,226015
+13,Prov. Sumatera Barat,1308,Kab. Lima Puluh Kota,2007,46100,14.79,2.18,0.57,163783
+13,Prov. Sumatera Barat,1308,Kab. Lima Puluh Kota,2008,34400,11.01,1.51,0.33,190249
+13,Prov. Sumatera Barat,1308,Kab. Lima Puluh Kota,2009,31100,9.98,1.13,0.2,222435
+13,Prov. Sumatera Barat,1308,Kab. Lima Puluh Kota,2010,36500,10.47,1.98,0.51,250026
+13,Prov. Sumatera Barat,1309,Kab. Pasaman,2007,42800,17.92,2.74,0.64,164333
+13,Prov. Sumatera Barat,1309,Kab. Pasaman,2008,35000,14.44,2.05,0.46,199846
+13,Prov. Sumatera Barat,1309,Kab. Pasaman,2009,30500,12.47,1.99,0.44,202452
+13,Prov. Sumatera Barat,1309,Kab. Pasaman,2010,27800,10.96,1.3,0.27,227564
+13,Prov. Sumatera Barat,1310,Kab. Solok Selatan,2007,21300,17.43,2.3,0.52,165708
+13,Prov. Sumatera Barat,1310,Kab. Solok Selatan,2008,16700,13.41,1.8,0.42,194363
+13,Prov. Sumatera Barat,1310,Kab. Solok Selatan,2009,14600,11.66,1.68,0.35,195997
+13,Prov. Sumatera Barat,1310,Kab. Solok Selatan,2010,16100,11.11,1.33,0.29,220308
+13,Prov. Sumatera Barat,1311,Kab. Dharmas Raya,2007,23800,14.42,2.55,0.74,175577
+13,Prov. Sumatera Barat,1311,Kab. Dharmas Raya,2008,21400,12.53,2.16,0.62,184683
+13,Prov. Sumatera Barat,1311,Kab. Dharmas Raya,2009,19900,11.4,1.87,0.54,229181
+13,Prov. Sumatera Barat,1311,Kab. Dharmas Raya,2010,20300,10.56,1.83,0.5,257608
+13,Prov. Sumatera Barat,1312,Kab. Pasaman Barat,2007,42700,13.76,1.9,0.39,178498
+13,Prov. Sumatera Barat,1312,Kab. Pasaman Barat,2008,34400,10.96,1.75,0.38,205682
+13,Prov. Sumatera Barat,1312,Kab. Pasaman Barat,2009,30400,9.61,1.23,0.25,229667
+13,Prov. Sumatera Barat,1312,Kab. Pasaman Barat,2010,35100,9.59,1.4,0.33,258155
+13,Prov. Sumatera Barat,1371,Kota Padang,2007,39500,4.97,0.41,0.06,197554
+13,Prov. Sumatera Barat,1371,Kota Padang,2008,51700,6.4,0.77,0.15,237999
+13,Prov. Sumatera Barat,1371,Kota Padang,2009,46800,5.72,0.93,0.25,272329
+13,Prov. Sumatera Barat,1371,Kota Padang,2010,52800,6.31,1.1,0.4,306108
+13,Prov. Sumatera Barat,1372,Kota Solok,2007,2500,4.59,0.55,0.11,170082
+13,Prov. Sumatera Barat,1372,Kota Solok,2008,4000,7.32,1.15,0.33,202368
+13,Prov. Sumatera Barat,1372,Kota Solok,2009,3800,6.76,1.04,0.28,247635
+13,Prov. Sumatera Barat,1372,Kota Solok,2010,4200,6.99,1.15,0.37,278351
+13,Prov. Sumatera Barat,1373,Kota Sawah Lunto,2007,1100,2.25,0.24,0.05,138108
+13,Prov. Sumatera Barat,1373,Kota Sawah Lunto,2008,1000,1.94,0.45,0.12,175434
+13,Prov. Sumatera Barat,1373,Kota Sawah Lunto,2009,1200,2.42,0.25,0.05,184976
+13,Prov. Sumatera Barat,1373,Kota Sawah Lunto,2010,1400,2.47,0.19,0.02,207920
+13,Prov. Sumatera Barat,1374,Kota Padang Panjang,2007,2600,5.19,0.52,0.09,177861
+13,Prov. Sumatera Barat,1374,Kota Padang Panjang,2008,4200,8.24,1.15,0.23,214562
+13,Prov. Sumatera Barat,1374,Kota Padang Panjang,2009,4000,7.58,1.08,0.28,244490
+13,Prov. Sumatera Barat,1374,Kota Padang Panjang,2010,3600,7.6,1.06,0.26,274816
+13,Prov. Sumatera Barat,1375,Kota Bukittinggi,2007,5200,5.23,0.92,0.24,213155
+13,Prov. Sumatera Barat,1375,Kota Bukittinggi,2008,7200,7.2,0.83,0.16,245094
+13,Prov. Sumatera Barat,1375,Kota Bukittinggi,2009,6200,6.19,0.91,0.2,257496
+13,Prov. Sumatera Barat,1375,Kota Bukittinggi,2010,7600,6.82,0.69,0.13,289435
+13,Prov. Sumatera Barat,1376,Kota Payakumbuh,2007,7700,7.77,1.31,0.35,182906
+13,Prov. Sumatera Barat,1376,Kota Payakumbuh,2008,10900,10.96,1.71,0.4,220889
+13,Prov. Sumatera Barat,1376,Kota Payakumbuh,2009,10100,10.15,1.6,0.42,257805
+13,Prov. Sumatera Barat,1376,Kota Payakumbuh,2010,12400,10.58,1.58,0.43,289783
+13,Prov. Sumatera Barat,1377,Kota Pariaman,2007,3900,5.87,0.66,0.14,191549
+13,Prov. Sumatera Barat,1377,Kota Pariaman,2008,3500,5.33,0.79,0.19,238384
+13,Prov. Sumatera Barat,1377,Kota Pariaman,2009,3600,5.48,0.84,0.25,239204
+13,Prov. Sumatera Barat,1377,Kota Pariaman,2010,4700,5.9,0.89,0.22,268875
+14,Prov. Riau,1401,Kab. Kuantan Singingi,2007,51700,19.03,3.37,0.92,218852
+14,Prov. Riau,1401,Kab. Kuantan Singingi,2008,47300,16.51,3.84,1.19,242455
+14,Prov. Riau,1401,Kab. Kuantan Singingi,2009,42700,14.42,2.51,0.69,299369
+14,Prov. Riau,1401,Kab. Kuantan Singingi,2010,36700,12.57,2.05,0.47,325060
+14,Prov. Riau,1402,Kab. Indragiri Hulu,2007,47000,14.63,2.38,0.64,201855
+14,Prov. Riau,1402,Kab. Indragiri Hulu,2008,40600,12.05,2.38,0.66,231894
+14,Prov. Riau,1402,Kab. Indragiri Hulu,2009,36000,10.25,1.66,0.43,269484
+14,Prov. Riau,1402,Kab. Indragiri Hulu,2010,32500,8.9,1.23,0.31,292610
+14,Prov. Riau,1403,Kab. Indragiri Hilir,2007,97100,14.57,2.28,0.54,188063
+14,Prov. Riau,1403,Kab. Indragiri Hilir,2008,92400,13.19,2.58,0.71,217031
+14,Prov. Riau,1403,Kab. Indragiri Hilir,2009,80600,11.11,2.07,0.55,219841
+14,Prov. Riau,1403,Kab. Indragiri Hilir,2010,62400,9.41,1.73,0.43,238707
+14,Prov. Riau,1404,Kab. Pelalawan,2007,49600,18.07,3.25,0.94,263948
+14,Prov. Riau,1404,Kab. Pelalawan,2008,54600,18.63,6.23,2.16,286761
+14,Prov. Riau,1404,Kab. Pelalawan,2009,50700,16.71,3.33,1,331024
+14,Prov. Riau,1404,Kab. Pelalawan,2010,44400,14.51,2.68,0.69,359431
+14,Prov. Riau,1405,Kab. Siak,2007,19300,6.01,0.86,0.21,206507
+14,Prov. Riau,1405,Kab. Siak,2008,23900,7.09,0.98,0.23,245192
+14,Prov. Riau,1405,Kab. Siak,2009,20200,5.71,1.01,0.25,247965
+14,Prov. Riau,1405,Kab. Siak,2010,24600,6.49,0.71,0.13,269244
+14,Prov. Riau,1406,Kab. Kampar,2007,64200,10.73,1.91,0.61,219449
+14,Prov. Riau,1406,Kab. Kampar,2008,71600,11.45,2,0.51,241279
+14,Prov. Riau,1406,Kab. Kampar,2009,65600,10.04,2.77,0.53,257508
+14,Prov. Riau,1406,Kab. Kampar,2010,72300,10.47,1.37,0.29,279606
+14,Prov. Riau,1407,Kab. Rokan Hulu,2007,84600,21.86,4.35,1.25,254183
+14,Prov. Riau,1407,Kab. Rokan Hulu,2008,75200,18.05,6.44,2.47,288961
+14,Prov. Riau,1407,Kab. Rokan Hulu,2009,68000,15.49,1.8,0.86,289554
+14,Prov. Riau,1407,Kab. Rokan Hulu,2010,62400,13.03,1.99,0.47,318432
+14,Prov. Riau,1408,Kab. Bengkalis,2007,80000,10.69,1.97,0.55,186670
+14,Prov. Riau,1408,Kab. Bengkalis,2008,69800,8.94,2.08,0.64,255670
+14,Prov. Riau,1408,Kab. Bengkalis,2009,63400,7.91,2.77,0.35,295967
+14,Prov. Riau,1408,Kab. Bengkalis,2010,41300,8.25,1.7,0.52,325485
+14,Prov. Riau,1409,Kab. Rokan Hilir,2007,48700,9.41,1.62,0.44,165850
+14,Prov. Riau,1409,Kab. Rokan Hilir,2008,61300,10.59,1.96,0.58,185264
+14,Prov. Riau,1409,Kab. Rokan Hilir,2009,56000,9.32,1.19,0.38,227571
+14,Prov. Riau,1409,Kab. Rokan Hilir,2010,51700,9.3,1.48,0.4,250267
+14,Prov. Riau,1410,Kab. Kepulauan Meranti,2010,75100,42.56,10.81,3.81,339327
+14,Prov. Riau,1471,Kota Pekanbaru,2007,17700,2.24,0.3,0.06,198631
+14,Prov. Riau,1471,Kota Pekanbaru,2008,29700,3.63,0.52,0.1,241428
+14,Prov. Riau,1471,Kota Pekanbaru,2009,33400,3.92,1.38,0.11,300852
+14,Prov. Riau,1471,Kota Pekanbaru,2010,38200,4.2,0.87,0.29,326670
+14,Prov. Riau,1473,Kota Dumai,2007,14600,6.28,0.86,0.2,223133
+14,Prov. Riau,1473,Kota Dumai,2008,18400,7.42,0.81,0.13,256806
+14,Prov. Riau,1473,Kota Dumai,2009,15700,6.08,0.46,0.15,261859
+14,Prov. Riau,1473,Kota Dumai,2010,16500,6.45,1.07,0.26,287975
+15,Prov. Jambi,1501,Kab. Kerinci,2007,34800,11.3,1.76,0.44,160018
+15,Prov. Jambi,1501,Kab. Kerinci,2008,24100,7.71,1.76,0.56,178622
+15,Prov. Jambi,1501,Kab. Kerinci,2009,22800,7.25,0.75,0.14,203288
+15,Prov. Jambi,1501,Kab. Kerinci,2010,18000,7.83,1.18,0.3,232966
+15,Prov. Jambi,1502,Kab. Merangin,2007,34200,12.1,1.63,0.34,181158
+15,Prov. Jambi,1502,Kab. Merangin,2008,27500,9.5,1.84,0.47,190659
+15,Prov. Jambi,1502,Kab. Merangin,2009,25500,8.65,1.16,0.26,208179
+15,Prov. Jambi,1502,Kab. Merangin,2010,27300,8.07,0.85,0.13,238571
+15,Prov. Jambi,1503,Kab. Sarolangun,2007,33700,16.11,2.46,0.61,220848
+15,Prov. Jambi,1503,Kab. Sarolangun,2008,25200,11.69,4.61,2.02,253474
+15,Prov. Jambi,1503,Kab. Sarolangun,2009,21700,9.85,1.38,0.33,259262
+15,Prov. Jambi,1503,Kab. Sarolangun,2010,23900,9.66,1.61,0.43,297111
+15,Prov. Jambi,1504,Kab. Batang Hari,2007,33100,15.42,2.4,0.58,177632
+15,Prov. Jambi,1504,Kab. Batang Hari,2008,23200,10.49,2.3,0.63,196903
+15,Prov. Jambi,1504,Kab. Batang Hari,2009,22800,10.11,1,0.16,224597
+15,Prov. Jambi,1504,Kab. Batang Hari,2010,24600,10.19,1.18,0.23,257386
+15,Prov. Jambi,1505,Kab. Muaro Jambi,2007,21900,7.13,0.9,0.21,158962
+15,Prov. Jambi,1505,Kab. Muaro Jambi,2008,13700,4.35,0.65,0.15,165606
+15,Prov. Jambi,1505,Kab. Muaro Jambi,2009,14400,4.54,0.56,0.1,182534
+15,Prov. Jambi,1505,Kab. Muaro Jambi,2010,18200,5.29,0.56,0.14,209182
+15,Prov. Jambi,1506,Kab. Tanjung Jabung Timur,2007,28300,13.44,1.96,0.49,158909
+15,Prov. Jambi,1506,Kab. Tanjung Jabung Timur,2008,28800,13.49,2.27,0.54,191981
+15,Prov. Jambi,1506,Kab. Tanjung Jabung Timur,2009,26400,12.21,1.76,0.4,213056
+15,Prov. Jambi,1506,Kab. Tanjung Jabung Timur,2010,25400,12.4,1.22,0.23,244160
+15,Prov. Jambi,1507,Kab. Tanjung Jabung Barat,2007,31600,12.79,1.61,0.34,160161
+15,Prov. Jambi,1507,Kab. Tanjung Jabung Barat,2008,34000,13.43,2.5,0.65,202450
+15,Prov. Jambi,1507,Kab. Tanjung Jabung Barat,2009,30200,11.65,1.66,0.41,202609
+15,Prov. Jambi,1507,Kab. Tanjung Jabung Barat,2010,31000,11.08,2.03,0.67,232188
+15,Prov. Jambi,1508,Kab. Tebo,2007,21700,8.69,1.09,0.23,182438
+15,Prov. Jambi,1508,Kab. Tebo,2008,16200,6.34,0.96,0.19,190657
+15,Prov. Jambi,1508,Kab. Tebo,2009,15900,6.1,0.76,0.21,215442
+15,Prov. Jambi,1508,Kab. Tebo,2010,19200,6.42,0.87,0.17,246894
+15,Prov. Jambi,1509,Kab. Bungo,2007,19600,7.63,1.1,0.25,157134
+15,Prov. Jambi,1509,Kab. Bungo,2008,13700,5.12,1.18,0.35,162179
+15,Prov. Jambi,1509,Kab. Bungo,2009,14600,5.32,0.75,0.17,195773
+15,Prov. Jambi,1509,Kab. Bungo,2010,17300,5.7,0.7,0.17,224354
+15,Prov. Jambi,1571,Kota Jambi,2007,23200,5.04,0.85,0.21,161089
+15,Prov. Jambi,1571,Kota Jambi,2008,54900,11.63,1.91,0.6,231149
+15,Prov. Jambi,1571,Kota Jambi,2009,50700,10.54,1.17,0.22,254649
+15,Prov. Jambi,1571,Kota Jambi,2010,52600,9.9,1.86,0.49,291825
+15,Prov. Jambi,1572,Kota Sungai Penuh,2010,3000,3.64,0.46,0.11,225456
+16,Prov. Sumatera Selatan,1601,Kab. Ogan Komering Ulu,2007,40600,15.69,1.83,0.32,168892
+16,Prov. Sumatera Selatan,1601,Kab. Ogan Komering Ulu,2008,38600,14.64,2.92,0.76,189810
+16,Prov. Sumatera Selatan,1601,Kab. Ogan Komering Ulu,2009,35100,13.17,1.9,0.43,236085
+16,Prov. Sumatera Selatan,1601,Kab. Ogan Komering Ulu,2010,39900,12.28,2.03,0.5,253307
+16,Prov. Sumatera Selatan,1602,Kab. Ogan Komering Ilir,2007,152700,22.5,3.8,0.94,162533
+16,Prov. Sumatera Selatan,1602,Kab. Ogan Komering Ilir,2008,122700,17.67,3.25,0.83,173700
+16,Prov. Sumatera Selatan,1602,Kab. Ogan Komering Ilir,2009,114200,16.17,2.43,0.6,199024
+16,Prov. Sumatera Selatan,1602,Kab. Ogan Komering Ilir,2010,116500,15.98,2.97,0.78,213543
+16,Prov. Sumatera Selatan,1603,Kab. Muara Enim,2007,128500,19.87,2.57,0.45,182844
+16,Prov. Sumatera Selatan,1603,Kab. Muara Enim,2008,118400,17.98,3.45,0.84,210095
+16,Prov. Sumatera Selatan,1603,Kab. Muara Enim,2009,106400,15.96,1.96,0.35,210454
+16,Prov. Sumatera Selatan,1603,Kab. Muara Enim,2010,104500,14.51,1.74,0.33,225807
+16,Prov. Sumatera Selatan,1604,Kab. Lahat,2007,94900,28.09,4.19,0.99,182003
+16,Prov. Sumatera Selatan,1604,Kab. Lahat,2008,78700,23.21,6.67,2.47,208836
+16,Prov. Sumatera Selatan,1604,Kab. Lahat,2009,71300,20.98,3.8,1.11,242534
+16,Prov. Sumatera Selatan,1604,Kab. Lahat,2010,70500,19.02,3.58,1,260227
+16,Prov. Sumatera Selatan,1605,Kab. Musi Rawas,2007,160300,32.93,5.75,1.48,206649
+16,Prov. Sumatera Selatan,1605,Kab. Musi Rawas,2008,120700,24.27,6.12,1.65,220070
+16,Prov. Sumatera Selatan,1605,Kab. Musi Rawas,2009,108000,21.4,3.14,0.76,250018
+16,Prov. Sumatera Selatan,1605,Kab. Musi Rawas,2010,102000,19.38,3.4,0.97,268257
+16,Prov. Sumatera Selatan,1606,Kab. Musi Banyuasin,2007,165600,33.6,5.61,1.4,213120
+16,Prov. Sumatera Selatan,1606,Kab. Musi Banyuasin,2008,129500,25.45,7.87,2.61,238773
+16,Prov. Sumatera Selatan,1606,Kab. Musi Banyuasin,2009,118900,22.76,4.05,1.03,257055
+16,Prov. Sumatera Selatan,1606,Kab. Musi Banyuasin,2010,113400,20.06,2.65,0.52,275807
+16,Prov. Sumatera Selatan,1607,Kab. Banyu Asin,2007,136800,17.72,2.55,0.61,171338
+16,Prov. Sumatera Selatan,1607,Kab. Banyu Asin,2008,122400,15.38,3.67,1.14,212328
+16,Prov. Sumatera Selatan,1607,Kab. Banyu Asin,2009,112100,13.72,1.99,0.44,219424
+16,Prov. Sumatera Selatan,1607,Kab. Banyu Asin,2010,93000,12.39,1.65,0.37,235431
+16,Prov. Sumatera Selatan,1608,Kab. Ogan Komering Ulu Selatan,2007,61200,18.96,2.27,0.45,151093
+16,Prov. Sumatera Selatan,1608,Kab. Ogan Komering Ulu Selatan,2008,47700,14.56,2.82,0.69,162100
+16,Prov. Sumatera Selatan,1608,Kab. Ogan Komering Ulu Selatan,2009,42100,12.73,1.88,0.42,185711
+16,Prov. Sumatera Selatan,1608,Kab. Ogan Komering Ulu Selatan,2010,36700,11.53,2.11,0.65,199259
+16,Prov. Sumatera Selatan,1609,Kab. Ogan Komering Ulu Timur,2007,90700,16.03,2.02,0.43,162262
+16,Prov. Sumatera Selatan,1609,Kab. Ogan Komering Ulu Timur,2008,69600,12.12,2.75,0.8,177015
+16,Prov. Sumatera Selatan,1609,Kab. Ogan Komering Ulu Timur,2009,57700,9.95,2.05,0.62,178230
+16,Prov. Sumatera Selatan,1609,Kab. Ogan Komering Ulu Timur,2010,59900,9.81,1.6,0.36,191232
+16,Prov. Sumatera Selatan,1610,Kab. Ogan Ilir,2007,79600,21.57,2.42,0.44,197403
+16,Prov. Sumatera Selatan,1610,Kab. Ogan Ilir,2008,67100,17.78,3.88,1.11,205432
+16,Prov. Sumatera Selatan,1610,Kab. Ogan Ilir,2009,60100,15.65,2.32,0.52,235867
+16,Prov. Sumatera Selatan,1610,Kab. Ogan Ilir,2010,53400,13.97,1.88,0.38,253074
+16,Prov. Sumatera Selatan,1611,Kab. Empat Lawang,2007,49700,23.5,3.89,0.99,175268
+16,Prov. Sumatera Selatan,1611,Kab. Empat Lawang,2008,39100,18.37,3.02,0.71,185394
+16,Prov. Sumatera Selatan,1611,Kab. Empat Lawang,2009,33700,15.8,2.89,0.91,187578
+16,Prov. Sumatera Selatan,1611,Kab. Empat Lawang,2010,32600,14.73,2.4,0.64,201262
+16,Prov. Sumatera Selatan,1671,Kota Palembang,2007,124400,8.98,1.46,0.37,188046
+16,Prov. Sumatera Selatan,1671,Kota Palembang,2008,235300,16.66,3.09,0.87,244223
+16,Prov. Sumatera Selatan,1671,Kota Palembang,2009,211800,14.75,2.39,0.63,294174
+16,Prov. Sumatera Selatan,1671,Kota Palembang,2010,218600,15,2.67,0.74,315634
+16,Prov. Sumatera Selatan,1672,Kota Prabumulih,2007,10000,7.57,0.92,0.2,176460
+16,Prov. Sumatera Selatan,1672,Kota Prabumulih,2008,20900,15.39,2.96,0.81,240418
+16,Prov. Sumatera Selatan,1672,Kota Prabumulih,2009,19100,13.93,2.06,0.58,296865
+16,Prov. Sumatera Selatan,1672,Kota Prabumulih,2010,21000,12.93,1.93,0.47,318521
+16,Prov. Sumatera Selatan,1673,Kota Pagar Alam,2007,11200,9.75,1.46,0.34,137667
+16,Prov. Sumatera Selatan,1673,Kota Pagar Alam,2008,11800,10.23,1.79,0.4,163329
+16,Prov. Sumatera Selatan,1673,Kota Pagar Alam,2009,11200,9.66,1.32,0.33,199053
+16,Prov. Sumatera Selatan,1673,Kota Pagar Alam,2010,12400,9.81,1.11,0.22,213574
+16,Prov. Sumatera Selatan,1674,Kota Lubuklinggau,2007,25600,14.25,2.21,0.47,183984
+16,Prov. Sumatera Selatan,1674,Kota Lubuklinggau,2008,31800,17.36,3.82,1.25,265922
+16,Prov. Sumatera Selatan,1674,Kota Lubuklinggau,2009,28100,15.12,2.46,0.61,268986
+16,Prov. Sumatera Selatan,1674,Kota Lubuklinggau,2010,30900,15.3,3.12,0.96,288609
+17,Prov. Bengkulu,1701,Kab. Bengkulu Selatan,2007,50000,35.24,6.85,1.95,152335
+17,Prov. Bengkulu,1701,Kab. Bengkulu Selatan,2008,40400,27.53,7.19,2.41,178157
+17,Prov. Bengkulu,1701,Kab. Bengkulu Selatan,2009,37700,37.7,5.19,1.63,210781
+17,Prov. Bengkulu,1701,Kab. Bengkulu Selatan,2010,32400,22.62,3.64,0.9,238642
+17,Prov. Bengkulu,1702,Kab. Rejang Lebong,2007,42600,16.38,2.17,0.49,172551
+17,Prov. Bengkulu,1702,Kab. Rejang Lebong,2008,45000,16.94,3.94,1.2,238072
+17,Prov. Bengkulu,1702,Kab. Rejang Lebong,2009,42800,42.8,2.55,0.6,239407
+17,Prov. Bengkulu,1702,Kab. Rejang Lebong,2010,37300,15.11,2.68,0.69,271051
+17,Prov. Bengkulu,1703,Kab. Bengkulu Utara,2007,80300,22.74,4.09,1.07,171744
+17,Prov. Bengkulu,1703,Kab. Bengkulu Utara,2008,59100,16.43,2.95,0.78,177042
+17,Prov. Bengkulu,1703,Kab. Bengkulu Utara,2009,58700,58.7,2.1,0.47,207952
+17,Prov. Bengkulu,1703,Kab. Bengkulu Utara,2010,38300,14.75,2.35,0.52,235439
+17,Prov. Bengkulu,1704,Kab. Kaur,2007,44500,38.18,5.6,1.3,148526
+17,Prov. Bengkulu,1704,Kab. Kaur,2008,31400,26.01,4.48,1.17,159641
+17,Prov. Bengkulu,1704,Kab. Kaur,2009,29100,29.1,4.93,1.46,189746
+17,Prov. Bengkulu,1704,Kab. Kaur,2010,22900,21.22,3.86,1.06,214826
+17,Prov. Bengkulu,1705,Kab. Seluma,2007,60900,36.45,7.38,2.09,184488
+17,Prov. Bengkulu,1705,Kab. Seluma,2008,42500,24.74,6.31,1.75,210229
+17,Prov. Bengkulu,1705,Kab. Seluma,2009,40100,40.1,4.67,1.37,216250
+17,Prov. Bengkulu,1705,Kab. Seluma,2010,36100,20.81,3.36,0.82,244833
+17,Prov. Bengkulu,1706,Kab. Mukomuko,2007,28700,20.06,3.3,0.88,174677
+17,Prov. Bengkulu,1706,Kab. Mukomuko,2008,23500,15.76,2.53,0.57,183293
+17,Prov. Bengkulu,1706,Kab. Mukomuko,2009,23600,23.6,2.71,0.75,215021
+17,Prov. Bengkulu,1706,Kab. Mukomuko,2010,22100,14.06,2.65,0.63,243442
+17,Prov. Bengkulu,1707,Kab. Lebong,2007,16700,18.08,2.57,0.57,155040
+17,Prov. Bengkulu,1707,Kab. Lebong,2008,13700,14.33,2.7,0.67,173299
+17,Prov. Bengkulu,1707,Kab. Lebong,2009,13600,13.6,1.91,0.44,197915
+17,Prov. Bengkulu,1707,Kab. Lebong,2010,12700,13.01,2.06,0.46,224075
+17,Prov. Bengkulu,1708,Kab. Kepahiang,2007,21200,17.55,2.48,0.56,163052
+17,Prov. Bengkulu,1708,Kab. Kepahiang,2008,21000,17.03,2.39,0.5,176807
+17,Prov. Bengkulu,1708,Kab. Kepahiang,2009,20700,20.7,2.36,0.6,203162
+17,Prov. Bengkulu,1708,Kab. Kepahiang,2010,18500,14.78,2.36,0.51,230015
+17,Prov. Bengkulu,1709,Kab. Bengkulu Tengah,2010,6300,6.42,0.7,0.13,246771
+17,Prov. Bengkulu,1771,Kota Bengkulu,2007,25700,9.2,1.49,0.34,193546
+17,Prov. Bengkulu,1771,Kota Bengkulu,2008,52200,18.16,3.6,1.09,257536
+17,Prov. Bengkulu,1771,Kota Bengkulu,2009,51500,51.5,3.34,1.01,325600
+17,Prov. Bengkulu,1771,Kota Bengkulu,2010,54800,17.69,3.3,0.94,368637
+18,Prov. Lampung,1801,Kab. Lampung Barat,2007,96700,24.77,4.09,1.07,156280
+18,Prov. Lampung,1801,Kab. Lampung Barat,2008,86100,21.74,4.43,1.22,171768
+18,Prov. Lampung,1801,Kab. Lampung Barat,2009,79500,19.13,3.75,1.09,211568
+18,Prov. Lampung,1801,Kab. Lampung Barat,2010,71800,17.12,2.6,0.71,237660
+18,Prov. Lampung,1802,Kab. Tanggamus,2007,188200,22.17,3.74,0.97,154645
+18,Prov. Lampung,1802,Kab. Tanggamus,2008,179300,20.91,4.19,1.2,169690
+18,Prov. Lampung,1802,Kab. Tanggamus,2009,174900,19.79,3.54,0.96,198076
+18,Prov. Lampung,1802,Kab. Tanggamus,2010,98100,18.3,2.66,0.64,222504
+18,Prov. Lampung,1803,Kab. Lampung Selatan,2007,371800,26.94,5.16,1.39,154976
+18,Prov. Lampung,1803,Kab. Lampung Selatan,2008,351200,24.72,5.6,1.67,186242
+18,Prov. Lampung,1803,Kab. Lampung Selatan,2009,222500,22.83,4.57,1.31,202179
+18,Prov. Lampung,1803,Kab. Lampung Selatan,2010,188000,20.61,3.41,0.88,227113
+18,Prov. Lampung,1804,Kab. Lampung Timur,2007,261900,27.21,4.81,1.22,180012
+18,Prov. Lampung,1804,Kab. Lampung Timur,2008,228400,23.35,5.76,1.66,201239
+18,Prov. Lampung,1804,Kab. Lampung Timur,2009,206300,20.86,3.26,0.85,202700
+18,Prov. Lampung,1804,Kab. Lampung Timur,2010,200400,21.06,3.41,0.79,227698
+18,Prov. Lampung,1805,Kab. Lampung Tengah,2007,263000,22.06,3.61,0.96,163694
+18,Prov. Lampung,1805,Kab. Lampung Tengah,2008,242000,19.89,3.81,1.1,172667
+18,Prov. Lampung,1805,Kab. Lampung Tengah,2009,230700,18.67,3.18,0.88,212964
+18,Prov. Lampung,1805,Kab. Lampung Tengah,2010,197800,16.88,2.46,0.6,239228
+18,Prov. Lampung,1806,Kab. Lampung Utara,2007,185300,32.16,5.49,1.42,164829
+18,Prov. Lampung,1806,Kab. Lampung Utara,2008,182900,31.24,6.49,1.72,197195
+18,Prov. Lampung,1806,Kab. Lampung Utara,2009,171000,28.96,4.99,1.39,215244
+18,Prov. Lampung,1806,Kab. Lampung Utara,2010,164800,28.19,5.42,1.57,241789
+18,Prov. Lampung,1807,Kab. Way Kanan,2007,96800,25.96,4.08,1,144223
+18,Prov. Lampung,1807,Kab. Way Kanan,2008,84100,22.34,4.78,1.37,159311
+18,Prov. Lampung,1807,Kab. Way Kanan,2009,79200,20.92,3.24,0.84,185827
+18,Prov. Lampung,1807,Kab. Way Kanan,2010,76700,18.81,3.05,0.93,208744
+18,Prov. Lampung,1808,Kab. Tulangbawang,2007,103600,13.03,2,0.47,156265
+18,Prov. Lampung,1808,Kab. Tulangbawang,2008,90900,11.17,2.04,0.5,165055
+18,Prov. Lampung,1808,Kab. Tulangbawang,2009,86800,10.48,1.6,0.41,198679
+18,Prov. Lampung,1808,Kab. Tulangbawang,2010,43100,10.8,1.55,0.34,223181
+18,Prov. Lampung,1809,Kab. Pesawaran,2009,100900,22.73,3.77,0.99,201750
+18,Prov. Lampung,1809,Kab. Pesawaran,2010,81500,20.48,4.03,1.1,226631
+18,Prov. Lampung,1810,Kab. Pringsewu,2010,45500,12.45,2.36,0.68,237868
+18,Prov. Lampung,1811,Kab. Mesuji,2010,16200,8.65,1.06,0.19,228027
+18,Prov. Lampung,1812,Kab. Tulangbawang Barat,2010,19100,7.63,1.35,0.32,226563
+18,Prov. Lampung,1871,Kota Bandar Lampung,2007,78800,9.44,1.14,0.21,202474
+18,Prov. Lampung,1871,Kota Bandar Lampung,2008,130900,15.41,2.96,0.74,239808
+18,Prov. Lampung,1871,Kota Bandar Lampung,2009,123900,14.39,2.1,0.48,283496
+18,Prov. Lampung,1871,Kota Bandar Lampung,2010,128600,14.58,2.99,0.97,318458
+18,Prov. Lampung,1872,Kota Metro,2007,15500,11.53,2.33,0.64,149345
+18,Prov. Lampung,1872,Kota Metro,2008,22100,15.91,3.34,1.04,168835
+18,Prov. Lampung,1872,Kota Metro,2009,21200,15.07,3.27,1.07,197240
+18,Prov. Lampung,1872,Kota Metro,2010,20100,13.77,2.46,0.72,221565
+19,Prov. Kepulauan Bangka Belitung,1901,Kab. Bangka,2007,25200,10.53,1.33,0.25,221655
+19,Prov. Kepulauan Bangka Belitung,1901,Kab. Bangka,2008,21600,8.79,1.39,0.37,243483
+19,Prov. Kepulauan Bangka Belitung,1901,Kab. Bangka,2009,19000,7.61,1.56,0.45,254400
+19,Prov. Kepulauan Bangka Belitung,1901,Kab. Bangka,2010,21700,7.81,0.92,0.19,280069
+19,Prov. Kepulauan Bangka Belitung,1902,Kab. Belitung,2007,14200,11.59,1.48,0.31,269924
+19,Prov. Kepulauan Bangka Belitung,1902,Kab. Belitung,2008,13300,10.62,1.97,0.43,293222
+19,Prov. Kepulauan Bangka Belitung,1902,Kab. Belitung,2009,12400,9.78,1.56,0.43,334165
+19,Prov. Kepulauan Bangka Belitung,1902,Kab. Belitung,2010,15900,10.13,1.25,0.25,367883
+19,Prov. Kepulauan Bangka Belitung,1903,Kab. Bangka Barat,2007,10500,7.41,0.63,0.1,206514
+19,Prov. Kepulauan Bangka Belitung,1903,Kab. Bangka Barat,2008,7400,5.18,0.7,0.23,225307
+19,Prov. Kepulauan Bangka Belitung,1903,Kab. Bangka Barat,2009,7600,5.22,1.04,0.31,246853
+19,Prov. Kepulauan Bangka Belitung,1903,Kab. Bangka Barat,2010,9200,5.25,1.09,0.3,271761
+19,Prov. Kepulauan Bangka Belitung,1904,Kab. Bangka Tengah,2007,13400,10.36,1.59,0.39,258815
+19,Prov. Kepulauan Bangka Belitung,1904,Kab. Bangka Tengah,2008,11200,8.52,1.42,0.25,281739
+19,Prov. Kepulauan Bangka Belitung,1904,Kab. Bangka Tengah,2009,10400,7.84,1.01,0.23,311419
+19,Prov. Kepulauan Bangka Belitung,1904,Kab. Bangka Tengah,2010,13100,8.07,1.07,0.27,342841
+19,Prov. Kepulauan Bangka Belitung,1905,Kab. Bangka Selatan,2007,9600,6.71,1.28,0.48,208921
+19,Prov. Kepulauan Bangka Belitung,1905,Kab. Bangka Selatan,2008,8200,5.6,0.84,0.23,213756
+19,Prov. Kepulauan Bangka Belitung,1905,Kab. Bangka Selatan,2009,8900,6.04,0.8,0.23,249001
+19,Prov. Kepulauan Bangka Belitung,1905,Kab. Bangka Selatan,2010,10700,6.18,1.01,0.23,274125
+19,Prov. Kepulauan Bangka Belitung,1906,Kab. Belitung Timur,2007,12600,15.58,2.71,0.77,250523
+19,Prov. Kepulauan Bangka Belitung,1906,Kab. Belitung Timur,2008,10400,12.61,2.6,0.7,289369
+19,Prov. Kepulauan Bangka Belitung,1906,Kab. Belitung Timur,2009,9300,11.07,1.61,0.45,305974
+19,Prov. Kepulauan Bangka Belitung,1906,Kab. Belitung Timur,2010,11100,10.36,1.42,0.32,336847
+19,Prov. Kepulauan Bangka Belitung,1971,Kota Pangkal Pinang,2007,9600,6.85,0.52,0.09,234580
+19,Prov. Kepulauan Bangka Belitung,1971,Kota Pangkal Pinang,2008,8200,5.74,1.05,0.3,262302
+19,Prov. Kepulauan Bangka Belitung,1971,Kota Pangkal Pinang,2009,8400,5.79,0.92,0.22,303694
+19,Prov. Kepulauan Bangka Belitung,1971,Kota Pangkal Pinang,2010,10600,6.02,0.92,0.21,334337
+21,Prov. Kepulauan Riau,2101,Kab. Karimun,2007,19400,8.69,0.88,0.18,174936
+21,Prov. Kepulauan Riau,2101,Kab. Karimun,2008,20900,7.29,1.15,0.34,236708
+21,Prov. Kepulauan Riau,2101,Kab. Karimun,2009,15500,6.48,0.81,0.17,237250
+21,Prov. Kepulauan Riau,2101,Kab. Karimun,2010,15400,7.21,0.85,0.14,254789
+21,Prov. Kepulauan Riau,2102,Kab. Bintan,2007,14700,11.73,1.85,0.44,208350
+21,Prov. Kepulauan Riau,2102,Kab. Bintan,2008,13600,7.61,0.79,0.16,251976
+21,Prov. Kepulauan Riau,2102,Kab. Bintan,2009,9200,7.01,1.23,0.31,260143
+21,Prov. Kepulauan Riau,2102,Kab. Bintan,2010,10500,7.33,1.34,0.39,274721
+21,Prov. Kepulauan Riau,2103,Kab. Natuna,2007,8400,8.74,1.34,0.39,127742
+21,Prov. Kepulauan Riau,2103,Kab. Natuna,2008,9000,4.83,1.4,0.46,172104
+21,Prov. Kepulauan Riau,2103,Kab. Natuna,2009,4400,4.35,0.57,0.11,205825
+21,Prov. Kepulauan Riau,2103,Kab. Natuna,2010,3400,4.83,0.71,0.17,217359
+21,Prov. Kepulauan Riau,2104,Kab. Lingga,2007,26900,30.06,5.94,1.87,237538
+21,Prov. Kepulauan Riau,2104,Kab. Lingga,2008,28800,18.19,4.73,1.53,282552
+21,Prov. Kepulauan Riau,2104,Kab. Lingga,2009,15400,16.36,2.78,0.77,289115
+21,Prov. Kepulauan Riau,2104,Kab. Lingga,2010,13600,15.81,3.16,1,310489
+21,Prov. Kepulauan Riau,2105,Kab. Kepulauan Anambas,2010,1800,4.8,0.81,0.2,245079
+21,Prov. Kepulauan Riau,2171,Kota Batam,2007,55300,8,2.04,0.96,255845
+21,Prov. Kepulauan Riau,2171,Kota Batam,2008,41400,7.22,1.42,0.36,316740
+21,Prov. Kepulauan Riau,2171,Kota Batam,2009,54800,6.76,1.55,0.52,374186
+21,Prov. Kepulauan Riau,2171,Kota Batam,2010,69700,7.26,1.06,0.25,401849
+21,Prov. Kepulauan Riau,2172,Kota Tanjung Pinang,2007,23700,12.92,2.79,0.98,294233
+21,Prov. Kepulauan Riau,2172,Kota Tanjung Pinang,2008,18100,14.3,4.14,1.31,363831
+21,Prov. Kepulauan Riau,2172,Kota Tanjung Pinang,2009,26000,13.42,2.56,0.75,412718
+21,Prov. Kepulauan Riau,2172,Kota Tanjung Pinang,2010,23800,12.6,2.58,0.92,435847
+31,Prov. DKI Jakarta,3101,Kab. Kepulauan Seribu,2007,2900,15.12,2.48,0.53,292173
+31,Prov. DKI Jakarta,3101,Kab. Kepulauan Seribu,2008,2600,13.56,2.05,0.44,314358
+31,Prov. DKI Jakarta,3101,Kab. Kepulauan Seribu,2009,2400,12.66,1.71,0.42,345993
+31,Prov. DKI Jakarta,3101,Kab. Kepulauan Seribu,2010,2700,13.01,0.91,0.17,368913
+31,Prov. DKI Jakarta,3171,Kab. Kodya Jakarta Selatan,2007,76300,3.74,0.81,0.27,293628
+31,Prov. DKI Jakarta,3171,Kab. Kodya Jakarta Selatan,2008,71100,3.41,0.64,0.15,334173
+31,Prov. DKI Jakarta,3171,Kab. Kodya Jakarta Selatan,2009,73700,3.52,0.43,0.09,372659
+31,Prov. DKI Jakarta,3171,Kab. Kodya Jakarta Selatan,2010,78600,3.81,0.67,0.18,397415
+31,Prov. DKI Jakarta,3172,Kab. Kodya Jakarta Timur,2007,94600,4.02,0.65,0.17,248622
+31,Prov. DKI Jakarta,3172,Kab. Kodya Jakarta Timur,2008,79800,3.39,0.48,0.12,303390
+31,Prov. DKI Jakarta,3172,Kab. Kodya Jakarta Timur,2009,81200,3.42,0.49,0.11,305674
+31,Prov. DKI Jakarta,3172,Kab. Kodya Jakarta Timur,2010,91700,3.41,0.41,0.07,325980
+31,Prov. DKI Jakarta,3173,Kab. Kodya Jakarta Pusat,2007,34500,3.99,1.01,0.31,230452
+31,Prov. DKI Jakarta,3173,Kab. Kodya Jakarta Pusat,2008,31000,3.58,0.44,0.09,262251
+31,Prov. DKI Jakarta,3173,Kab. Kodya Jakarta Pusat,2009,32100,3.68,0.67,0.19,322184
+31,Prov. DKI Jakarta,3173,Kab. Kodya Jakarta Pusat,2010,35700,3.97,0.85,0.31,343587
+31,Prov. DKI Jakarta,3174,Kab. Kodya Jakarta Barat,2007,85200,4.04,0.44,0.08,232735
+31,Prov. DKI Jakarta,3174,Kab. Kodya Jakarta Barat,2008,72900,3.41,0.49,0.1,275759
+31,Prov. DKI Jakarta,3174,Kab. Kodya Jakarta Barat,2009,74000,3.44,0.36,0.06,300134
+31,Prov. DKI Jakarta,3174,Kab. Kodya Jakarta Barat,2010,87200,3.81,0.62,0.18,320072
+31,Prov. DKI Jakarta,3175,Kab. Kodya Jakarta Utara,2007,112200,7.95,1.2,0.28,240830
+31,Prov. DKI Jakarta,3175,Kab. Kodya Jakarta Utara,2008,85200,6.02,0.87,0.2,292656
+31,Prov. DKI Jakarta,3175,Kab. Kodya Jakarta Utara,2009,76200,5.34,0.85,0.25,296947
+31,Prov. DKI Jakarta,3175,Kab. Kodya Jakarta Utara,2010,92700,5.62,0.92,0.26,316673
+32,Prov. Jawa Barat,3201,Kab. Bogor,2007,519500,13.1,2.53,0.71,152483
+32,Prov. Jawa Barat,3201,Kab. Bogor,2008,491400,12.11,3.23,1.04,173281
+32,Prov. Jawa Barat,3201,Kab. Bogor,2009,446000,10.81,1.69,0.38,197319
+32,Prov. Jawa Barat,3201,Kab. Bogor,2010,477200,9.97,1.67,0.43,214338
+32,Prov. Jawa Barat,3202,Kab. Sukabumi,2007,352300,15.98,3,0.85,145733
+32,Prov. Jawa Barat,3202,Kab. Sukabumi,2008,296400,13.26,3.23,0.95,157804
+32,Prov. Jawa Barat,3202,Kab. Sukabumi,2009,265500,11.78,1.51,0.31,174793
+32,Prov. Jawa Barat,3202,Kab. Sukabumi,2010,249600,10.65,1.38,0.3,184127
+32,Prov. Jawa Barat,3203,Kab. Cianjur,2007,394600,18.49,2.38,0.46,152748
+32,Prov. Jawa Barat,3203,Kab. Cianjur,2008,334300,15.38,3.55,1.17,162645
+32,Prov. Jawa Barat,3203,Kab. Cianjur,2009,311100,14.14,1.66,0.32,192176
+32,Prov. Jawa Barat,3203,Kab. Cianjur,2010,311000,14.32,1.85,0.38,202438
+32,Prov. Jawa Barat,3204,Kab. Bandung,2007,365300,13.14,2.12,0.52,167065
+32,Prov. Jawa Barat,3204,Kab. Bandung,2008,267100,9.42,2.27,0.71,189998
+32,Prov. Jawa Barat,3204,Kab. Bandung,2009,238800,8.29,1.14,0.26,203702
+32,Prov. Jawa Barat,3204,Kab. Bandung,2010,296300,9.29,1.14,0.24,217452
+32,Prov. Jawa Barat,3205,Kab. Garut,2007,435500,19.31,2.66,0.56,134031
+32,Prov. Jawa Barat,3205,Kab. Garut,2008,410600,17.87,4.24,1.22,154245
+32,Prov. Jawa Barat,3205,Kab. Garut,2009,365400,15.7,2.17,0.46,167190
+32,Prov. Jawa Barat,3205,Kab. Garut,2010,335600,13.94,1.8,0.34,180406
+32,Prov. Jawa Barat,3206,Kab. Tasikmalaya,2007,302400,18.15,2.8,0.71,138129
+32,Prov. Jawa Barat,3206,Kab. Tasikmalaya,2008,250200,14.7,3.26,0.92,137271
+32,Prov. Jawa Barat,3206,Kab. Tasikmalaya,2009,233200,13.5,2.14,0.62,172491
+32,Prov. Jawa Barat,3206,Kab. Tasikmalaya,2010,214600,12.78,1.7,0.36,186126
+32,Prov. Jawa Barat,3207,Kab. Ciamis,2007,213100,13.94,2.23,0.51,165414
+32,Prov. Jawa Barat,3207,Kab. Ciamis,2008,190500,12.32,2.22,0.52,163495
+32,Prov. Jawa Barat,3207,Kab. Ciamis,2009,174500,11.23,1.88,0.52,193652
+32,Prov. Jawa Barat,3207,Kab. Ciamis,2010,158500,10.34,1.62,0.4,208960
+32,Prov. Jawa Barat,3208,Kab. Kuningan,2007,187700,17.58,2.87,0.87,163317
+32,Prov. Jawa Barat,3208,Kab. Kuningan,2008,182000,16.75,2.9,0.75,160274
+32,Prov. Jawa Barat,3208,Kab. Kuningan,2009,174800,15.91,1.97,0.43,183795
+32,Prov. Jawa Barat,3208,Kab. Kuningan,2010,152400,14.68,1.75,0.34,200171
+32,Prov. Jawa Barat,3209,Kab. Cirebon,2007,398000,19.07,4.49,1.64,170979
+32,Prov. Jawa Barat,3209,Kab. Cirebon,2008,429700,20.25,3.27,0.79,199046
+32,Prov. Jawa Barat,3209,Kab. Cirebon,2009,390500,18.22,3.05,0.81,211501
+32,Prov. Jawa Barat,3209,Kab. Cirebon,2010,333300,16.12,2.45,0.58,230346
+32,Prov. Jawa Barat,3210,Kab. Majalengka,2007,234400,19.77,3.08,0.7,210295
+32,Prov. Jawa Barat,3210,Kab. Majalengka,2008,225700,18.79,5.7,1.86,210526
+32,Prov. Jawa Barat,3210,Kab. Majalengka,2009,207200,17.12,2.19,0.48,241830
+32,Prov. Jawa Barat,3210,Kab. Majalengka,2010,181100,15.51,2.55,0.67,263377
+32,Prov. Jawa Barat,3211,Kab. Sumedang,2007,161800,15.63,2.5,0.62,184226
+32,Prov. Jawa Barat,3211,Kab. Sumedang,2008,159700,15.18,2.97,0.8,186166
+32,Prov. Jawa Barat,3211,Kab. Sumedang,2009,145300,13.69,2.28,0.63,216053
+32,Prov. Jawa Barat,3211,Kab. Sumedang,2010,141400,12.94,1.93,0.47,230637
+32,Prov. Jawa Barat,3212,Kab. Indramayu,2007,361700,20.96,2.97,0.66,194069
+32,Prov. Jawa Barat,3212,Kab. Indramayu,2008,347000,19.75,6.44,2.22,212616
+32,Prov. Jawa Barat,3212,Kab. Indramayu,2009,319500,17.99,2.32,0.46,242931
+32,Prov. Jawa Barat,3212,Kab. Indramayu,2010,276000,16.58,2.24,0.51,264576
+32,Prov. Jawa Barat,3213,Kab. Subang,2007,235800,16.84,2.53,0.62,197500
+32,Prov. Jawa Barat,3213,Kab. Subang,2008,215000,15.15,3.29,0.82,184075
+32,Prov. Jawa Barat,3213,Kab. Subang,2009,201800,14.13,2.61,0.79,219956
+32,Prov. Jawa Barat,3213,Kab. Subang,2010,198300,13.54,2.22,0.52,234803
+32,Prov. Jawa Barat,3214,Kab. Purwakarta,2007,114500,14.7,2.58,0.7,177322
+32,Prov. Jawa Barat,3214,Kab. Purwakarta,2008,92500,11.61,2.08,0.56,173986
+32,Prov. Jawa Barat,3214,Kab. Purwakarta,2009,84700,10.48,1.74,0.43,211820
+32,Prov. Jawa Barat,3214,Kab. Purwakarta,2010,90300,10.57,1.99,0.55,226118
+32,Prov. Jawa Barat,3215,Kab. Karawang,2007,294400,14.83,2.29,0.59,190712
+32,Prov. Jawa Barat,3215,Kab. Karawang,2008,283400,14,2.34,0.48,187037
+32,Prov. Jawa Barat,3215,Kab. Karawang,2009,264800,12.9,2.19,0.58,239832
+32,Prov. Jawa Barat,3215,Kab. Karawang,2010,260300,12.21,2.46,0.78,266597
+32,Prov. Jawa Barat,3216,Kab. Bekasi,2007,141700,6.66,1.19,0.35,185900
+32,Prov. Jawa Barat,3216,Kab. Bekasi,2008,130400,5.89,1.19,0.3,191737
+32,Prov. Jawa Barat,3216,Kab. Bekasi,2009,136700,5.97,0.85,0.2,244603
+32,Prov. Jawa Barat,3216,Kab. Bekasi,2010,161800,6.11,0.88,0.18,271901
+32,Prov. Jawa Barat,3217,Kab. Bandung Barat,2007,261700,18.7,3.73,1.05,147512
+32,Prov. Jawa Barat,3217,Kab. Bandung Barat,2008,251700,17.61,4.24,1.31,167326
+32,Prov. Jawa Barat,3217,Kab. Bandung Barat,2009,232700,16.03,2.94,0.85,202705
+32,Prov. Jawa Barat,3217,Kab. Bandung Barat,2010,222900,14.68,2.4,0.57,216388
+32,Prov. Jawa Barat,3271,Kota Bogor,2007,91400,9.47,1.66,0.47,200888
+32,Prov. Jawa Barat,3271,Kota Bogor,2008,97700,9.72,1.73,0.47,223218
+32,Prov. Jawa Barat,3271,Kota Bogor,2009,91700,8.82,1.23,0.29,256414
+32,Prov. Jawa Barat,3271,Kota Bogor,2010,90200,9.47,1.6,0.48,278530
+32,Prov. Jawa Barat,3272,Kota Sukabumi,2007,22600,7.26,0.94,0.18,208913
+32,Prov. Jawa Barat,3272,Kota Sukabumi,2008,33600,10.41,2.01,0.49,253697
+32,Prov. Jawa Barat,3272,Kota Sukabumi,2009,30400,9.16,1.94,0.62,269925
+32,Prov. Jawa Barat,3272,Kota Sukabumi,2010,27700,9.24,1.51,0.52,284339
+32,Prov. Jawa Barat,3273,Kota Bandung,2007,87200,3.68,0.66,0.18,181142
+32,Prov. Jawa Barat,3273,Kota Bandung,2008,106800,4.42,0.78,0.22,209171
+32,Prov. Jawa Barat,3273,Kota Bandung,2009,110300,4.5,0.55,0.11,262093
+32,Prov. Jawa Barat,3273,Kota Bandung,2010,118600,4.95,0.98,0.29,279784
+32,Prov. Jawa Barat,3274,Kota Cirebon,2007,28300,8.7,1.61,0.43,166309
+32,Prov. Jawa Barat,3274,Kota Cirebon,2008,47400,14.11,2.31,0.73,202383
+32,Prov. Jawa Barat,3274,Kota Cirebon,2009,45000,13.06,2.83,0.88,230810
+32,Prov. Jawa Barat,3274,Kota Cirebon,2010,35500,12,2.12,0.51,251375
+32,Prov. Jawa Barat,3275,Kota Bekasi,2007,106900,4.97,0.97,0.31,233535
+32,Prov. Jawa Barat,3275,Kota Bekasi,2008,142300,6.36,1.57,0.43,265446
+32,Prov. Jawa Barat,3275,Kota Bekasi,2009,134200,5.78,0.91,0.24,299432
+32,Prov. Jawa Barat,3275,Kota Bekasi,2010,148000,6.3,1.18,0.39,332849
+32,Prov. Jawa Barat,3276,Kota Depok,2007,35900,2.42,0.31,0.09,238774
+32,Prov. Jawa Barat,3276,Kota Depok,2008,41700,2.69,0.64,0.16,269527
+32,Prov. Jawa Barat,3276,Kota Depok,2009,47100,2.93,0.32,0.05,283218
+32,Prov. Jawa Barat,3276,Kota Depok,2010,49600,2.84,0.51,0.14,310279
+32,Prov. Jawa Barat,3277,Kota Cimahi,2007,43700,7.33,1.23,0.35,216894
+32,Prov. Jawa Barat,3277,Kota Cimahi,2008,52300,8.35,1.8,0.47,258213
+32,Prov. Jawa Barat,3277,Kota Cimahi,2009,46400,7.1,1.21,0.29,262440
+32,Prov. Jawa Barat,3277,Kota Cimahi,2010,40100,7.4,1.42,0.42,280155
+32,Prov. Jawa Barat,3278,Kota Tasikmalaya,2007,54500,9.3,1.44,0.36,162362
+32,Prov. Jawa Barat,3278,Kota Tasikmalaya,2008,154500,26.08,5.02,1.39,221105
+32,Prov. Jawa Barat,3278,Kota Tasikmalaya,2009,140100,23.55,4.57,1.36,248897
+32,Prov. Jawa Barat,3278,Kota Tasikmalaya,2010,131600,20.71,4.11,1.17,263177
+32,Prov. Jawa Barat,3279,Kota Banjar,2007,12900,7.86,1.22,0.28,120736
+32,Prov. Jawa Barat,3279,Kota Banjar,2008,15700,9.31,3.28,1.34,162152
+32,Prov. Jawa Barat,3279,Kota Banjar,2009,14600,8.64,0.86,0.15,179144
+32,Prov. Jawa Barat,3279,Kota Banjar,2010,14900,8.47,1.21,0.25,193305
+33,Prov. Jawa Tengah,3301,Kab. Cilacap,2007,363600,22.59,3.48,0.76,141840
+33,Prov. Jawa Tengah,3301,Kab. Cilacap,2008,343900,21.4,4.67,1.35,161646
+33,Prov. Jawa Tengah,3301,Kab. Cilacap,2009,318800,19.88,2.76,0.6,191167
+33,Prov. Jawa Tengah,3301,Kab. Cilacap,2010,297200,18.11,3.04,0.81,206714
+33,Prov. Jawa Tengah,3302,Kab. Banyumas,2007,333000,22.46,3.25,0.73,164111
+33,Prov. Jawa Tengah,3302,Kab. Banyumas,2008,340700,22.93,3.95,0.93,109735
+33,Prov. Jawa Tengah,3302,Kab. Banyumas,2009,319800,21.52,3.21,0.75,208583
+33,Prov. Jawa Tengah,3302,Kab. Banyumas,2010,314200,20.2,3.56,0.99,225546
+33,Prov. Jawa Tengah,3303,Kab. Purbalingga,2007,246300,30.24,5.69,1.6,148735
+33,Prov. Jawa Tengah,3303,Kab. Purbalingga,2008,221900,27.12,5.4,1.49,164046
+33,Prov. Jawa Tengah,3303,Kab. Purbalingga,2009,205000,24.97,4.6,1.27,194529
+33,Prov. Jawa Tengah,3303,Kab. Purbalingga,2010,209000,24.58,4,1.08,210349
+33,Prov. Jawa Tengah,3304,Kab. Banjarnegara,2007,232900,27.18,4.83,1.33,146531
+33,Prov. Jawa Tengah,3304,Kab. Banjarnegara,2008,200600,23.34,5.75,1.72,158702
+33,Prov. Jawa Tengah,3304,Kab. Banjarnegara,2009,184000,21.36,3.42,0.85,160345
+33,Prov. Jawa Tengah,3304,Kab. Banjarnegara,2010,166700,19.17,3.34,0.92,173385
+33,Prov. Jawa Tengah,3305,Kab. Kebumen,2007,362400,30.25,4.77,1.15,162301
+33,Prov. Jawa Tengah,3305,Kab. Kebumen,2008,334900,27.87,7.05,2.05,188042
+33,Prov. Jawa Tengah,3305,Kab. Kebumen,2009,309600,25.73,4.87,1.34,195589
+33,Prov. Jawa Tengah,3305,Kab. Kebumen,2010,263100,22.7,3.68,0.92,211495
+33,Prov. Jawa Tengah,3306,Kab. Purworejo,2007,146000,20.49,2.85,0.58,148607
+33,Prov. Jawa Tengah,3306,Kab. Purworejo,2008,130000,18.22,4.17,1.21,156632
+33,Prov. Jawa Tengah,3306,Kab. Purworejo,2009,121400,17.02,2.47,0.59,194292
+33,Prov. Jawa Tengah,3306,Kab. Purworejo,2010,115300,16.61,2.67,0.65,211400
+33,Prov. Jawa Tengah,3307,Kab. Wonosobo,2007,241400,32.29,6.44,2.01,144809
+33,Prov. Jawa Tengah,3307,Kab. Wonosobo,2008,207500,27.72,8.07,2.86,147687
+33,Prov. Jawa Tengah,3307,Kab. Wonosobo,2009,194000,25.91,5.14,1.54,187932
+33,Prov. Jawa Tengah,3307,Kab. Wonosobo,2010,174800,23.15,3.96,1.09,203216
+33,Prov. Jawa Tengah,3308,Kab. Magelang,2007,200100,17.37,2.55,0.59,126638
+33,Prov. Jawa Tengah,3308,Kab. Magelang,2008,190800,16.49,5.01,1.69,149910
+33,Prov. Jawa Tengah,3308,Kab. Magelang,2009,176500,15.19,1.99,0.41,169158
+33,Prov. Jawa Tengah,3308,Kab. Magelang,2010,167300,14.14,2.05,0.46,184053
+33,Prov. Jawa Tengah,3309,Kab. Boyolali,2007,167000,18.06,2.64,0.55,152169
+33,Prov. Jawa Tengah,3309,Kab. Boyolali,2008,158400,17.08,3.64,1.01,161660
+33,Prov. Jawa Tengah,3309,Kab. Boyolali,2009,148200,15.96,2.36,0.59,195538
+33,Prov. Jawa Tengah,3309,Kab. Boyolali,2010,127800,13.72,2.34,0.71,209495
+33,Prov. Jawa Tengah,3310,Kab. Klaten,2007,249100,22.27,3.71,0.98,203205
+33,Prov. Jawa Tengah,3310,Kab. Klaten,2008,243100,21.72,7.09,2.5,240551
+33,Prov. Jawa Tengah,3310,Kab. Klaten,2009,220200,19.68,3.12,0.73,241608
+33,Prov. Jawa Tengah,3310,Kab. Klaten,2010,197400,17.47,2.95,0.75,258854
+33,Prov. Jawa Tengah,3311,Kab. Sukoharjo,2007,113800,14.02,2.03,0.46,161638
+33,Prov. Jawa Tengah,3311,Kab. Sukoharjo,2008,99100,12.13,2.63,0.74,182624
+33,Prov. Jawa Tengah,3311,Kab. Sukoharjo,2009,94400,11.51,1.45,0.3,211928
+33,Prov. Jawa Tengah,3311,Kab. Sukoharjo,2010,90200,10.94,1.54,0.34,227055
+33,Prov. Jawa Tengah,3312,Kab. Wonogiri,2007,237400,24.44,4.46,1.2,144144
+33,Prov. Jawa Tengah,3312,Kab. Wonogiri,2008,201100,20.71,6.03,2.06,155000
+33,Prov. Jawa Tengah,3312,Kab. Wonogiri,2009,184900,19.08,2.87,0.65,182083
+33,Prov. Jawa Tengah,3312,Kab. Wonogiri,2010,145600,15.67,3.02,0.92,195080
+33,Prov. Jawa Tengah,3313,Kab. Karanganyar,2007,138900,17.39,2.46,0.5,164134
+33,Prov. Jawa Tengah,3313,Kab. Karanganyar,2008,125900,15.68,3.02,0.78,173222
+33,Prov. Jawa Tengah,3313,Kab. Karanganyar,2009,118800,14.73,1.84,0.36,202500
+33,Prov. Jawa Tengah,3313,Kab. Karanganyar,2010,113800,13.98,1.98,0.5,216954
+33,Prov. Jawa Tengah,3314,Kab. Sragen,2007,180700,21.24,2.84,0.57,168185
+33,Prov. Jawa Tengah,3314,Kab. Sragen,2008,177100,20.83,3.5,0.85,166014
+33,Prov. Jawa Tengah,3314,Kab. Sragen,2009,167300,19.7,3.16,0.76,192530
+33,Prov. Jawa Tengah,3314,Kab. Sragen,2010,149800,17.49,2.85,0.66,206273
+33,Prov. Jawa Tengah,3315,Kab. Grobogan,2007,330400,25.14,3.46,0.7,163581
+33,Prov. Jawa Tengah,3315,Kab. Grobogan,2008,262000,19.84,4.49,1.23,165302
+33,Prov. Jawa Tengah,3315,Kab. Grobogan,2009,247500,18.68,2.5,0.55,205468
+33,Prov. Jawa Tengah,3315,Kab. Grobogan,2010,233800,17.86,2.48,0.52,223560
+33,Prov. Jawa Tengah,3316,Kab. Blora,2007,176800,21.46,3.02,0.66,132933
+33,Prov. Jawa Tengah,3316,Kab. Blora,2008,155100,18.79,5.12,1.61,144710
+33,Prov. Jawa Tengah,3316,Kab. Blora,2009,146000,17.7,2.38,0.51,174951
+33,Prov. Jawa Tengah,3316,Kab. Blora,2010,135000,16.27,2.38,0.61,190356
+33,Prov. Jawa Tengah,3317,Kab. Rembang,2007,174300,30.71,4.83,1.18,163449
+33,Prov. Jawa Tengah,3317,Kab. Rembang,2008,154700,27.21,5.48,1.43,172010
+33,Prov. Jawa Tengah,3317,Kab. Rembang,2009,147200,25.86,3.66,0.78,200216
+33,Prov. Jawa Tengah,3317,Kab. Rembang,2010,138600,23.4,3.5,0.83,217846
+33,Prov. Jawa Tengah,3318,Kab. Pati,2007,228800,19.79,2.47,0.52,185490
+33,Prov. Jawa Tengah,3318,Kab. Pati,2008,207200,17.9,6.01,2.08,220352
+33,Prov. Jawa Tengah,3318,Kab. Pati,2009,184100,15.92,2.22,0.54,224390
+33,Prov. Jawa Tengah,3318,Kab. Pati,2010,172400,14.48,2.43,0.68,244149
+33,Prov. Jawa Tengah,3319,Kab. Kudus,2007,82400,10.73,1.46,0.32,172683
+33,Prov. Jawa Tengah,3319,Kab. Kudus,2008,97800,12.58,2.76,0.71,217005
+33,Prov. Jawa Tengah,3319,Kab. Kudus,2009,84900,10.8,1.56,0.34,218411
+33,Prov. Jawa Tengah,3319,Kab. Kudus,2010,70200,9.01,0.92,0.16,237643
+33,Prov. Jawa Tengah,3320,Kab. Jepara,2007,111200,10.44,0.94,0.14,170338
+33,Prov. Jawa Tengah,3320,Kab. Jepara,2008,119200,11.05,1.99,0.46,201625
+33,Prov. Jawa Tengah,3320,Kab. Jepara,2009,104700,9.6,1.14,0.25,206549
+33,Prov. Jawa Tengah,3320,Kab. Jepara,2010,111900,10.18,1.12,0.22,224737
+33,Prov. Jawa Tengah,3321,Kab. Demak,2007,238900,23.5,3.65,0.85,167405
+33,Prov. Jawa Tengah,3321,Kab. Demak,2008,217200,21.24,3.86,0.88,173075
+33,Prov. Jawa Tengah,3321,Kab. Demak,2009,202200,19.7,3.68,1.05,210260
+33,Prov. Jawa Tengah,3321,Kab. Demak,2010,198900,18.76,3.75,1.14,228774
+33,Prov. Jawa Tengah,3322,Kab. Semarang,2007,110100,12.34,1.91,0.46,156597
+33,Prov. Jawa Tengah,3322,Kab. Semarang,2008,102500,11.37,2.33,0.65,164333
+33,Prov. Jawa Tengah,3322,Kab. Semarang,2009,96700,10.66,1.43,0.34,189612
+33,Prov. Jawa Tengah,3322,Kab. Semarang,2010,97900,10.5,1.45,0.31,206308
+33,Prov. Jawa Tengah,3323,Kab. Temanggung,2007,115000,16.55,1.96,0.37,129495
+33,Prov. Jawa Tengah,3323,Kab. Temanggung,2008,114700,16.39,4.66,1.5,146268
+33,Prov. Jawa Tengah,3323,Kab. Temanggung,2009,105800,15.05,2.58,0.76,164343
+33,Prov. Jawa Tengah,3323,Kab. Temanggung,2010,95400,13.46,1.73,0.34,178814
+33,Prov. Jawa Tengah,3324,Kab. Kendal,2007,192700,20.7,3.18,0.73,171598
+33,Prov. Jawa Tengah,3324,Kab. Kendal,2008,168200,17.87,4.02,1.23,182113
+33,Prov. Jawa Tengah,3324,Kab. Kendal,2009,152400,16.02,2.88,0.77,199020
+33,Prov. Jawa Tengah,3324,Kab. Kendal,2010,130400,14.47,3.48,1.3,216545
+33,Prov. Jawa Tengah,3325,Kab. Batang,2007,139800,20.79,1.9,0.35,133680
+33,Prov. Jawa Tengah,3325,Kab. Batang,2008,122000,18.08,5.41,1.93,151411
+33,Prov. Jawa Tengah,3325,Kab. Batang,2009,112200,16.61,2.66,0.67,155558
+33,Prov. Jawa Tengah,3325,Kab. Batang,2010,103600,14.67,2.29,0.54,169256
+33,Prov. Jawa Tengah,3326,Kab. Pekalongan,2007,170000,20.31,2.87,0.63,172110
+33,Prov. Jawa Tengah,3326,Kab. Pekalongan,2008,164300,19.52,4.23,1.02,205028
+33,Prov. Jawa Tengah,3326,Kab. Pekalongan,2009,151600,17.93,2.4,0.52,210168
+33,Prov. Jawa Tengah,3326,Kab. Pekalongan,2010,136600,16.29,2.4,0.53,228674
+33,Prov. Jawa Tengah,3327,Kab. Pemalang,2007,307100,22.79,3.43,0.83,160105
+33,Prov. Jawa Tengah,3327,Kab. Pemalang,2008,325200,23.92,3.59,0.85,185526
+33,Prov. Jawa Tengah,3327,Kab. Pemalang,2009,303700,22.17,3.98,1.08,198295
+33,Prov. Jawa Tengah,3327,Kab. Pemalang,2010,251900,19.96,3.19,0.8,216365
+33,Prov. Jawa Tengah,3328,Kab. Tegal,2007,258600,18.5,2.91,0.7,159988
+33,Prov. Jawa Tengah,3328,Kab. Tegal,2008,220700,15.78,2.7,0.68,180878
+33,Prov. Jawa Tengah,3328,Kab. Tegal,2009,195500,13.98,2.44,0.67,187048
+33,Prov. Jawa Tengah,3328,Kab. Tegal,2010,182500,13.11,1.78,0.35,204093
+33,Prov. Jawa Tengah,3329,Kab. Brebes,2007,492200,27.93,4.43,1.11,165893
+33,Prov. Jawa Tengah,3329,Kab. Brebes,2008,459300,25.98,5.06,1.36,192162
+33,Prov. Jawa Tengah,3329,Kab. Brebes,2009,432400,24.39,4.36,1.18,219119
+33,Prov. Jawa Tengah,3329,Kab. Brebes,2010,398800,23.01,4.27,1.17,239086
+33,Prov. Jawa Tengah,3371,Kota Magelang,2007,13000,10.01,1.48,0.35,177920
+33,Prov. Jawa Tengah,3371,Kota Magelang,2008,14900,11.16,1.68,0.44,228385
+33,Prov. Jawa Tengah,3371,Kota Magelang,2009,13700,10.11,1.88,0.51,237967
+33,Prov. Jawa Tengah,3371,Kota Magelang,2010,12400,10.51,1.61,0.39,258921
+33,Prov. Jawa Tengah,3372,Kota Surakarta,2007,69800,13.64,2.4,0.67,196959
+33,Prov. Jawa Tengah,3372,Kota Surakarta,2008,83400,16.13,2.71,0.75,236751
+33,Prov. Jawa Tengah,3372,Kota Surakarta,2009,78000,14.99,2.67,0.78,286158
+33,Prov. Jawa Tengah,3372,Kota Surakarta,2010,69900,13.96,2.19,0.53,306584
+33,Prov. Jawa Tengah,3373,Kota Salatiga,2007,15600,9.01,1.33,0.32,171722
+33,Prov. Jawa Tengah,3373,Kota Salatiga,2008,14900,8.47,1.28,0.34,211260
+33,Prov. Jawa Tengah,3373,Kota Salatiga,2009,14100,7.82,0.83,0.17,221701
+33,Prov. Jawa Tengah,3373,Kota Salatiga,2010,14200,8.28,0.94,0.16,241223
+33,Prov. Jawa Tengah,3374,Kota Semarang,2007,77600,5.26,0.8,0.19,171875
+33,Prov. Jawa Tengah,3374,Kota Semarang,2008,89600,6,0.99,0.29,221357
+33,Prov. Jawa Tengah,3374,Kota Semarang,2009,73100,4.84,4.34,0.39,226271
+33,Prov. Jawa Tengah,3374,Kota Semarang,2010,79700,5.12,0.89,0.25,246195
+33,Prov. Jawa Tengah,3375,Kota Pekalongan,2007,17900,6.62,0.87,0.19,151517
+33,Prov. Jawa Tengah,3375,Kota Pekalongan,2008,28000,10.29,1.03,0.18,223167
+33,Prov. Jawa Tengah,3375,Kota Pekalongan,2009,23300,8.56,1.17,0.26,231562
+33,Prov. Jawa Tengah,3375,Kota Pekalongan,2010,26400,9.36,1.11,0.19,251952
+33,Prov. Jawa Tengah,3376,Kota Tegal,2007,22200,9.36,1.06,0.19,197683
+33,Prov. Jawa Tengah,3376,Kota Tegal,2008,26800,11.28,1.42,0.21,255380
+33,Prov. Jawa Tengah,3376,Kota Tegal,2009,23400,9.88,,0.42,248173
+33,Prov. Jawa Tengah,3376,Kota Tegal,2010,25700,10.62,1.72,0.44,270788
+34,Prov. D I Yogyakarta,3376,Kota Tegal,2009,,,1.64,,
+34,Prov. D I Yogyakarta,3401,Kab. Kulon Progo,2007,103800,28.61,4.66,1.2,173738
+34,Prov. D I Yogyakarta,3401,Kab. Kulon Progo,2008,97900,26.85,6.67,1.98,197507
+34,Prov. D I Yogyakarta,3401,Kab. Kulon Progo,2009,89900,24.65,4,0.98,205585
+34,Prov. D I Yogyakarta,3401,Kab. Kulon Progo,2010,90100,23.15,3.91,1.08,225059
+34,Prov. D I Yogyakarta,3402,Kab. Bantul,2007,169300,19.43,2.77,0.71,189152
+34,Prov. D I Yogyakarta,3402,Kab. Bantul,2008,164300,18.54,3.27,0.93,196509
+34,Prov. D I Yogyakarta,3402,Kab. Bantul,2009,158500,17.64,3.37,0.99,224373
+34,Prov. D I Yogyakarta,3402,Kab. Bantul,2010,146900,16.09,2.74,0.73,245626
+34,Prov. D I Yogyakarta,3403,Kab. Gunung Kidul,2007,192100,28.9,4.22,0.97,158152
+34,Prov. D I Yogyakarta,3403,Kab. Gunung Kidul,2008,173500,25.96,5.13,1.36,157071
+34,Prov. D I Yogyakarta,3403,Kab. Gunung Kidul,2009,163700,24.44,3.77,1,186232
+34,Prov. D I Yogyakarta,3403,Kab. Gunung Kidul,2010,148700,22.05,2.89,0.57,203873
+34,Prov. D I Yogyakarta,3404,Kab. Sleman,2007,125400,12.56,2.7,0.92,198907
+34,Prov. D I Yogyakarta,3404,Kab. Sleman,2008,125000,12.34,1.97,0.46,212031
+34,Prov. D I Yogyakarta,3404,Kab. Sleman,2009,117500,11.45,2.01,0.56,226256
+34,Prov. D I Yogyakarta,3404,Kab. Sleman,2010,117000,10.7,1.57,0.34,247688
+34,Prov. D I Yogyakarta,3471,Kota Yogyakarta,2007,42900,9.78,2.26,0.78,249318
+34,Prov. D I Yogyakarta,3471,Kota Yogyakarta,2008,48100,10.81,2.1,0.44,263996
+34,Prov. D I Yogyakarta,3471,Kota Yogyakarta,2009,45300,10.05,1.91,0.58,265168
+34,Prov. D I Yogyakarta,3471,Kota Yogyakarta,2010,37800,9.75,1.29,0.36,290286
+35,Prov. Jawa Timur,3501,Kab. Pacitan,2007,125600,23.31,3.69,0.89,144900
+35,Prov. Jawa Timur,3501,Kab. Pacitan,2008,114400,21.17,5.94,2,150734
+35,Prov. Jawa Timur,3501,Kab. Pacitan,2009,102900,19.01,3.48,0.9,162568
+35,Prov. Jawa Timur,3501,Kab. Pacitan,2010,105400,19.5,3.01,0.76,177300
+35,Prov. Jawa Timur,3502,Kab. Ponorogo,2007,157900,18.23,2.24,0.45,135551
+35,Prov. Jawa Timur,3502,Kab. Ponorogo,2008,144500,16.62,4.38,1.34,150572
+35,Prov. Jawa Timur,3502,Kab. Ponorogo,2009,127500,14.63,2.05,0.46,177006
+35,Prov. Jawa Timur,3502,Kab. Ponorogo,2010,113000,13.22,1.94,0.43,193047
+35,Prov. Jawa Timur,3503,Kab. Trenggalek,2007,149100,22.79,3.23,0.84,130617
+35,Prov. Jawa Timur,3503,Kab. Trenggalek,2008,135200,20.64,5.37,1.75,138454
+35,Prov. Jawa Timur,3503,Kab. Trenggalek,2009,119600,18.27,3.44,0.98,179204
+35,Prov. Jawa Timur,3503,Kab. Trenggalek,2010,108000,16,2.54,0.59,195444
+35,Prov. Jawa Timur,3504,Kab. Tulungagung,2007,170500,17.83,2.4,0.53,174692
+35,Prov. Jawa Timur,3504,Kab. Tulungagung,2008,119100,12.41,1.83,0.37,174251
+35,Prov. Jawa Timur,3504,Kab. Tulungagung,2009,102000,10.6,1.81,0.45,196550
+35,Prov. Jawa Timur,3504,Kab. Tulungagung,2010,105400,10.64,1.36,0.26,214362
+35,Prov. Jawa Timur,3505,Kab. Blitar,2007,171200,16.47,2.49,0.62,159736
+35,Prov. Jawa Timur,3505,Kab. Blitar,2008,150800,14.53,3.53,1.13,162667
+35,Prov. Jawa Timur,3505,Kab. Blitar,2009,136800,13.19,2.02,0.52,176518
+35,Prov. Jawa Timur,3505,Kab. Blitar,2010,135500,12.13,2.35,0.74,192514
+35,Prov. Jawa Timur,3506,Kab. Kediri,2007,267400,18.98,2.94,0.72,141496
+35,Prov. Jawa Timur,3506,Kab. Kediri,2008,265500,18.85,4.03,1.11,164818
+35,Prov. Jawa Timur,3506,Kab. Kediri,2009,239900,17.05,2.82,0.73,182474
+35,Prov. Jawa Timur,3506,Kab. Kediri,2010,232800,15.52,2.18,0.5,200237
+35,Prov. Jawa Timur,3507,Kab. Malang,2007,365300,15.66,2.69,0.66,143218
+35,Prov. Jawa Timur,3507,Kab. Malang,2008,353300,15.08,4.07,1.27,171080
+35,Prov. Jawa Timur,3507,Kab. Malang,2009,318900,13.57,2,0.49,180749
+35,Prov. Jawa Timur,3507,Kab. Malang,2010,306800,12.54,2.01,0.52,197129
+35,Prov. Jawa Timur,3508,Kab. Lumajang,2007,199000,20.09,2.68,0.53,125749
+35,Prov. Jawa Timur,3508,Kab. Lumajang,2008,180700,18.17,5.73,2.01,147758
+35,Prov. Jawa Timur,3508,Kab. Lumajang,2009,157800,15.83,2.22,0.49,168586
+35,Prov. Jawa Timur,3508,Kab. Lumajang,2010,140800,13.98,2.07,0.5,185321
+35,Prov. Jawa Timur,3509,Kab. Jember,2007,417000,18.57,2.6,0.55,132240
+35,Prov. Jawa Timur,3509,Kab. Jember,2008,399500,17.74,4.68,1.4,158377
+35,Prov. Jawa Timur,3509,Kab. Jember,2009,348100,15.43,2.33,0.54,183768
+35,Prov. Jawa Timur,3509,Kab. Jember,2010,311800,13.27,2,0.52,202010
+35,Prov. Jawa Timur,3510,Kab. Banyuwangi,2007,227300,15.33,2.13,0.51,159467
+35,Prov. Jawa Timur,3510,Kab. Banyuwangi,2008,206800,13.91,2.92,0.81,169520
+35,Prov. Jawa Timur,3510,Kab. Banyuwangi,2009,181000,12.16,1.94,0.48,200161
+35,Prov. Jawa Timur,3510,Kab. Banyuwangi,2010,175100,11.25,1.64,0.37,220031
+35,Prov. Jawa Timur,3511,Kab. Bondowoso,2007,165700,24.23,3.97,1.06,149323
+35,Prov. Jawa Timur,3511,Kab. Bondowoso,2008,152600,22.23,4.44,1.29,160958
+35,Prov. Jawa Timur,3511,Kab. Bondowoso,2009,138700,20.18,2.76,0.66,208999
+35,Prov. Jawa Timur,3511,Kab. Bondowoso,2010,131900,17.89,2.47,0.57,229746
+35,Prov. Jawa Timur,3512,Kab. Situbondo,2007,93900,15.6,2.2,0.44,143857
+35,Prov. Jawa Timur,3512,Kab. Situbondo,2008,108900,18.02,3.51,1.01,173795
+35,Prov. Jawa Timur,3512,Kab. Situbondo,2009,96800,15.99,2.76,0.72,175446
+35,Prov. Jawa Timur,3512,Kab. Situbondo,2010,105200,16.23,2.66,0.64,192862
+35,Prov. Jawa Timur,3513,Kab. Probolinggo,2007,277100,27.42,4.11,0.98,154458
+35,Prov. Jawa Timur,3513,Kab. Probolinggo,2008,305100,30.13,4.78,1.11,178717
+35,Prov. Jawa Timur,3513,Kab. Probolinggo,2009,280100,27.69,4.74,1.21,225151
+35,Prov. Jawa Timur,3513,Kab. Probolinggo,2010,276700,25.22,4.32,1.12,255757
+35,Prov. Jawa Timur,3514,Kab. Pasuruan,2007,278700,19.88,2.96,0.69,155491
+35,Prov. Jawa Timur,3514,Kab. Pasuruan,2008,253500,18.04,3.16,0.75,175195
+35,Prov. Jawa Timur,3514,Kab. Pasuruan,2009,219400,15.58,2.54,0.65,200282
+35,Prov. Jawa Timur,3514,Kab. Pasuruan,2010,199300,13.18,2.19,0.58,218432
+35,Prov. Jawa Timur,3515,Kab. Sidoarjo,2007,223300,13.05,2.15,0.52,200367
+35,Prov. Jawa Timur,3515,Kab. Sidoarjo,2008,144500,8.35,2.03,0.86,222101
+35,Prov. Jawa Timur,3515,Kab. Sidoarjo,2009,120900,6.91,0.96,0.22,228178
+35,Prov. Jawa Timur,3515,Kab. Sidoarjo,2010,145500,7.45,0.95,0.21,248856
+35,Prov. Jawa Timur,3516,Kab. Mojokerto,2007,143800,14.86,1.92,0.39,181803
+35,Prov. Jawa Timur,3516,Kab. Mojokerto,2008,142600,14.61,2.4,0.6,187127
+35,Prov. Jawa Timur,3516,Kab. Mojokerto,2009,130100,13.24,2.13,0.55,201780
+35,Prov. Jawa Timur,3516,Kab. Mojokerto,2010,125400,12.23,1.57,0.3,220066
+35,Prov. Jawa Timur,3517,Kab. Jombang,2007,261600,21.21,3.47,0.82,173564
+35,Prov. Jawa Timur,3517,Kab. Jombang,2008,205600,16.46,2.67,0.67,184252
+35,Prov. Jawa Timur,3517,Kab. Jombang,2009,182500,14.46,2.09,0.49,210867
+35,Prov. Jawa Timur,3517,Kab. Jombang,2010,166500,13.84,1.93,0.42,229976
+35,Prov. Jawa Timur,3518,Kab. Nganjuk,2007,230500,23.79,3.92,0.98,175927
+35,Prov. Jawa Timur,3518,Kab. Nganjuk,2008,191900,19.77,3.21,0.79,176322
+35,Prov. Jawa Timur,3518,Kab. Nganjuk,2009,167300,17.22,2.92,0.79,211670
+35,Prov. Jawa Timur,3518,Kab. Nganjuk,2010,151700,14.91,2,0.41,232275
+35,Prov. Jawa Timur,3519,Kab. Madiun,2007,130600,20.98,2.61,0.58,161792
+35,Prov. Jawa Timur,3519,Kab. Madiun,2008,115300,18.5,4.3,1.28,163321
+35,Prov. Jawa Timur,3519,Kab. Madiun,2009,105700,16.97,2.78,0.7,187639
+35,Prov. Jawa Timur,3519,Kab. Madiun,2010,102300,15.45,2.2,0.52,205905
+35,Prov. Jawa Timur,3520,Kab. Magetan,2007,102200,16.87,2.41,0.51,140574
+35,Prov. Jawa Timur,3520,Kab. Magetan,2008,95100,15.67,3.31,0.87,152841
+35,Prov. Jawa Timur,3520,Kab. Magetan,2009,84700,13.97,1.94,0.42,185286
+35,Prov. Jawa Timur,3520,Kab. Magetan,2010,80300,12.94,2.08,0.49,203323
+35,Prov. Jawa Timur,3521,Kab. Ngawi,2007,188700,23.33,3.68,0.88,144611
+35,Prov. Jawa Timur,3521,Kab. Ngawi,2008,169000,20.86,3.38,0.77,147918
+35,Prov. Jawa Timur,3521,Kab. Ngawi,2009,154100,19.01,3.27,0.84,174195
+35,Prov. Jawa Timur,3521,Kab. Ngawi,2010,149200,18.26,2.59,0.57,191152
+35,Prov. Jawa Timur,3522,Kab. Bojonegoro,2007,321500,26.37,4.06,0.9,145238
+35,Prov. Jawa Timur,3522,Kab. Bojonegoro,2008,292700,23.87,4.98,1.38,149846
+35,Prov. Jawa Timur,3522,Kab. Bojonegoro,2009,262000,21.27,3.49,0.88,192476
+35,Prov. Jawa Timur,3522,Kab. Bojonegoro,2010,227200,18.78,3.47,0.95,211213
+35,Prov. Jawa Timur,3523,Kab. Tuban,2007,297800,28.51,4.93,1.3,148665
+35,Prov. Jawa Timur,3523,Kab. Tuban,2008,270500,25.84,5.64,1.69,151582
+35,Prov. Jawa Timur,3523,Kab. Tuban,2009,241000,23.01,3.47,0.8,188304
+35,Prov. Jawa Timur,3523,Kab. Tuban,2010,225800,20.19,3.41,0.87,206635
+35,Prov. Jawa Timur,3524,Kab. Lamongan,2007,297600,25.79,4.17,1.02,176738
+35,Prov. Jawa Timur,3524,Kab. Lamongan,2008,259700,22.51,4.68,1.12,177003
+35,Prov. Jawa Timur,3524,Kab. Lamongan,2009,235900,20.47,2.94,0.71,201771
+35,Prov. Jawa Timur,3524,Kab. Lamongan,2010,220600,18.7,2.81,0.64,221413
+35,Prov. Jawa Timur,3525,Kab. Gresik,2007,273600,23.98,3.43,0.81,218085
+35,Prov. Jawa Timur,3525,Kab. Gresik,2008,248800,21.43,6.88,2.39,225554
+35,Prov. Jawa Timur,3525,Kab. Gresik,2009,225800,19.14,3.13,0.79,235399
+35,Prov. Jawa Timur,3525,Kab. Gresik,2010,193900,16.42,1.99,0.41,258503
+35,Prov. Jawa Timur,3526,Kab. Bangkalan,2007,288300,31.56,6.54,1.95,165483
+35,Prov. Jawa Timur,3526,Kab. Bangkalan,2008,304000,32.7,8.43,2.79,193525
+35,Prov. Jawa Timur,3526,Kab. Bangkalan,2009,287600,30.45,5.34,1.41,207836
+35,Prov. Jawa Timur,3526,Kab. Bangkalan,2010,255600,28.12,5.39,1.57,228235
+35,Prov. Jawa Timur,3527,Kab. Sampang,2007,338900,39.42,6.15,1.36,154536
+35,Prov. Jawa Timur,3527,Kab. Sampang,2008,302800,34.53,7.44,2.12,147399
+35,Prov. Jawa Timur,3527,Kab. Sampang,2009,285000,31.94,5.67,1.35,191138
+35,Prov. Jawa Timur,3527,Kab. Sampang,2010,285500,32.47,5.32,1.34,209898
+35,Prov. Jawa Timur,3528,Kab. Pamekasan,2007,257400,32.43,5.67,1.43,144286
+35,Prov. Jawa Timur,3528,Kab. Pamekasan,2008,213600,26.32,5.34,1.4,150523
+35,Prov. Jawa Timur,3528,Kab. Pamekasan,2009,201000,24.32,3.51,0.79,187128
+35,Prov. Jawa Timur,3528,Kab. Pamekasan,2010,179200,22.47,3.74,0.92,205494
+35,Prov. Jawa Timur,3529,Kab. Sumenep,2007,325500,32.98,5.72,1.46,159014
+35,Prov. Jawa Timur,3529,Kab. Sumenep,2008,290600,29.46,5.54,1.44,161732
+35,Prov. Jawa Timur,3529,Kab. Sumenep,2009,265000,26.89,3.89,0.91,187184
+35,Prov. Jawa Timur,3529,Kab. Sumenep,2010,256700,24.61,4.78,1.35,205556
+35,Prov. Jawa Timur,3571,Kota Kediri,2007,35300,13.67,2.24,0.55,192843
+35,Prov. Jawa Timur,3571,Kota Kediri,2008,30700,11.71,1.71,0.46,234709
+35,Prov. Jawa Timur,3571,Kota Kediri,2009,27500,10.41,1.72,0.47,244167
+35,Prov. Jawa Timur,3571,Kota Kediri,2010,24900,9.31,1.26,0.29,267936
+35,Prov. Jawa Timur,3572,Kota Blitar,2007,15200,12.02,1.86,0.45,181173
+35,Prov. Jawa Timur,3572,Kota Blitar,2008,12000,9.34,1.67,0.51,213578
+35,Prov. Jawa Timur,3572,Kota Blitar,2009,9800,7.56,1.4,0.41,213589
+35,Prov. Jawa Timur,3572,Kota Blitar,2010,10100,7.63,1.11,0.26,232945
+35,Prov. Jawa Timur,3573,Kota Malang,2007,56600,7.19,1.07,0.25,201031
+35,Prov. Jawa Timur,3573,Kota Malang,2008,57200,7.22,1.54,0.44,249320
+35,Prov. Jawa Timur,3573,Kota Malang,2009,44400,5.58,1.14,0.33,252024
+35,Prov. Jawa Timur,3573,Kota Malang,2010,48500,5.9,1.17,0.34,274863
+35,Prov. Jawa Timur,3574,Kota Probolinggo,2007,34900,16.19,2.69,0.67,208272
+35,Prov. Jawa Timur,3574,Kota Probolinggo,2008,51300,23.29,5.14,1.71,262053
+35,Prov. Jawa Timur,3574,Kota Probolinggo,2009,47100,21.06,3.03,0.73,340435
+35,Prov. Jawa Timur,3574,Kota Probolinggo,2010,41400,19.03,3.14,0.84,386711
+35,Prov. Jawa Timur,3575,Kota Pasuruan,2007,21300,12.61,1.71,0.4,175427
+35,Prov. Jawa Timur,3575,Kota Pasuruan,2008,18900,11.2,2.41,0.85,212149
+35,Prov. Jawa Timur,3575,Kota Pasuruan,2009,15800,9.34,1.55,0.43,224124
+35,Prov. Jawa Timur,3575,Kota Pasuruan,2010,16800,9,1.64,0.41,244435
+35,Prov. Jawa Timur,3576,Kota Mojokerto,2007,11500,10.46,1.54,0.34,180370
+35,Prov. Jawa Timur,3576,Kota Mojokerto,2008,9800,8.88,1.35,0.31,222410
+35,Prov. Jawa Timur,3576,Kota Mojokerto,2009,7900,7.19,0.81,0.17,224439
+35,Prov. Jawa Timur,3576,Kota Mojokerto,2010,8900,7.41,1.15,0.28,244778
+35,Prov. Jawa Timur,3577,Kota Madiun,2007,12100,7.07,0.94,0.2,178335
+35,Prov. Jawa Timur,3577,Kota Madiun,2008,11600,6.69,1.01,0.24,216127
+35,Prov. Jawa Timur,3577,Kota Madiun,2009,10300,5.93,0.68,0.19,220079
+35,Prov. Jawa Timur,3577,Kota Madiun,2010,10400,6.11,0.97,0.26,241503
+35,Prov. Jawa Timur,3578,Kota Surabaya,2007,203700,7.98,1.27,0.33,207508
+35,Prov. Jawa Timur,3578,Kota Surabaya,2008,209900,8.23,1.21,0.25,250015
+35,Prov. Jawa Timur,3578,Kota Surabaya,2009,171200,6.72,1.21,0.35,255875
+35,Prov. Jawa Timur,3578,Kota Surabaya,2010,195700,7.07,1.32,0.41,282586
+35,Prov. Jawa Timur,3579,Kota Batu,2007,17300,9.71,1.58,0.43,207166
+35,Prov. Jawa Timur,3579,Kota Batu,2008,11300,6.18,1.61,0.47,229474
+35,Prov. Jawa Timur,3579,Kota Batu,2009,8800,4.81,0.78,0.21,231877
+35,Prov. Jawa Timur,3579,Kota Batu,2010,9700,5.08,0.7,0.18,252890
+36,Prov. Banten,3601,Kab. Pandeglang,2007,175500,15.64,2.27,0.53,151763
+36,Prov. Banten,3601,Kab. Pandeglang,2008,144500,12.55,1.87,0.42,162905
+36,Prov. Banten,3601,Kab. Pandeglang,2009,140300,12.01,1.33,0.22,190256
+36,Prov. Banten,3601,Kab. Pandeglang,2010,127900,11.14,1.2,0.23,202483
+36,Prov. Banten,3602,Kab. Lebak,2007,181100,14.43,1.76,0.34,129911
+36,Prov. Banten,3602,Kab. Lebak,2008,156900,12.05,1.68,0.36,160190
+36,Prov. Banten,3602,Kab. Lebak,2009,142200,10.63,1.29,0.24,174367
+36,Prov. Banten,3602,Kab. Lebak,2010,125200,10.38,1.34,0.27,185573
+36,Prov. Banten,3603,Kab. Tangerang,2007,258900,7.18,1.29,0.35,203283
+36,Prov. Banten,3603,Kab. Tangerang,2008,279500,7.41,1.61,0.52,208859
+36,Prov. Banten,3603,Kab. Tangerang,2009,256200,6.55,1.02,0.23,241607
+36,Prov. Banten,3603,Kab. Tangerang,2010,205100,7.18,1.31,0.36,258155
+36,Prov. Banten,3604,Kab. Serang,2007,177400,9.47,1.25,0.3,139429
+36,Prov. Banten,3604,Kab. Serang,2008,124800,6.48,1.36,0.37,159848
+36,Prov. Banten,3604,Kab. Serang,2009,82900,5.8,0.64,0.12,180526
+36,Prov. Banten,3604,Kab. Serang,2010,89200,6.34,0.74,0.13,192128
+36,Prov. Banten,3671,Kota Tangerang,2007,76900,4.92,0.72,0.16,230829
+36,Prov. Banten,3671,Kota Tangerang,2008,110400,6.83,1.49,0.37,236094
+36,Prov. Banten,3671,Kota Tangerang,2009,106100,6.42,1.21,0.34,284093
+36,Prov. Banten,3671,Kota Tangerang,2010,124300,6.88,1.1,0.45,303551
+36,Prov. Banten,3672,Kota Cilegon,2007,16500,4.71,1.09,0.41,186161
+36,Prov. Banten,3672,Kota Cilegon,2008,14300,3.95,0.62,0.11,195864
+36,Prov. Banten,3672,Kota Cilegon,2009,15400,4.14,0.48,0.1,230354
+36,Prov. Banten,3672,Kota Cilegon,2010,16800,4.46,0.84,0.22,246662
+36,Prov. Banten,3673,Kota Serang,2009,32800,6.19,0.67,0.12,185597
+36,Prov. Banten,3673,Kota Serang,2010,40700,7.02,1.06,0.23,197525
+36,Prov. Banten,3674,Kota Tangerang Selatan,2010,21900,1.67,0.35,0.11,275643
+51,Prov. Bali,5101,Kab. Jembrana,2007,25000,9.92,1.44,0.31,189393
+51,Prov. Bali,5101,Kab. Jembrana,2008,20400,7.97,1.31,0.28,193490
+51,Prov. Bali,5101,Kab. Jembrana,2009,17600,6.8,0.93,0.22,220457
+51,Prov. Bali,5101,Kab. Jembrana,2010,21300,8.11,0.98,0.17,243897
+51,Prov. Bali,5102,Kab. Tabanan,2007,30200,7.46,0.97,0.23,209553
+51,Prov. Bali,5102,Kab. Tabanan,2008,28500,6.92,2.38,0.87,239670
+51,Prov. Bali,5102,Kab. Tabanan,2009,20800,4.99,0.55,0.13,243951
+51,Prov. Bali,5102,Kab. Tabanan,2010,29300,6.96,1.13,0.31,269889
+51,Prov. Bali,5103,Kab. Badung,2007,17400,4.28,0.46,0.07,221695
+51,Prov. Bali,5103,Kab. Badung,2008,13700,3.28,1.01,0.34,234959
+51,Prov. Bali,5103,Kab. Badung,2009,14000,3.28,0.35,0.06,282559
+51,Prov. Bali,5103,Kab. Badung,2010,17700,3.23,0.39,0.06,312602
+51,Prov. Bali,5104,Kab. Gianyar,2007,25800,5.98,0.8,0.18,172865
+51,Prov. Bali,5104,Kab. Gianyar,2008,28900,6.61,1.07,0.27,185670
+51,Prov. Bali,5104,Kab. Gianyar,2009,25500,5.76,0.67,0.17,215040
+51,Prov. Bali,5104,Kab. Gianyar,2010,31500,6.68,0.89,0.17,237904
+51,Prov. Bali,5105,Kab. Klungkung,2007,15000,9.14,1.4,0.35,163286
+51,Prov. Bali,5105,Kab. Klungkung,2008,11700,7.03,1.66,0.59,175268
+51,Prov. Bali,5105,Kab. Klungkung,2009,8800,5.23,0.87,0.24,186830
+51,Prov. Bali,5105,Kab. Klungkung,2010,12900,7.58,1.11,0.26,206695
+51,Prov. Bali,5106,Kab. Bangli,2007,15900,7.48,1.07,0.27,151360
+51,Prov. Bali,5106,Kab. Bangli,2008,13300,6.12,1.02,0.22,172536
+51,Prov. Bali,5106,Kab. Bangli,2009,11400,5.18,0.46,0.1,194886
+51,Prov. Bali,5106,Kab. Bangli,2010,13800,6.41,1.02,0.27,215607
+51,Prov. Bali,5107,Kab. Karang Asem,2007,34100,8.95,0.75,0.12,131745
+51,Prov. Bali,5107,Kab. Karang Asem,2008,29500,7.67,1.9,0.53,157223
+51,Prov. Bali,5107,Kab. Karang Asem,2009,24700,6.37,0.81,0.22,186076
+51,Prov. Bali,5107,Kab. Karang Asem,2010,31600,7.95,1.21,0.3,205860
+51,Prov. Bali,5108,Kab. Buleleng,2007,53400,8.68,0.97,0.19,154142
+51,Prov. Bali,5108,Kab. Buleleng,2008,46600,7.45,1.36,0.31,170558
+51,Prov. Bali,5108,Kab. Buleleng,2009,37700,5.95,1.2,0.37,215158
+51,Prov. Bali,5108,Kab. Buleleng,2010,45900,7.35,1.06,0.24,238034
+51,Prov. Bali,5171,Kota Denpasar,2007,12300,2.1,0.26,0.06,220728
+51,Prov. Bali,5171,Kota Denpasar,2008,13100,2.19,0.38,0.08,221165
+51,Prov. Bali,5171,Kota Denpasar,2009,13300,2.2,0.15,0.02,279911
+51,Prov. Bali,5171,Kota Denpasar,2010,17500,2.21,0.2,0.03,309672
+52,Prov. Nusa Tenggara Barat,5201,Kab. Lombok Barat,2007,240700,28.97,5.07,1.31,153893
+52,Prov. Nusa Tenggara Barat,5201,Kab. Lombok Barat,2008,222200,25.97,4.88,1.26,194190
+52,Prov. Nusa Tenggara Barat,5201,Kab. Lombok Barat,2009,208500,24.02,4.38,1.27,212630
+52,Prov. Nusa Tenggara Barat,5201,Kab. Lombok Barat,2010,129800,21.59,3.35,0.78,245177
+52,Prov. Nusa Tenggara Barat,5202,Kab. Lombok Tengah,2007,223400,25.74,3.75,0.77,160661
+52,Prov. Nusa Tenggara Barat,5202,Kab. Lombok Tengah,2008,197200,22.32,4.55,1.19,178740
+52,Prov. Nusa Tenggara Barat,5202,Kab. Lombok Tengah,2009,187600,20.94,3.24,0.83,211004
+52,Prov. Nusa Tenggara Barat,5202,Kab. Lombok Tengah,2010,171400,19.92,3.28,0.85,243302
+52,Prov. Nusa Tenggara Barat,5203,Kab. Lombok Timur,2007,282100,25.6,4.34,1.04,156509
+52,Prov. Nusa Tenggara Barat,5203,Kab. Lombok Timur,2008,284300,25.43,5.3,1.64,183325
+52,Prov. Nusa Tenggara Barat,5203,Kab. Lombok Timur,2009,270600,23.96,3.54,0.81,218854
+52,Prov. Nusa Tenggara Barat,5203,Kab. Lombok Timur,2010,263700,23.82,3.57,0.81,252354
+52,Prov. Nusa Tenggara Barat,5204,Kab. Sumbawa,2007,122000,28.78,5.8,1.57,171244
+52,Prov. Nusa Tenggara Barat,5204,Kab. Sumbawa,2008,109600,25.31,6.49,2.15,176586
+52,Prov. Nusa Tenggara Barat,5204,Kab. Sumbawa,2009,105000,23.85,4.59,1.38,203436
+52,Prov. Nusa Tenggara Barat,5204,Kab. Sumbawa,2010,90500,21.74,4.46,1.32,221935
+52,Prov. Nusa Tenggara Barat,5205,Kab. Dompu,2007,62000,28.57,4.48,1.04,143213
+52,Prov. Nusa Tenggara Barat,5205,Kab. Dompu,2008,54700,24.52,5.91,1.76,151445
+52,Prov. Nusa Tenggara Barat,5205,Kab. Dompu,2009,49500,21.76,3.41,0.83,182699
+52,Prov. Nusa Tenggara Barat,5205,Kab. Dompu,2010,43700,19.89,2.92,0.81,199312
+52,Prov. Nusa Tenggara Barat,5206,Kab. Bima,2007,108100,25.12,4.2,1.03,148018
+52,Prov. Nusa Tenggara Barat,5206,Kab. Bima,2008,94900,21.79,4.21,1.15,159066
+52,Prov. Nusa Tenggara Barat,5206,Kab. Bima,2009,89700,20.42,3.5,0.85,190501
+52,Prov. Nusa Tenggara Barat,5206,Kab. Bima,2010,85200,19.41,4.2,1.42,207823
+52,Prov. Nusa Tenggara Barat,5207,Kab. Sumbawa Barat,2007,28700,28.63,6.75,2.34,212859
+52,Prov. Nusa Tenggara Barat,5207,Kab. Sumbawa Barat,2008,25200,24.27,8.71,3.48,217218
+52,Prov. Nusa Tenggara Barat,5207,Kab. Sumbawa Barat,2009,24300,23.01,5.44,2.08,269356
+52,Prov. Nusa Tenggara Barat,5207,Kab. Sumbawa Barat,2010,25100,21.81,2.66,1.62,310586
+52,Prov. Nusa Tenggara Barat,5208,Kab. Lombok Utara,2010,86300,43.12,9.33,2.73,261819
+52,Prov. Nusa Tenggara Barat,5271,Kota Mataram,2007,35900,9.67,1.58,0.39,179019
+52,Prov. Nusa Tenggara Barat,5271,Kota Mataram,2008,61200,16.13,3.07,0.85,202868
+52,Prov. Nusa Tenggara Barat,5271,Kota Mataram,2009,60600,15.41,2.66,0.72,242244
+52,Prov. Nusa Tenggara Barat,5271,Kota Mataram,2010,58300,14.44,2.36,0.6,279324
+52,Prov. Nusa Tenggara Barat,5272,Kota Bima,2007,15700,11.85,1.54,0.31,141188
+52,Prov. Nusa Tenggara Barat,5272,Kota Bima,2008,19500,14.38,3.16,0.89,172255
+52,Prov. Nusa Tenggara Barat,5272,Kota Bima,2009,18900,13.65,2.97,1.1,206165
+52,Prov. Nusa Tenggara Barat,5272,Kota Bima,2010,18300,12.81,2.46,0.69,224912
+53,Prov. Nusa Tenggara Timur,5301,Kab. Sumba Barat,2007,43500,42.74,7.93,2.03,142042
+53,Prov. Nusa Tenggara Timur,5301,Kab. Sumba Barat,2008,38400,37.85,13.19,5.4,159963
+53,Prov. Nusa Tenggara Timur,5301,Kab. Sumba Barat,2009,36300,35.39,7.23,2.05,174315
+53,Prov. Nusa Tenggara Timur,5301,Kab. Sumba Barat,2010,35300,31.71,6.45,1.88,197307
+53,Prov. Nusa Tenggara Timur,5302,Kab. Sumba Timur,2007,82800,39.08,7.58,2.07,137123
+53,Prov. Nusa Tenggara Timur,5302,Kab. Sumba Timur,2008,81100,37.14,12.74,4.91,175986
+53,Prov. Nusa Tenggara Timur,5302,Kab. Sumba Timur,2009,76600,34.68,6.21,1.73,176438
+53,Prov. Nusa Tenggara Timur,5302,Kab. Sumba Timur,2010,74100,32.41,5.02,1.18,199711
+53,Prov. Nusa Tenggara Timur,5303,Kab. Kupang,2007,111600,31.32,6.59,2.1,135118
+53,Prov. Nusa Tenggara Timur,5303,Kab. Kupang,2008,95600,26.95,6.46,1.76,155718
+53,Prov. Nusa Tenggara Timur,5303,Kab. Kupang,2009,90000,24.16,4.04,1.13,156269
+53,Prov. Nusa Tenggara Timur,5303,Kab. Kupang,2010,63200,20.78,3.78,1.12,189489
+53,Prov. Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,2007,147500,37.43,7.21,1.97,108836
+53,Prov. Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,2008,130800,33.55,11.07,4.05,145298
+53,Prov. Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,2009,123400,31.14,7.24,2.48,148332
+53,Prov. Nusa Tenggara Timur,5304,Kab. Timor Tengah Selatan,2010,126700,28.7,6.38,2.02,179865
+53,Prov. Nusa Tenggara Timur,5305,Kab. Timor Tengah Utara,2007,60400,30.12,4.76,1.16,125983
+53,Prov. Nusa Tenggara Timur,5305,Kab. Timor Tengah Utara,2008,55200,27.74,9.02,3.35,153615
+53,Prov. Nusa Tenggara Timur,5305,Kab. Timor Tengah Utara,2009,50600,24.96,4.92,1.5,161964
+53,Prov. Nusa Tenggara Timur,5305,Kab. Timor Tengah Utara,2010,52300,22.72,4.28,1.24,196395
+53,Prov. Nusa Tenggara Timur,5306,Kab. Belu,2007,83900,21.02,4.29,1.28,109619
+53,Prov. Nusa Tenggara Timur,5306,Kab. Belu,2008,82700,19.69,7.5,3.04,149814
+53,Prov. Nusa Tenggara Timur,5306,Kab. Belu,2009,77100,17.47,3.47,0.99,153931
+53,Prov. Nusa Tenggara Timur,5306,Kab. Belu,2010,54700,15.48,2.73,0.66,186654
+53,Prov. Nusa Tenggara Timur,5307,Kab. Alor,2007,48200,28.49,6.21,1.87,117417
+53,Prov. Nusa Tenggara Timur,5307,Kab. Alor,2008,43200,25.14,7.75,2.77,141085
+53,Prov. Nusa Tenggara Timur,5307,Kab. Alor,2009,39200,22.84,3.79,0.92,155095
+53,Prov. Nusa Tenggara Timur,5307,Kab. Alor,2010,40300,21.16,4.47,1.36,175552
+53,Prov. Nusa Tenggara Timur,5308,Kab. Lembata,2007,33500,34.45,6.82,1.96,138074
+53,Prov. Nusa Tenggara Timur,5308,Kab. Lembata,2008,28800,29.24,8.5,2.66,167998
+53,Prov. Nusa Tenggara Timur,5308,Kab. Lembata,2009,27000,26.39,4.01,0.99,176992
+53,Prov. Nusa Tenggara Timur,5308,Kab. Lembata,2010,31600,26.74,6,1.86,200338
+53,Prov. Nusa Tenggara Timur,5309,Kab. Flores Timur,2007,31200,14.38,2.07,0.46,122671
+53,Prov. Nusa Tenggara Timur,5309,Kab. Flores Timur,2008,29300,13.21,4.11,1.49,146947
+53,Prov. Nusa Tenggara Timur,5309,Kab. Flores Timur,2009,24800,11.04,1.19,0.21,147023
+53,Prov. Nusa Tenggara Timur,5309,Kab. Flores Timur,2010,22400,9.61,1.27,0.25,166416
+53,Prov. Nusa Tenggara Timur,5310,Kab. Sikka,2007,50500,19.15,2.72,0.75,110833
+53,Prov. Nusa Tenggara Timur,5310,Kab. Sikka,2008,45900,17.34,7.38,3.45,147940
+53,Prov. Nusa Tenggara Timur,5310,Kab. Sikka,2009,40500,15.35,3.74,1.41,154559
+53,Prov. Nusa Tenggara Timur,5310,Kab. Sikka,2010,40300,13.38,2.93,0.88,174946
+53,Prov. Nusa Tenggara Timur,5311,Kab. Ende,2007,46000,20.33,3.05,0.8,122705
+53,Prov. Nusa Tenggara Timur,5311,Kab. Ende,2008,57500,24.87,7.16,2.39,156772
+53,Prov. Nusa Tenggara Timur,5311,Kab. Ende,2009,51700,23.01,3.86,1.01,182813
+53,Prov. Nusa Tenggara Timur,5311,Kab. Ende,2010,56500,21.64,3.94,1.08,206926
+53,Prov. Nusa Tenggara Timur,5312,Kab. Ngada,2007,21800,17.28,2.6,0.57,120704
+53,Prov. Nusa Tenggara Timur,5312,Kab. Ngada,2008,19400,15.49,4.61,1.54,146513
+53,Prov. Nusa Tenggara Timur,5312,Kab. Ngada,2009,17300,13.54,1.98,0.44,163486
+53,Prov. Nusa Tenggara Timur,5312,Kab. Ngada,2010,17200,12.05,1.47,0.29,185050
+53,Prov. Nusa Tenggara Timur,5313,Kab. Manggarai,2007,150500,31.41,4.8,1.18,121699
+53,Prov. Nusa Tenggara Timur,5313,Kab. Manggarai,2008,137800,28.57,7.66,2.28,157795
+53,Prov. Nusa Tenggara Timur,5313,Kab. Manggarai,2009,66900,25.76,4.09,0.98,168898
+53,Prov. Nusa Tenggara Timur,5313,Kab. Manggarai,2010,67100,22.9,3.57,0.85,191176
+53,Prov. Nusa Tenggara Timur,5314,Kab. Rote Ndao,2007,30100,28.26,4.75,1.31,106273
+53,Prov. Nusa Tenggara Timur,5314,Kab. Rote Ndao,2008,38800,36.58,10.7,4.25,146831
+53,Prov. Nusa Tenggara Timur,5314,Kab. Rote Ndao,2009,37300,34.09,6.09,1.51,147436
+53,Prov. Nusa Tenggara Timur,5314,Kab. Rote Ndao,2010,39600,32.79,6.81,2.17,178778
+53,Prov. Nusa Tenggara Timur,5315,Kab. Manggarai Barat,2007,53500,27.96,4.97,1.2,115702
+53,Prov. Nusa Tenggara Timur,5315,Kab. Manggarai Barat,2008,48300,25.05,7.84,2.73,145329
+53,Prov. Nusa Tenggara Timur,5315,Kab. Manggarai Barat,2009,45900,22.96,3.32,0.78,161737
+53,Prov. Nusa Tenggara Timur,5315,Kab. Manggarai Barat,2010,45400,20.39,3.22,0.82,183070
+53,Prov. Nusa Tenggara Timur,5316,Kab. Sumba Tengah,2007,105100,43,7.36,1.76,116754
+53,Prov. Nusa Tenggara Timur,5316,Kab. Sumba Tengah,2008,88600,36.45,16.22,7.64,179317
+53,Prov. Nusa Tenggara Timur,5316,Kab. Sumba Tengah,2009,86300,34.27,5.57,1.33,184198
+53,Prov. Nusa Tenggara Timur,5316,Kab. Sumba Tengah,2010,21300,34.02,4.92,1.07,164489
+53,Prov. Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,2007,24300,43.16,8.36,2.19,123370
+53,Prov. Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,2008,21500,38.65,7.88,2.21,144672
+53,Prov. Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,2009,20800,35.83,8.34,3,145321
+53,Prov. Nusa Tenggara Timur,5317,Kab. Sumba Barat Daya,2010,85100,29.87,4.5,1.11,208494
+53,Prov. Nusa Tenggara Timur,5318,Kab. Nagekeo,2007,18900,16.05,2.37,0.57,142728
+53,Prov. Nusa Tenggara Timur,5318,Kab. Nagekeo,2008,16800,14.53,3.32,0.88,158294
+53,Prov. Nusa Tenggara Timur,5318,Kab. Nagekeo,2009,15600,13.03,1.7,0.38,160331
+53,Prov. Nusa Tenggara Timur,5318,Kab. Nagekeo,2010,16600,12.7,2.64,0.88,181479
+53,Prov. Nusa Tenggara Timur,5319,Kab. Manggarai Timur,2009,59000,25.51,4.4,1.14,161358
+53,Prov. Nusa Tenggara Timur,5319,Kab. Manggarai Timur,2010,65800,25.93,5.02,1.4,182641
+53,Prov. Nusa Tenggara Timur,5320,Kab. Sabu Raijua,2010,30600,41.13,9.78,3.28,193095
+53,Prov. Nusa Tenggara Timur,5371,Kota Kupang,2007,20300,7.5,1.39,0.41,169511
+53,Prov. Nusa Tenggara Timur,5371,Kota Kupang,2008,46100,14.66,4.98,1.91,252195
+53,Prov. Nusa Tenggara Timur,5371,Kota Kupang,2009,35400,12.51,2.77,0.82,255060
+53,Prov. Nusa Tenggara Timur,5371,Kota Kupang,2010,35700,10.56,1.96,0.58,309281
+61,Prov. Kalimantan Barat,6101,Kab. Sambas,2007,73600,14,2.17,0.53,151593
+61,Prov. Kalimantan Barat,6101,Kab. Sambas,2008,61500,11.51,2.19,0.67,163773
+61,Prov. Kalimantan Barat,6101,Kab. Sambas,2009,53800,9.96,1.36,0.28,184496
+61,Prov. Kalimantan Barat,6101,Kab. Sambas,2010,50000,10.08,1.43,0.3,203325
+61,Prov. Kalimantan Barat,6102,Kab. Bengkayang,2007,25800,11.88,1.91,0.48,127347
+61,Prov. Kalimantan Barat,6102,Kab. Bengkayang,2008,21100,9.41,1.8,0.46,146825
+61,Prov. Kalimantan Barat,6102,Kab. Bengkayang,2009,17900,7.82,1.07,0.28,168633
+61,Prov. Kalimantan Barat,6102,Kab. Bengkayang,2010,16800,7.81,1.36,0.36,185843
+61,Prov. Kalimantan Barat,6103,Kab. Landak,2007,86300,24.95,4.67,1.24,136398
+61,Prov. Kalimantan Barat,6103,Kab. Landak,2008,66000,18.65,3.85,1.14,163954
+61,Prov. Kalimantan Barat,6103,Kab. Landak,2009,55800,15.48,2.83,0.82,170610
+61,Prov. Kalimantan Barat,6103,Kab. Landak,2010,46500,14.05,2.05,0.45,188022
+61,Prov. Kalimantan Barat,6104,Kab. Pontianak,2007,62700,8.26,0.75,0.11,138910
+61,Prov. Kalimantan Barat,6104,Kab. Pontianak,2008,54500,7.03,1.16,0.28,164604
+61,Prov. Kalimantan Barat,6104,Kab. Pontianak,2009,13100,5.46,0.9,0.24,162518
+61,Prov. Kalimantan Barat,6104,Kab. Pontianak,2010,15000,6.41,0.83,0.18,180322
+61,Prov. Kalimantan Barat,6105,Kab. Sanggau,2007,33000,7.97,1.02,0.23,128112
+61,Prov. Kalimantan Barat,6105,Kab. Sanggau,2008,26500,6.25,1.39,0.37,141341
+61,Prov. Kalimantan Barat,6105,Kab. Sanggau,2009,19900,4.62,0.66,0.13,150982
+61,Prov. Kalimantan Barat,6105,Kab. Sanggau,2010,20500,5.02,0.67,0.15,167522
+61,Prov. Kalimantan Barat,6106,Kab. Ketapang,2007,78000,17.94,2.61,0.64,162412
+61,Prov. Kalimantan Barat,6106,Kab. Ketapang,2008,67700,15.21,3.47,1.02,178060
+61,Prov. Kalimantan Barat,6106,Kab. Ketapang,2009,59600,13.08,1.86,0.41,203276
+61,Prov. Kalimantan Barat,6106,Kab. Ketapang,2010,58500,13.67,2.48,0.69,225545
+61,Prov. Kalimantan Barat,6107,Kab. Sintang,2007,66200,17.1,2.72,0.72,169606
+61,Prov. Kalimantan Barat,6107,Kab. Sintang,2008,54100,13.61,3.26,0.93,182626
+61,Prov. Kalimantan Barat,6107,Kab. Sintang,2009,46900,11.55,1.53,0.36,228791
+61,Prov. Kalimantan Barat,6107,Kab. Sintang,2010,35500,9.76,1.32,0.31,253855
+61,Prov. Kalimantan Barat,6108,Kab. Kapuas Hulu,2007,34800,15.05,2.53,0.59,149409
+61,Prov. Kalimantan Barat,6108,Kab. Kapuas Hulu,2008,27300,11.44,2.21,0.66,163380
+61,Prov. Kalimantan Barat,6108,Kab. Kapuas Hulu,2009,24100,9.93,1.3,0.28,199981
+61,Prov. Kalimantan Barat,6108,Kab. Kapuas Hulu,2010,25300,11.39,1.73,0.55,221889
+61,Prov. Kalimantan Barat,6109,Kab. Sekadau,2007,19300,10.25,1.66,0.41,121997
+61,Prov. Kalimantan Barat,6109,Kab. Sekadau,2008,14800,7.66,2.05,0.69,137343
+61,Prov. Kalimantan Barat,6109,Kab. Sekadau,2009,12600,6.42,1.18,0.39,156290
+61,Prov. Kalimantan Barat,6109,Kab. Sekadau,2010,12300,6.77,0.8,0.17,173411
+61,Prov. Kalimantan Barat,6110,Kab. Melawi,2007,35000,19.5,2.3,0.41,178205
+61,Prov. Kalimantan Barat,6110,Kab. Melawi,2008,27100,14.8,6.04,2.54,204947
+61,Prov. Kalimantan Barat,6110,Kab. Melawi,2009,23500,12.62,2.27,0.67,227859
+61,Prov. Kalimantan Barat,6110,Kab. Melawi,2010,24800,13.76,1.88,0.37,252821
+61,Prov. Kalimantan Barat,6111,Kab. Kayong Utara,2007,18700,18.9,3.54,0.75,113215
+61,Prov. Kalimantan Barat,6111,Kab. Kayong Utara,2008,14400,14.5,3.48,1.04,136037
+61,Prov. Kalimantan Barat,6111,Kab. Kayong Utara,2009,12500,12.43,1.42,0.25,143177
+61,Prov. Kalimantan Barat,6111,Kab. Kayong Utara,2010,11200,11.68,1.38,0.23,158862
+61,Prov. Kalimantan Barat,6112,Kab. Kubu Raya,2009,37100,6.78,1.05,0.26,177219
+61,Prov. Kalimantan Barat,6112,Kab. Kubu Raya,2010,35900,7.14,1.06,0.24,196633
+61,Prov. Kalimantan Barat,6171,Kota Pontianak,2007,37700,6.77,0.57,0.13,169342
+61,Prov. Kalimantan Barat,6171,Kota Pontianak,2008,52800,9.29,1.94,0.64,193984
+61,Prov. Kalimantan Barat,6171,Kota Pontianak,2009,36600,6.38,1.15,0.39,218802
+61,Prov. Kalimantan Barat,6171,Kota Pontianak,2010,36600,6.62,1.26,0.33,242772
+61,Prov. Kalimantan Barat,6172,Kota Singkawang,2007,13100,7.02,0.76,0.16,164997
+61,Prov. Kalimantan Barat,6172,Kota Singkawang,2008,15100,7.89,1.33,0.31,194818
+61,Prov. Kalimantan Barat,6172,Kota Singkawang,2009,12000,6.2,1.23,0.48,215272
+61,Prov. Kalimantan Barat,6172,Kota Singkawang,2010,11400,6.12,0.71,0.13,237245
+62,Prov. Kalimantan Tengah,6201,Kab. Kotawaringin Barat,2007,20000,8.66,1.73,0.46,166497
+62,Prov. Kalimantan Tengah,6201,Kab. Kotawaringin Barat,2008,19600,7.76,1.21,0.27,186618
+62,Prov. Kalimantan Tengah,6201,Kab. Kotawaringin Barat,2009,17800,6.87,1.09,0.27,212060
+62,Prov. Kalimantan Tengah,6201,Kab. Kotawaringin Barat,2010,16500,6.97,1.39,0.46,238987
+62,Prov. Kalimantan Tengah,6202,Kab. Kotawaringin Timur,2007,40400,11.33,1.58,0.36,173717
+62,Prov. Kalimantan Tengah,6202,Kab. Kotawaringin Timur,2008,38000,10.4,2.1,0.52,217684
+62,Prov. Kalimantan Tengah,6202,Kab. Kotawaringin Timur,2009,30800,8.21,1.22,0.27,219104
+62,Prov. Kalimantan Tengah,6202,Kab. Kotawaringin Timur,2010,31400,8.36,1.19,0.31,246925
+62,Prov. Kalimantan Tengah,6203,Kab. Kapuas,2007,36800,9.3,1.01,0.19,125410
+62,Prov. Kalimantan Tengah,6203,Kab. Kapuas,2008,31700,8.25,1.34,0.32,166944
+62,Prov. Kalimantan Tengah,6203,Kab. Kapuas,2009,25000,6.34,0.98,0.23,169307
+62,Prov. Kalimantan Tengah,6203,Kab. Kapuas,2010,23400,7.11,1.48,0.48,195064
+62,Prov. Kalimantan Tengah,6204,Kab. Barito Selatan,2007,14300,10.43,1.33,0.26,179841
+62,Prov. Kalimantan Tengah,6204,Kab. Barito Selatan,2008,13300,9.25,1.53,0.32,213197
+62,Prov. Kalimantan Tengah,6204,Kab. Barito Selatan,2009,12000,8.14,1.02,0.22,227118
+62,Prov. Kalimantan Tengah,6204,Kab. Barito Selatan,2010,10600,8.56,1.35,0.34,261670
+62,Prov. Kalimantan Tengah,6205,Kab. Barito Utara,2007,11100,8.61,0.84,0.12,177714
+62,Prov. Kalimantan Tengah,6205,Kab. Barito Utara,2008,9900,7.56,1.43,0.33,206022
+62,Prov. Kalimantan Tengah,6205,Kab. Barito Utara,2009,8700,6.43,0.88,0.19,232267
+62,Prov. Kalimantan Tengah,6205,Kab. Barito Utara,2010,8700,7.18,0.75,0.14,267603
+62,Prov. Kalimantan Tengah,6206,Kab. Sukamara,2007,3700,9,1.15,0.24,207268
+62,Prov. Kalimantan Tengah,6206,Kab. Sukamara,2008,3400,7.92,2.08,0.58,230697
+62,Prov. Kalimantan Tengah,6206,Kab. Sukamara,2009,2600,5.91,1,0.3,240051
+62,Prov. Kalimantan Tengah,6206,Kab. Sukamara,2010,3000,6.63,0.87,0.2,270532
+62,Prov. Kalimantan Tengah,6207,Kab. Lamandau,2007,4800,7.76,0.92,0.15,188940
+62,Prov. Kalimantan Tengah,6207,Kab. Lamandau,2008,4600,6.97,1.44,0.36,214994
+62,Prov. Kalimantan Tengah,6207,Kab. Lamandau,2009,3800,5.57,0.75,0.21,219016
+62,Prov. Kalimantan Tengah,6207,Kab. Lamandau,2010,3700,5.81,0.72,0.14,246826
+62,Prov. Kalimantan Tengah,6208,Kab. Seruyan,2007,13400,11.25,1.84,0.41,147397
+62,Prov. Kalimantan Tengah,6208,Kab. Seruyan,2008,13000,10.21,1.19,0.22,178657
+62,Prov. Kalimantan Tengah,6208,Kab. Seruyan,2009,11500,8.84,1.49,0.41,225683
+62,Prov. Kalimantan Tengah,6208,Kab. Seruyan,2010,14000,9.98,1.43,0.32,254340
+62,Prov. Kalimantan Tengah,6209,Kab. Katingan,2007,13000,8.68,0.94,0.17,165750
+62,Prov. Kalimantan Tengah,6209,Kab. Katingan,2008,11900,7.74,1.03,0.2,192808
+62,Prov. Kalimantan Tengah,6209,Kab. Katingan,2009,11100,7,0.6,0.1,234586
+62,Prov. Kalimantan Tengah,6209,Kab. Katingan,2010,10700,7.56,1.43,0.36,264373
+62,Prov. Kalimantan Tengah,6210,Kab. Pulang Pisau,2007,12000,9.18,1.78,0.47,155334
+62,Prov. Kalimantan Tengah,6210,Kab. Pulang Pisau,2008,11100,8.2,1.35,0.37,205288
+62,Prov. Kalimantan Tengah,6210,Kab. Pulang Pisau,2009,8700,6.23,0.84,0.17,210428
+62,Prov. Kalimantan Tengah,6210,Kab. Pulang Pisau,2010,7400,6.18,0.58,0.08,242441
+62,Prov. Kalimantan Tengah,6211,Kab. Gunung Mas,2007,9000,9.29,1.32,0.32,182124
+62,Prov. Kalimantan Tengah,6211,Kab. Gunung Mas,2008,8700,8.32,0.96,0.23,190043
+62,Prov. Kalimantan Tengah,6211,Kab. Gunung Mas,2009,7900,7.43,0.91,0.2,216805
+62,Prov. Kalimantan Tengah,6211,Kab. Gunung Mas,2010,7800,8.06,0.91,0.16,249789
+62,Prov. Kalimantan Tengah,6212,Kab. Barito Timur,2007,11600,12.34,1.8,0.42,190296
+62,Prov. Kalimantan Tengah,6212,Kab. Barito Timur,2008,11000,11.09,2.97,0.89,232539
+62,Prov. Kalimantan Tengah,6212,Kab. Barito Timur,2009,9400,9.24,1.55,0.41,250920
+62,Prov. Kalimantan Tengah,6212,Kab. Barito Timur,2010,10200,10.5,1.58,0.4,289094
+62,Prov. Kalimantan Tengah,6213,Kab. Murung Raya,2007,8700,8.91,0.9,0.12,164753
+62,Prov. Kalimantan Tengah,6213,Kab. Murung Raya,2008,8000,7.95,1.16,0.18,210392
+62,Prov. Kalimantan Tengah,6213,Kab. Murung Raya,2009,7200,6.94,0.76,0.19,236786
+62,Prov. Kalimantan Tengah,6213,Kab. Murung Raya,2010,6900,7.05,0.43,0.05,272809
+62,Prov. Kalimantan Tengah,6271,Kota Palangka Raya,2007,11700,5.75,0.73,0.16,164665
+62,Prov. Kalimantan Tengah,6271,Kota Palangka Raya,2008,9900,4.64,1.05,0.28,191951
+62,Prov. Kalimantan Tengah,6271,Kota Palangka Raya,2009,10400,4.76,0.79,0.17,193662
+62,Prov. Kalimantan Tengah,6271,Kota Palangka Raya,2010,11700,5.31,0.71,0.16,223125
+63,Prov. Kalimantan Selatan,6301,Kab. Tanah Laut,2007,19800,7.62,1.21,0.27,177557
+63,Prov. Kalimantan Selatan,6301,Kab. Tanah Laut,2008,16100,6.06,1.54,0.41,215687
+63,Prov. Kalimantan Selatan,6301,Kab. Tanah Laut,2009,13900,5.11,0.61,0.12,216687
+63,Prov. Kalimantan Selatan,6301,Kab. Tanah Laut,2010,15200,5.12,0.65,0.13,246580
+63,Prov. Kalimantan Selatan,6302,Kota Baru,2007,22900,8.61,1.4,0.35,159304
+63,Prov. Kalimantan Selatan,6302,Kota Baru,2008,18400,6.75,1.25,0.33,183271
+63,Prov. Kalimantan Selatan,6302,Kota Baru,2009,15400,5.55,1.01,0.25,202613
+63,Prov. Kalimantan Selatan,6302,Kota Baru,2010,15900,5.45,0.83,0.18,230564
+63,Prov. Kalimantan Selatan,6303,Kab. Banjar,2007,20000,4.24,0.52,0.14,142893
+63,Prov. Kalimantan Selatan,6303,Kab. Banjar,2008,17800,3.68,0.59,0.11,164654
+63,Prov. Kalimantan Selatan,6303,Kab. Banjar,2009,18200,3.69,0.45,0.14,202784
+63,Prov. Kalimantan Selatan,6303,Kab. Banjar,2010,17000,3.34,0.48,0.11,230759
+63,Prov. Kalimantan Selatan,6304,Kab. Barito Kuala,2007,21500,8.17,0.98,0.19,140589
+63,Prov. Kalimantan Selatan,6304,Kab. Barito Kuala,2008,19300,7.18,1.15,0.28,160183
+63,Prov. Kalimantan Selatan,6304,Kab. Barito Kuala,2009,15300,5.61,0.99,0.24,162845
+63,Prov. Kalimantan Selatan,6304,Kab. Barito Kuala,2010,15800,5.72,0.61,0.12,185310
+63,Prov. Kalimantan Selatan,6305,Kab. Tapin,2007,12500,8.42,1.63,0.47,158375
+63,Prov. Kalimantan Selatan,6305,Kab. Tapin,2008,9200,6.1,1.14,0.28,181842
+63,Prov. Kalimantan Selatan,6305,Kab. Tapin,2009,7500,4.93,0.75,0.19,193902
+63,Prov. Kalimantan Selatan,6305,Kab. Tapin,2010,9400,5.57,0.81,0.18,220652
+63,Prov. Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,2007,19600,9.68,1.26,0.25,166073
+63,Prov. Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,2008,19200,9.32,2.55,0.76,223001
+63,Prov. Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,2009,15200,7.32,1.03,0.25,225737
+63,Prov. Kalimantan Selatan,6306,Kab. Hulu Sungai Selatan,2010,16300,7.66,0.87,0.18,256878
+63,Prov. Kalimantan Selatan,6307,Kab. Hulu Sungai Tengah,2007,19300,8.14,1.26,0.33,155030
+63,Prov. Kalimantan Selatan,6307,Kab. Hulu Sungai Tengah,2008,17200,7.12,0.88,0.15,181999
+63,Prov. Kalimantan Selatan,6307,Kab. Hulu Sungai Tengah,2009,13900,5.73,0.95,0.22,183902
+63,Prov. Kalimantan Selatan,6307,Kab. Hulu Sungai Tengah,2010,15400,6.31,0.99,0.28,209272
+63,Prov. Kalimantan Selatan,6308,Kab. Hulu Sungai Utara,2007,23300,11.16,1.35,0.25,150275
+63,Prov. Kalimantan Selatan,6308,Kab. Hulu Sungai Utara,2008,18200,8.53,1.56,0.37,182758
+63,Prov. Kalimantan Selatan,6308,Kab. Hulu Sungai Utara,2009,15700,7.29,1.01,0.26,216012
+63,Prov. Kalimantan Selatan,6308,Kab. Hulu Sungai Utara,2010,16200,7.76,0.71,0.11,245812
+63,Prov. Kalimantan Selatan,6309,Kab. Tabalong,2007,21100,11.25,1.23,0.22,171912
+63,Prov. Kalimantan Selatan,6309,Kab. Tabalong,2008,15500,8.13,2.03,0.56,213778
+63,Prov. Kalimantan Selatan,6309,Kab. Tabalong,2009,13200,6.83,1.08,0.33,220762
+63,Prov. Kalimantan Selatan,6309,Kab. Tabalong,2010,14400,6.53,0.8,0.17,251217
+63,Prov. Kalimantan Selatan,6310,Kab. Tanah Bumbu,2007,17800,8.22,1.72,0.54,171554
+63,Prov. Kalimantan Selatan,6310,Kab. Tanah Bumbu,2008,12900,5.79,1.38,0.37,210113
+63,Prov. Kalimantan Selatan,6310,Kab. Tanah Bumbu,2009,13500,5.89,1.06,0.29,219492
+63,Prov. Kalimantan Selatan,6310,Kab. Tanah Bumbu,2010,17500,6.48,0.88,0.22,249772
+63,Prov. Kalimantan Selatan,6311,Kab. Balangan,2007,11500,11.35,1.53,0.39,160617
+63,Prov. Kalimantan Selatan,6311,Kab. Balangan,2008,7800,7.75,1.35,0.4,171662
+63,Prov. Kalimantan Selatan,6311,Kab. Balangan,2009,7300,7.22,0.74,0.13,198968
+63,Prov. Kalimantan Selatan,6311,Kab. Balangan,2010,8700,7.74,1.03,0.21,226416
+63,Prov. Kalimantan Selatan,6371,Kota Banjarmasin,2007,17600,2.9,0.17,0.03,149229
+63,Prov. Kalimantan Selatan,6371,Kota Banjarmasin,2008,29500,4.77,0.78,0.21,192280
+63,Prov. Kalimantan Selatan,6371,Kota Banjarmasin,2009,30300,4.8,0.64,0.15,235341
+63,Prov. Kalimantan Selatan,6371,Kota Banjarmasin,2010,31600,5.04,0.69,0.14,267807
+63,Prov. Kalimantan Selatan,6372,Kota Banjar Baru,2007,6600,4.08,0.56,0.12,164111
+63,Prov. Kalimantan Selatan,6372,Kota Banjar Baru,2008,10100,6.07,1.03,0.26,218949
+63,Prov. Kalimantan Selatan,6372,Kota Banjar Baru,2009,8800,5.2,0.84,0.22,267867
+63,Prov. Kalimantan Selatan,6372,Kota Banjar Baru,2010,12000,5.98,1.35,0.42,304820
+64,Prov. Kalimantan Timur,6401,Kab. Pasir,2007,28000,16,2.53,0.61,162996
+64,Prov. Kalimantan Timur,6401,Kab. Pasir,2008,19700,10.97,2.82,0.94,182782
+64,Prov. Kalimantan Timur,6401,Kab. Pasir,2009,18400,10.11,1.45,0.34,223208
+64,Prov. Kalimantan Timur,6401,Kab. Pasir,2010,22100,9.48,2.4,0.95,248795
+64,Prov. Kalimantan Timur,6402,Kab. Kutai Barat,2007,21500,14.04,2.68,0.83,212225
+64,Prov. Kalimantan Timur,6402,Kab. Kutai Barat,2008,16700,10.6,2.4,0.7,239906
+64,Prov. Kalimantan Timur,6402,Kab. Kutai Barat,2009,14300,8.97,1.54,0.42,245687
+64,Prov. Kalimantan Timur,6402,Kab. Kutai Barat,2010,16500,9.9,1.84,0.51,273851
+64,Prov. Kalimantan Timur,6403,Kab. Kutai Kartanegara,2007,63500,12.59,2.27,0.63,217131
+64,Prov. Kalimantan Timur,6403,Kab. Kutai Kartanegara,2008,48200,9.29,2.27,0.73,247848
+64,Prov. Kalimantan Timur,6403,Kab. Kutai Kartanegara,2009,42500,8.03,1.34,0.4,248209
+64,Prov. Kalimantan Timur,6403,Kab. Kutai Kartanegara,2010,54700,8.68,1.38,0.32,272835
+64,Prov. Kalimantan Timur,6404,Kab. Kutai Timur,2007,31700,17.51,3.16,0.85,232968
+64,Prov. Kalimantan Timur,6404,Kab. Kutai Timur,2008,24800,13.2,3.56,1.12,257155
+64,Prov. Kalimantan Timur,6404,Kab. Kutai Timur,2009,22900,11.88,1.71,0.38,273021
+64,Prov. Kalimantan Timur,6404,Kab. Kutai Timur,2010,29200,11.38,2.07,0.64,300108
+64,Prov. Kalimantan Timur,6405,Kab. Berau,2007,14600,9.27,1.74,0.47,218137
+64,Prov. Kalimantan Timur,6405,Kab. Berau,2008,9600,5.81,1.72,0.59,259227
+64,Prov. Kalimantan Timur,6405,Kab. Berau,2009,10100,5.9,1.11,0.32,279428
+64,Prov. Kalimantan Timur,6405,Kab. Berau,2010,11900,6.6,0.76,0.17,302117
+64,Prov. Kalimantan Timur,6406,Kab. Malinau,2007,12900,23.6,4.21,1.06,281406
+64,Prov. Kalimantan Timur,6406,Kab. Malinau,2008,10700,18.24,6.58,2.48,285195
+64,Prov. Kalimantan Timur,6406,Kab. Malinau,2009,10300,16.55,2.41,0.56,289548
+64,Prov. Kalimantan Timur,6406,Kab. Malinau,2010,9600,15.29,2.36,0.67,318275
+64,Prov. Kalimantan Timur,6407,Kab. Bulungan,2007,24000,22.31,3.22,0.73,179744
+64,Prov. Kalimantan Timur,6407,Kab. Bulungan,2008,19300,17.14,4.49,1.53,199736
+64,Prov. Kalimantan Timur,6407,Kab. Bulungan,2009,16500,15.96,2.96,0.82,229979
+64,Prov. Kalimantan Timur,6407,Kab. Bulungan,2010,16600,14.57,2.33,0.59,248653
+64,Prov. Kalimantan Timur,6408,Kab. Nunukan,2007,24600,20.02,4.87,1.55,169476
+64,Prov. Kalimantan Timur,6408,Kab. Nunukan,2008,19700,14.96,3.49,1.04,198096
+64,Prov. Kalimantan Timur,6408,Kab. Nunukan,2009,18800,13.47,2.73,0.81,211809
+64,Prov. Kalimantan Timur,6408,Kab. Nunukan,2010,17700,12.45,2.17,0.57,229008
+64,Prov. Kalimantan Timur,6409,Kab. Penajam Paser Utara,2007,21400,17.59,2.92,0.82,180452
+64,Prov. Kalimantan Timur,6409,Kab. Penajam Paser Utara,2008,16100,12.99,3.1,0.97,225972
+64,Prov. Kalimantan Timur,6409,Kab. Penajam Paser Utara,2009,14300,11.38,1.8,0.44,234325
+64,Prov. Kalimantan Timur,6409,Kab. Penajam Paser Utara,2010,15000,10.46,1.98,0.63,261187
+64,Prov. Kalimantan Timur,6410,Kab. Tana Tidung,2009,2000,15.42,2.47,0.61,217458
+64,Prov. Kalimantan Timur,6410,Kab. Tana Tidung,2010,2100,13.89,2.38,0.6,242386
+64,Prov. Kalimantan Timur,6471,Kota Balikpapan,2007,18300,3.74,0.39,0.09,226599
+64,Prov. Kalimantan Timur,6471,Kota Balikpapan,2008,17600,3.49,0.7,0.23,251490
+64,Prov. Kalimantan Timur,6471,Kota Balikpapan,2009,18400,3.58,0.53,0.13,281245
+64,Prov. Kalimantan Timur,6471,Kota Balikpapan,2010,22900,4.07,0.75,0.25,313485
+64,Prov. Kalimantan Timur,6472,Kota Samarinda,2007,38200,6.6,1.07,0.27,218940
+64,Prov. Kalimantan Timur,6472,Kota Samarinda,2008,27700,4.67,0.94,0.28,249006
+64,Prov. Kalimantan Timur,6472,Kota Samarinda,2009,29000,4.84,0.57,0.12,306730
+64,Prov. Kalimantan Timur,6472,Kota Samarinda,2010,38000,5.21,0.82,0.21,337162
+64,Prov. Kalimantan Timur,6473,Kota Tarakan,2007,16300,9.54,1.35,0.35,228142
+64,Prov. Kalimantan Timur,6473,Kota Tarakan,2008,19900,10.99,1.91,0.47,296000
+64,Prov. Kalimantan Timur,6473,Kota Tarakan,2009,18400,9.65,1.23,0.24,300459
+64,Prov. Kalimantan Timur,6473,Kota Tarakan,2010,19900,10.23,1.9,0.49,324856
+64,Prov. Kalimantan Timur,6474,Kota Bontang,2007,9800,7.87,1.33,0.33,215107
+64,Prov. Kalimantan Timur,6474,Kota Bontang,2008,9500,7.26,1.44,0.45,240748
+64,Prov. Kalimantan Timur,6474,Kota Bontang,2009,9000,6.66,1.13,0.26,285402
+64,Prov. Kalimantan Timur,6474,Kota Bontang,2010,9400,6.67,0.88,0.2,313718
+71,Prov. Sulawesi Utara,7101,Kab. Bolaang Mongondow,2007,39600,13.2,2,0.52,148009
+71,Prov. Sulawesi Utara,7101,Kab. Bolaang Mongondow,2008,32500,10.64,1.9,0.51,164398
+71,Prov. Sulawesi Utara,7101,Kab. Bolaang Mongondow,2009,31600,10.16,1.49,0.37,206029
+71,Prov. Sulawesi Utara,7101,Kab. Bolaang Mongondow,2010,20800,9.7,1.28,0.23,225705
+71,Prov. Sulawesi Utara,7102,Kab. Minahasa,2007,30500,10.31,1.5,0.35,160732
+71,Prov. Sulawesi Utara,7102,Kab. Minahasa,2008,27100,9,1.74,0.54,163527
+71,Prov. Sulawesi Utara,7102,Kab. Minahasa,2009,25700,8.47,1.45,0.48,185723
+71,Prov. Sulawesi Utara,7102,Kab. Minahasa,2010,27900,8.99,1.53,0.5,203460
+71,Prov. Sulawesi Utara,7103,Kab. Kepulauan Sangihe,2007,23200,17.7,2.92,0.77,152482
+71,Prov. Sulawesi Utara,7103,Kab. Kepulauan Sangihe,2008,18400,14.01,2.45,0.71,168309
+71,Prov. Sulawesi Utara,7103,Kab. Kepulauan Sangihe,2009,17400,13.23,2.3,0.64,173929
+71,Prov. Sulawesi Utara,7103,Kab. Kepulauan Sangihe,2010,16700,13.21,2.27,0.59,190539
+71,Prov. Sulawesi Utara,7104,Kab. Kepulauan Talaud,2007,11900,15.77,2.67,0.7,143102
+71,Prov. Sulawesi Utara,7104,Kab. Kepulauan Talaud,2008,9700,12.9,3.17,1.01,158347
+71,Prov. Sulawesi Utara,7104,Kab. Kepulauan Talaud,2009,9200,12.16,2.04,0.54,182194
+71,Prov. Sulawesi Utara,7104,Kab. Kepulauan Talaud,2010,9500,11.37,1.96,0.57,199594
+71,Prov. Sulawesi Utara,7105,Kab. Minahasa Selatan,2007,24900,13.61,2.13,0.51,181500
+71,Prov. Sulawesi Utara,7105,Kab. Minahasa Selatan,2008,21400,11.66,2.96,0.86,206890
+71,Prov. Sulawesi Utara,7105,Kab. Minahasa Selatan,2009,20500,11.13,0.95,0.15,210706
+71,Prov. Sulawesi Utara,7105,Kab. Minahasa Selatan,2010,21000,10.74,1.56,0.35,230829
+71,Prov. Sulawesi Utara,7106,Kab. Minahasa Utara,2007,17500,10.14,1.79,0.51,165803
+71,Prov. Sulawesi Utara,7106,Kab. Minahasa Utara,2008,14700,8.35,1.37,0.38,167806
+71,Prov. Sulawesi Utara,7106,Kab. Minahasa Utara,2009,14200,7.98,1.11,0.31,207593
+71,Prov. Sulawesi Utara,7106,Kab. Minahasa Utara,2010,15800,8.38,1.05,0.2,227418
+71,Prov. Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,2007,10400,13.03,1.5,0.27,135433
+71,Prov. Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,2008,8400,10.44,2.21,0.61,155068
+71,Prov. Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,2009,8100,9.93,1.29,0.26,167549
+71,Prov. Sulawesi Utara,7107,Kab. Bolaang Mongondow Utara,2010,7200,10.23,1.75,0.48,183550
+71,Prov. Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,2007,9900,16.14,2.48,0.67,158410
+71,Prov. Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,2008,7900,12.68,1.8,0.45,173926
+71,Prov. Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,2009,7600,12.11,1.78,0.39,200972
+71,Prov. Sulawesi Utara,7108,Kab. Siau Tagulandang Biaro,2010,7500,11.79,1.76,0.38,220165
+71,Prov. Sulawesi Utara,7109,Kab. Minahasa Tenggara,2007,21000,22.21,3.61,0.88,172393
+71,Prov. Sulawesi Utara,7109,Kab. Minahasa Tenggara,2008,17500,18.3,4.18,1.21,191315
+71,Prov. Sulawesi Utara,7109,Kab. Minahasa Tenggara,2009,16900,17.49,2.64,0.61,220945
+71,Prov. Sulawesi Utara,7109,Kab. Minahasa Tenggara,2010,17700,17.64,2.83,0.71,242046
+71,Prov. Sulawesi Utara,7110,Kab. Bolaang Mongondow Selatan,2010,10700,18.81,4.2,1.46,224020
+71,Prov. Sulawesi Utara,7111,Kab. Bolaang Mongondow Timur,2010,5000,7.81,1.03,0.23,223074
+71,Prov. Sulawesi Utara,7171,Kota Manado,2007,23000,5.43,0.98,0.29,189167
+71,Prov. Sulawesi Utara,7171,Kota Manado,2008,28500,6.59,1.15,0.29,196092
+71,Prov. Sulawesi Utara,7171,Kota Manado,2009,27800,6.32,0.84,0.18,226206
+71,Prov. Sulawesi Utara,7171,Kota Manado,2010,25100,6.15,0.88,0.2,247809
+71,Prov. Sulawesi Utara,7172,Kota Bitung,2007,19400,11.14,1.98,0.49,190776
+71,Prov. Sulawesi Utara,7172,Kota Bitung,2008,16800,9.33,2.15,0.6,211753
+71,Prov. Sulawesi Utara,7172,Kota Bitung,2009,16300,8.93,0.88,0.14,248786
+71,Prov. Sulawesi Utara,7172,Kota Bitung,2010,18000,9.52,1.81,0.58,272545
+71,Prov. Sulawesi Utara,7173,Kota Tomohon,2007,7000,8.65,1.18,0.24,195438
+71,Prov. Sulawesi Utara,7173,Kota Tomohon,2008,6300,7.53,1.57,0.42,201975
+71,Prov. Sulawesi Utara,7173,Kota Tomohon,2009,6100,7.19,0.84,0.16,242577
+71,Prov. Sulawesi Utara,7173,Kota Tomohon,2010,6800,7.39,1,0.25,265743
+71,Prov. Sulawesi Utara,7174,Kota Kotamobagu,2007,11800,10.02,1.29,0.24,158122
+71,Prov. Sulawesi Utara,7174,Kota Kotamobagu,2008,9000,7.6,1.33,0.31,167618
+71,Prov. Sulawesi Utara,7174,Kota Kotamobagu,2009,8600,7.16,1.38,0.37,202539
+71,Prov. Sulawesi Utara,7174,Kota Kotamobagu,2010,8100,7.57,0.91,0.16,221882
+72,Prov. Sulawesi Tengah,7201,Kab. Banggai Kepulauan,2007,44400,27.92,5.3,1.48,142621
+72,Prov. Sulawesi Tengah,7201,Kab. Banggai Kepulauan,2008,40100,24.66,5.01,1.45,177909
+72,Prov. Sulawesi Tengah,7201,Kab. Banggai Kepulauan,2009,36100,21.99,4.48,1.42,182783
+72,Prov. Sulawesi Tengah,7201,Kab. Banggai Kepulauan,2010,33500,19.47,3.02,0.64,200360
+72,Prov. Sulawesi Tengah,7202,Kab. Banggai,2007,52900,17.28,2.82,0.75,160117
+72,Prov. Sulawesi Tengah,7202,Kab. Banggai,2008,51500,16.7,2.86,0.69,185738
+72,Prov. Sulawesi Tengah,7202,Kab. Banggai,2009,45300,14.6,2.68,0.8,207199
+72,Prov. Sulawesi Tengah,7202,Kab. Banggai,2010,39200,12.06,2.46,0.77,227124
+72,Prov. Sulawesi Tengah,7203,Kab. Morowali,2007,51100,28.27,4.39,0.98,166794
+72,Prov. Sulawesi Tengah,7203,Kab. Morowali,2008,46600,25.1,7.54,2.88,178115
+72,Prov. Sulawesi Tengah,7203,Kab. Morowali,2009,42300,22.53,4.9,1.56,226762
+72,Prov. Sulawesi Tengah,7203,Kab. Morowali,2010,41900,20.27,3.82,1.02,248568
+72,Prov. Sulawesi Tengah,7204,Kab. Poso,2007,44000,28.02,5.24,1.36,191006
+72,Prov. Sulawesi Tengah,7204,Kab. Poso,2008,43400,25.75,7.14,2.44,211960
+72,Prov. Sulawesi Tengah,7204,Kab. Poso,2009,41600,23.29,4.69,1.4,239875
+72,Prov. Sulawesi Tengah,7204,Kab. Poso,2010,45300,21.42,4.15,1.31,262942
+72,Prov. Sulawesi Tengah,7205,Kab. Donggala,2007,114400,23.59,3.79,0.96,139281
+72,Prov. Sulawesi Tengah,7205,Kab. Donggala,2008,103500,21.01,5,1.52,161079
+72,Prov. Sulawesi Tengah,7205,Kab. Donggala,2009,94300,18.91,3.66,1.17,173004
+72,Prov. Sulawesi Tengah,7205,Kab. Donggala,2010,53900,19.42,4.26,1.5,189640
+72,Prov. Sulawesi Tengah,7206,Kab. Tolitoli,2007,45200,22.18,3.68,1,149045
+72,Prov. Sulawesi Tengah,7206,Kab. Tolitoli,2008,40800,19.69,4.48,1.38,161407
+72,Prov. Sulawesi Tengah,7206,Kab. Tolitoli,2009,37400,17.83,3.05,0.84,173876
+72,Prov. Sulawesi Tengah,7206,Kab. Tolitoli,2010,34200,16.16,2.19,0.51,190596
+72,Prov. Sulawesi Tengah,7207,Kab. Buol,2007,30500,25.5,5.28,1.54,140732
+72,Prov. Sulawesi Tengah,7207,Kab. Buol,2008,28300,23.11,4.36,1.15,156692
+72,Prov. Sulawesi Tengah,7207,Kab. Buol,2009,35700,20.68,3.17,0.78,186798
+72,Prov. Sulawesi Tengah,7207,Kab. Buol,2010,24800,18.67,3.01,0.8,204761
+72,Prov. Sulawesi Tengah,7208,Kab. Parigi Moutong,2007,90100,23.69,4.35,1.17,153336
+72,Prov. Sulawesi Tengah,7208,Kab. Parigi Moutong,2008,84500,21.73,5.07,1.53,166570
+72,Prov. Sulawesi Tengah,7208,Kab. Parigi Moutong,2009,77900,19.72,3.45,1.01,211586
+72,Prov. Sulawesi Tengah,7208,Kab. Parigi Moutong,2010,83400,20.11,3.58,0.9,231933
+72,Prov. Sulawesi Tengah,7209,Kab. Tojo Unauna,2007,54000,30.22,5.15,1.27,171532
+72,Prov. Sulawesi Tengah,7209,Kab. Tojo Unauna,2008,53800,28.48,8.13,2.75,201786
+72,Prov. Sulawesi Tengah,7209,Kab. Tojo Unauna,2009,52300,26.23,3.78,0.88,234677
+72,Prov. Sulawesi Tengah,7209,Kab. Tojo Unauna,2010,33200,24.06,4.51,1.21,257244
+72,Prov. Sulawesi Tengah,7210,Kab. Sigi,2010,32500,15.09,3.15,1.12,192044
+72,Prov. Sulawesi Tengah,7271,Kota Palu,2007,30800,9.73,1.6,0.4,185191
+72,Prov. Sulawesi Tengah,7271,Kota Palu,2008,32600,10.1,2.08,0.64,206207
+72,Prov. Sulawesi Tengah,7271,Kota Palu,2009,30100,9.19,1.6,0.44,266407
+72,Prov. Sulawesi Tengah,7271,Kota Palu,2010,33500,9.98,1.81,0.47,292025
+73,Prov. Sulawesi Selatan,7301,Kab. Kepulauan Selayar,2007,23800,20.45,2.45,0.42,152648
+73,Prov. Sulawesi Selatan,7301,Kab. Kepulauan Selayar,2008,22100,18.49,4.91,1.65,158040
+73,Prov. Sulawesi Selatan,7301,Kab. Kepulauan Selayar,2009,19800,16.41,2.95,0.83,180355
+73,Prov. Sulawesi Selatan,7301,Kab. Kepulauan Selayar,2010,18300,14.98,2.47,0.63,203726
+73,Prov. Sulawesi Selatan,7302,Kab. Bulukumba,2007,52300,13.56,2,0.42,121137
+73,Prov. Sulawesi Selatan,7302,Kab. Bulukumba,2008,47700,12.26,3.69,1.23,146960
+73,Prov. Sulawesi Selatan,7302,Kab. Bulukumba,2009,41100,10.5,1.45,0.35,177859
+73,Prov. Sulawesi Selatan,7302,Kab. Bulukumba,2010,35600,9.02,1.32,0.37,200907
+73,Prov. Sulawesi Selatan,7303,Kab. Bantaeng,2007,20700,12.12,1.88,0.46,90258
+73,Prov. Sulawesi Selatan,7303,Kab. Bantaeng,2008,18800,10.94,3.65,1.29,119072
+73,Prov. Sulawesi Selatan,7303,Kab. Bantaeng,2009,17200,9.96,1.64,0.44,142972
+73,Prov. Sulawesi Selatan,7303,Kab. Bantaeng,2010,18100,10.24,1.73,0.48,161499
+73,Prov. Sulawesi Selatan,7304,Kab. Jeneponto,2007,81100,24.55,3.63,0.81,137626
+73,Prov. Sulawesi Selatan,7304,Kab. Jeneponto,2008,74300,22.48,5.31,1.59,150069
+73,Prov. Sulawesi Selatan,7304,Kab. Jeneponto,2009,68200,20.58,3.42,0.92,188731
+73,Prov. Sulawesi Selatan,7304,Kab. Jeneponto,2010,65400,19.09,2.93,0.74,213188
+73,Prov. Sulawesi Selatan,7305,Kab. Takalar,2007,34700,13.8,1.87,0.43,144065
+73,Prov. Sulawesi Selatan,7305,Kab. Takalar,2008,32200,12.68,3.14,0.91,163645
+73,Prov. Sulawesi Selatan,7305,Kab. Takalar,2009,28300,11.06,1.33,0.27,179994
+73,Prov. Sulawesi Selatan,7305,Kab. Takalar,2010,30100,11.16,1.65,0.38,203319
+73,Prov. Sulawesi Selatan,7306,Kab. Gowa,2007,83900,14.13,1.89,0.44,131123
+73,Prov. Sulawesi Selatan,7306,Kab. Gowa,2008,77200,12.79,3.36,1.01,162063
+73,Prov. Sulawesi Selatan,7306,Kab. Gowa,2009,67000,10.93,1.76,0.43,195452
+73,Prov. Sulawesi Selatan,7306,Kab. Gowa,2010,62100,9.49,1.24,0.33,220780
+73,Prov. Sulawesi Selatan,7307,Kab. Sinjai,2007,30800,13.87,1.97,0.44,106827
+73,Prov. Sulawesi Selatan,7307,Kab. Sinjai,2008,28600,12.73,4.57,1.76,133706
+73,Prov. Sulawesi Selatan,7307,Kab. Sinjai,2009,25800,11.37,1.56,0.37,169415
+73,Prov. Sulawesi Selatan,7307,Kab. Sinjai,2010,24500,10.68,1.35,0.28,189004
+73,Prov. Sulawesi Selatan,7308,Kab. Maros,2007,59900,20.08,3.6,0.97,151717
+73,Prov. Sulawesi Selatan,7308,Kab. Maros,2008,56000,18.55,5.48,1.75,173632
+73,Prov. Sulawesi Selatan,7308,Kab. Maros,2009,49800,16.35,2.81,0.69,212544
+73,Prov. Sulawesi Selatan,7308,Kab. Maros,2010,46600,14.62,2.36,0.57,237119
+73,Prov. Sulawesi Selatan,7309,Kab. Pangkajene Dan Kepulauan,2007,69300,23.93,5.47,1.65,156835
+73,Prov. Sulawesi Selatan,7309,Kab. Pangkajene Dan Kepulauan,2008,62800,21.36,6.74,2.26,173668
+73,Prov. Sulawesi Selatan,7309,Kab. Pangkajene Dan Kepulauan,2009,57400,19.35,3.03,0.87,185923
+73,Prov. Sulawesi Selatan,7309,Kab. Pangkajene Dan Kepulauan,2010,59000,19.26,2.9,0.68,207420
+73,Prov. Sulawesi Selatan,7310,Kab. Barru,2007,23400,14.73,2.12,0.48,148023
+73,Prov. Sulawesi Selatan,7310,Kab. Barru,2008,21700,13.49,3.27,0.98,161450
+73,Prov. Sulawesi Selatan,7310,Kab. Barru,2009,18500,11.43,1.86,0.5,194138
+73,Prov. Sulawesi Selatan,7310,Kab. Barru,2010,17700,10.68,1.43,0.31,216585
+73,Prov. Sulawesi Selatan,7311,Kab. Bone,2007,131600,18.84,2.71,0.66,127752
+73,Prov. Sulawesi Selatan,7311,Kab. Bone,2008,121900,17.35,4.84,1.57,149108
+73,Prov. Sulawesi Selatan,7311,Kab. Bone,2009,107300,15.19,2.31,0.61,167601
+73,Prov. Sulawesi Selatan,7311,Kab. Bone,2010,101100,14.08,2.62,0.8,189320
+73,Prov. Sulawesi Selatan,7312,Kab. Soppeng,2007,12400,5.45,0.83,0.19,123988
+73,Prov. Sulawesi Selatan,7312,Kab. Soppeng,2008,25600,11.22,1.3,0.31,149012
+73,Prov. Sulawesi Selatan,7312,Kab. Soppeng,2009,22800,9.95,1.39,0.32,170178
+73,Prov. Sulawesi Selatan,7312,Kab. Soppeng,2010,23300,10.41,1.65,0.4,180352
+73,Prov. Sulawesi Selatan,7313,Kab. Wajo,2007,42600,11.36,2,0.49,154522
+73,Prov. Sulawesi Selatan,7313,Kab. Wajo,2008,38300,10.16,2.51,0.71,165120
+73,Prov. Sulawesi Selatan,7313,Kab. Wajo,2009,33800,8.93,1.12,0.23,196543
+73,Prov. Sulawesi Selatan,7313,Kab. Wajo,2010,34500,8.96,1.52,0.43,208293
+73,Prov. Sulawesi Selatan,7314,Kab. Sidenreng Rappang,2007,19900,8.05,0.7,0.11,141588
+73,Prov. Sulawesi Selatan,7314,Kab. Sidenreng Rappang,2008,19100,7.64,1.75,0.48,155743
+73,Prov. Sulawesi Selatan,7314,Kab. Sidenreng Rappang,2009,16900,6.73,0.84,0.24,185330
+73,Prov. Sulawesi Selatan,7314,Kab. Sidenreng Rappang,2010,19000,6.99,1.08,0.23,196410
+73,Prov. Sulawesi Selatan,7315,Kab. Pinrang,2007,35800,10.44,0.85,0.13,117099
+73,Prov. Sulawesi Selatan,7315,Kab. Pinrang,2008,33300,9.65,3.29,1.26,145880
+73,Prov. Sulawesi Selatan,7315,Kab. Pinrang,2009,30300,8.7,1.36,0.31,176376
+73,Prov. Sulawesi Selatan,7315,Kab. Pinrang,2010,31700,9.01,1.36,0.37,186920
+73,Prov. Sulawesi Selatan,7316,Kab. Enrekang,2007,41900,22.79,3.59,0.86,137249
+73,Prov. Sulawesi Selatan,7316,Kab. Enrekang,2008,38400,20.51,4.99,1.49,153691
+73,Prov. Sulawesi Selatan,7316,Kab. Enrekang,2009,34200,18.1,3.42,0.97,190151
+73,Prov. Sulawesi Selatan,7316,Kab. Enrekang,2010,32100,16.84,2.5,0.57,204861
+73,Prov. Sulawesi Selatan,7317,Kab. Luwu,2007,67800,21.24,3.25,0.79,152443
+73,Prov. Sulawesi Selatan,7317,Kab. Luwu,2008,62800,19.44,4.77,1.33,159560
+73,Prov. Sulawesi Selatan,7317,Kab. Luwu,2009,55300,16.96,3.62,1.32,184095
+73,Prov. Sulawesi Selatan,7317,Kab. Luwu,2010,51500,15.43,2.36,0.62,198336
+73,Prov. Sulawesi Selatan,7318,Kab. Tana Toraja,2007,89800,19.91,3.27,0.84,113876
+73,Prov. Sulawesi Selatan,7318,Kab. Tana Toraja,2008,85300,18.57,4.81,1.44,136634
+73,Prov. Sulawesi Selatan,7318,Kab. Tana Toraja,2009,75200,16.14,2.46,0.61,172445
+73,Prov. Sulawesi Selatan,7318,Kab. Tana Toraja,2010,32500,14.61,3.38,1.35,185785
+73,Prov. Sulawesi Selatan,7322,Kab. Luwu Utara,2007,42600,14.03,2,0.49,147862
+73,Prov. Sulawesi Selatan,7322,Kab. Luwu Utara,2008,57500,18.38,3.27,0.92,160517
+73,Prov. Sulawesi Selatan,7322,Kab. Luwu Utara,2009,52500,16.4,2.65,0.75,192085
+73,Prov. Sulawesi Selatan,7322,Kab. Luwu Utara,2010,46800,16.24,2.9,0.75,206944
+73,Prov. Sulawesi Selatan,7325,Kab. Luwu Timur,2007,22900,10.21,1.72,0.42,148230
+73,Prov. Sulawesi Selatan,7325,Kab. Luwu Timur,2008,25300,10.98,2.32,0.66,158892
+73,Prov. Sulawesi Selatan,7325,Kab. Luwu Timur,2009,21000,8.91,1.77,0.49,184242
+73,Prov. Sulawesi Selatan,7325,Kab. Luwu Timur,2010,22400,9.18,1.28,0.32,198494
+73,Prov. Sulawesi Selatan,7326,Kab. Toraja Utara,2010,41100,19.08,3.66,0.9,249111
+73,Prov. Sulawesi Selatan,7371,Kota Makassar,2007,69900,5.66,0.95,0.28,131584
+73,Prov. Sulawesi Selatan,7371,Kota Makassar,2008,66900,5.36,1,0.25,177064
+73,Prov. Sulawesi Selatan,7371,Kota Makassar,2009,69700,5.52,0.96,0.25,209582
+73,Prov. Sulawesi Selatan,7371,Kota Makassar,2010,78700,5.86,1.03,0.32,233815
+73,Prov. Sulawesi Selatan,7372,Kota Parepare,2007,8800,7.65,1.14,0.31,118039
+73,Prov. Sulawesi Selatan,7372,Kota Parepare,2008,8300,7.1,1.99,0.69,154868
+73,Prov. Sulawesi Selatan,7372,Kota Parepare,2009,7700,6.52,0.84,0.17,188525
+73,Prov. Sulawesi Selatan,7372,Kota Parepare,2010,8500,6.53,0.75,0.16,199796
+73,Prov. Sulawesi Selatan,7373,Kota Palopo,2007,17400,12.71,1.52,0.28,135096
+73,Prov. Sulawesi Selatan,7373,Kota Palopo,2008,18200,12.83,4,1.56,154518
+73,Prov. Sulawesi Selatan,7373,Kota Palopo,2009,17300,11.85,1.97,0.5,185464
+73,Prov. Sulawesi Selatan,7373,Kota Palopo,2010,16800,11.28,1.64,0.42,199811
+74,Prov. Sulawesi Tenggara,7401,Kab. Buton,2007,67700,22.94,3.53,0.81,118898
+74,Prov. Sulawesi Tenggara,7401,Kab. Buton,2008,69700,22.93,6.1,2.1,150109
+74,Prov. Sulawesi Tenggara,7401,Kab. Buton,2009,62600,20.16,3.61,0.99,165198
+74,Prov. Sulawesi Tenggara,7401,Kab. Buton,2010,45900,17.95,2.75,0.65,176346
+74,Prov. Sulawesi Tenggara,7402,Kab. Muna,2007,66700,25.35,4,0.96,155351
+74,Prov. Sulawesi Tenggara,7402,Kab. Muna,2008,59900,22.42,5.67,1.62,179090
+74,Prov. Sulawesi Tenggara,7402,Kab. Muna,2009,54200,20.02,3.13,0.78,217599
+74,Prov. Sulawesi Tenggara,7402,Kab. Muna,2010,46600,17.35,2.58,0.56,232284
+74,Prov. Sulawesi Tenggara,7403,Kab. Konawe,2007,61100,24.63,3.94,0.93,157390
+74,Prov. Sulawesi Tenggara,7403,Kab. Konawe,2008,55700,22.4,4.65,1.22,167403
+74,Prov. Sulawesi Tenggara,7403,Kab. Konawe,2009,50800,19.97,3.08,0.73,203631
+74,Prov. Sulawesi Tenggara,7403,Kab. Konawe,2010,42300,17.45,3.43,1.05,217373
+74,Prov. Sulawesi Tenggara,7404,Kab. Kolaka,2007,75600,25.35,3.54,0.75,191722
+74,Prov. Sulawesi Tenggara,7404,Kab. Kolaka,2008,68700,22.46,7.02,2.3,194030
+74,Prov. Sulawesi Tenggara,7404,Kab. Kolaka,2009,64100,20.46,2.83,0.63,228060
+74,Prov. Sulawesi Tenggara,7404,Kab. Kolaka,2010,59800,18.9,2.55,0.53,243351
+74,Prov. Sulawesi Tenggara,7405,Kab. Konawe Selatan,2007,47100,18.31,2.82,0.66,104637
+74,Prov. Sulawesi Tenggara,7405,Kab. Konawe Selatan,2008,43700,16.74,4.57,1.49,130089
+74,Prov. Sulawesi Tenggara,7405,Kab. Konawe Selatan,2009,40400,15.17,2.15,0.5,151038
+74,Prov. Sulawesi Tenggara,7405,Kab. Konawe Selatan,2010,35800,13.49,2.11,0.58,161231
+74,Prov. Sulawesi Tenggara,7406,Kab. Bombana,2007,23600,20.51,3.23,0.8,163488
+74,Prov. Sulawesi Tenggara,7406,Kab. Bombana,2008,21800,18.25,3.74,0.91,171860
+74,Prov. Sulawesi Tenggara,7406,Kab. Bombana,2009,20200,16.63,2.55,0.59,196935
+74,Prov. Sulawesi Tenggara,7406,Kab. Bombana,2010,22000,15.7,2.41,0.62,210225
+74,Prov. Sulawesi Tenggara,7407,Kab. Wakatobi,2007,26000,24.51,3.67,0.89,125417
+74,Prov. Sulawesi Tenggara,7407,Kab. Wakatobi,2008,24900,22.53,5.5,1.73,151202
+74,Prov. Sulawesi Tenggara,7407,Kab. Wakatobi,2009,23000,20.42,3.76,1.14,179390
+74,Prov. Sulawesi Tenggara,7407,Kab. Wakatobi,2010,17200,18.49,3.21,0.96,191496
+74,Prov. Sulawesi Tenggara,7408,Kab. Kolaka Utara,2007,26800,26.29,4.84,1.35,198691
+74,Prov. Sulawesi Tenggara,7408,Kab. Kolaka Utara,2008,29300,24.08,9.74,4.1,212357
+74,Prov. Sulawesi Tenggara,7408,Kab. Kolaka Utara,2009,28400,21.88,2.21,0.4,269339
+74,Prov. Sulawesi Tenggara,7408,Kab. Kolaka Utara,2010,24500,20.04,2.34,0.43,287515
+74,Prov. Sulawesi Tenggara,7409,Kab. Buton Utara,2007,13200,25.09,4.37,1.07,159777
+74,Prov. Sulawesi Tenggara,7409,Kab. Buton Utara,2008,12100,22.86,4.4,1.16,162080
+74,Prov. Sulawesi Tenggara,7409,Kab. Buton Utara,2009,11000,20.58,3.03,0.69,209000
+74,Prov. Sulawesi Tenggara,7409,Kab. Buton Utara,2010,10300,18.78,2.65,0.58,223104
+74,Prov. Sulawesi Tenggara,7410,Kab. Konawe Utara,2007,7500,18.15,2.66,0.64,139639
+74,Prov. Sulawesi Tenggara,7410,Kab. Konawe Utara,2008,8200,16.5,2.88,0.64,151129
+74,Prov. Sulawesi Tenggara,7410,Kab. Konawe Utara,2009,7700,15.19,1.98,0.42,172276
+74,Prov. Sulawesi Tenggara,7410,Kab. Konawe Utara,2010,7100,13.69,2.12,0.53,183902
+74,Prov. Sulawesi Tenggara,7471,Kota Kendari,2007,27500,10.15,2.13,0.66,178760
+74,Prov. Sulawesi Tenggara,7471,Kota Kendari,2008,23600,8.53,1.83,0.48,178943
+74,Prov. Sulawesi Tenggara,7471,Kota Kendari,2009,22400,7.88,1.17,0.3,211670
+74,Prov. Sulawesi Tenggara,7471,Kota Kendari,2010,23300,8.02,1.91,0.84,225955
+74,Prov. Sulawesi Tenggara,7472,Kota Baubau,2007,22600,17.08,2.94,0.75,167668
+74,Prov. Sulawesi Tenggara,7472,Kota Baubau,2008,19600,14.13,2.94,0.74,173833
+74,Prov. Sulawesi Tenggara,7472,Kota Baubau,2009,18200,12.72,2.22,0.56,217430
+74,Prov. Sulawesi Tenggara,7472,Kota Baubau,2010,16600,12.06,2.33,0.62,232103
+75,Prov. Gorontalo,7501,Kab. Boalemo,2007,32700,29.21,4.58,1.06,133508
+75,Prov. Gorontalo,7501,Kab. Boalemo,2008,27200,23.17,4.54,1.15,154672
+75,Prov. Gorontalo,7501,Kab. Boalemo,2009,24400,20.74,3.53,0.87,200692
+75,Prov. Gorontalo,7501,Kab. Boalemo,2010,25800,19.82,3.49,0.93,212873
+75,Prov. Gorontalo,7502,Kab. Gorontalo,2007,100500,32.07,7.18,2.32,151432
+75,Prov. Gorontalo,7502,Kab. Gorontalo,2008,75200,24.1,3.68,0.77,166222
+75,Prov. Gorontalo,7502,Kab. Gorontalo,2009,66900,21.48,3.82,0.97,212815
+75,Prov. Gorontalo,7502,Kab. Gorontalo,2010,67100,18.87,2.85,0.64,225732
+75,Prov. Gorontalo,7503,Kab. Pohuwato,2007,31300,29.74,6.14,1.86,147750
+75,Prov. Gorontalo,7503,Kab. Pohuwato,2008,24500,23.28,4.87,1.43,158393
+75,Prov. Gorontalo,7503,Kab. Pohuwato,2009,22500,21.15,3.99,1.09,183215
+75,Prov. Gorontalo,7503,Kab. Pohuwato,2010,24200,18.73,3.46,0.99,194335
+75,Prov. Gorontalo,7504,Kab. Bone Bolango,2007,36100,30.6,6.69,2.08,141685
+75,Prov. Gorontalo,7504,Kab. Bone Bolango,2008,27100,22.7,4.76,1.37,150238
+75,Prov. Gorontalo,7504,Kab. Bone Bolango,2009,24100,19.97,4.05,1.2,190732
+75,Prov. Gorontalo,7504,Kab. Bone Bolango,2010,25100,17.64,3.41,1.03,202308
+75,Prov. Gorontalo,7505,Kab. Gorontalo Utara,2007,29200,33.18,5.3,1.28,142683
+75,Prov. Gorontalo,7505,Kab. Gorontalo Utara,2008,20900,23.94,4.37,1.03,155679
+75,Prov. Gorontalo,7505,Kab. Gorontalo Utara,2009,19000,21.5,3.43,0.81,178512
+75,Prov. Gorontalo,7505,Kab. Gorontalo Utara,2010,20400,19.58,3.13,0.78,189347
+75,Prov. Gorontalo,7571,Kota Gorontalo,2007,12000,8.11,1.35,0.34,175545
+75,Prov. Gorontalo,7571,Kota Gorontalo,2008,7900,5.23,0.87,0.17,176302
+75,Prov. Gorontalo,7571,Kota Gorontalo,2009,8300,5.29,0.67,0.16,224387
+75,Prov. Gorontalo,7571,Kota Gorontalo,2010,9900,5.49,0.87,0.2,238006
+76,Prov. Sulawesi Barat,7601,Kab. Majene,2007,30800,23.55,3.57,0.85,135568
+76,Prov. Sulawesi Barat,7601,Kab. Majene,2008,24400,18.44,3.38,0.95,158716
+76,Prov. Sulawesi Barat,7601,Kab. Majene,2009,23900,18.09,2.74,0.66,204699
+76,Prov. Sulawesi Barat,7601,Kab. Majene,2010,27900,18.41,2.77,0.68,220059
+76,Prov. Sulawesi Barat,7602,Kab. Polewali Mandar,2007,88500,24.96,4.4,1.14,140796
+76,Prov. Sulawesi Barat,7602,Kab. Polewali Mandar,2008,78300,21.8,4.84,1.23,179438
+76,Prov. Sulawesi Barat,7602,Kab. Polewali Mandar,2009,76600,21.37,3.51,0.92,213942
+76,Prov. Sulawesi Barat,7602,Kab. Polewali Mandar,2010,84300,21.24,2.81,0.58,229996
+76,Prov. Sulawesi Barat,7603,Kab. Mamasa,2007,31000,25.51,4.16,1.28,121214
+76,Prov. Sulawesi Barat,7603,Kab. Mamasa,2008,22500,18.06,4.48,1.42,149221
+76,Prov. Sulawesi Barat,7603,Kab. Mamasa,2009,22300,17.87,2.73,0.7,158068
+76,Prov. Sulawesi Barat,7603,Kab. Mamasa,2010,22800,16.24,2.22,0.5,169929
+76,Prov. Sulawesi Barat,7604,Kab. Mamuju,2007,30400,10.43,1.69,0.4,119031
+76,Prov. Sulawesi Barat,7604,Kab. Mamuju,2008,24700,8.11,2.14,0.64,137055
+76,Prov. Sulawesi Barat,7604,Kab. Mamuju,2009,25400,8.13,0.99,0.22,147699
+76,Prov. Sulawesi Barat,7604,Kab. Mamuju,2010,27700,8.16,2.15,0.84,158782
+76,Prov. Sulawesi Barat,7605,Kab. Mamuju Utara,2007,9200,9.22,1.39,0.29,166638
+76,Prov. Sulawesi Barat,7605,Kab. Mamuju Utara,2008,7000,6.52,1.27,0.29,170212
+76,Prov. Sulawesi Barat,7605,Kab. Mamuju Utara,2009,7100,6.47,0.79,0.15,197015
+76,Prov. Sulawesi Barat,7605,Kab. Mamuju Utara,2010,8400,6.2,0.91,0.22,211799
+81,Prov. Maluku,8101,Kab. Maluku Tenggara Barat,2007,68300,44.15,8.99,2.68,150560
+81,Prov. Maluku,8101,Kab. Maluku Tenggara Barat,2008,63100,40.17,7.71,2.09,165371
+81,Prov. Maluku,8101,Kab. Maluku Tenggara Barat,2009,58900,37.23,7.82,2.66,193729
+81,Prov. Maluku,8101,Kab. Maluku Tenggara Barat,2010,35900,33.93,7.41,2.35,219903
+81,Prov. Maluku,8102,Kab. Maluku Tenggara,2007,48800,35.98,9.45,3.44,174889
+81,Prov. Maluku,8102,Kab. Maluku Tenggara,2008,46000,32.9,9.16,3.35,199218
+81,Prov. Maluku,8102,Kab. Maluku Tenggara,2009,30100,30.71,6.92,2.08,204461
+81,Prov. Maluku,8102,Kab. Maluku Tenggara,2010,29700,30.7,5.71,1.78,232085
+81,Prov. Maluku,8103,Kab. Maluku Tengah,2007,118700,36.03,7.47,2.4,190324
+81,Prov. Maluku,8103,Kab. Maluku Tengah,2008,108400,32.61,9.08,3.02,226279
+81,Prov. Maluku,8103,Kab. Maluku Tengah,2009,101800,30.48,7.34,2.51,252393
+81,Prov. Maluku,8103,Kab. Maluku Tengah,2010,102900,28.41,5.67,1.78,286493
+81,Prov. Maluku,8104,Kab. Buru,2007,40900,31.34,5.93,1.69,176085
+81,Prov. Maluku,8104,Kab. Buru,2008,38900,29.17,6.15,1.56,211436
+81,Prov. Maluku,8104,Kab. Buru,2009,37600,27.57,4.27,1.03,243741
+81,Prov. Maluku,8104,Kab. Buru,2010,27000,24.82,4.84,1.33,276672
+81,Prov. Maluku,8105,Kab. Kepulauan Aru,2007,25900,36.88,8.77,2.94,157799
+81,Prov. Maluku,8105,Kab. Kepulauan Aru,2008,29800,41.08,8.95,2.86,203915
+81,Prov. Maluku,8105,Kab. Kepulauan Aru,2009,28500,38.77,13.59,6.55,204195
+81,Prov. Maluku,8105,Kab. Kepulauan Aru,2010,29500,34.96,7.73,2.31,231783
+81,Prov. Maluku,8106,Kab. Seram Bagian Barat,2007,53600,37.8,9.67,3.36,159116
+81,Prov. Maluku,8106,Kab. Seram Bagian Barat,2008,50700,35.19,8.17,2.49,177247
+81,Prov. Maluku,8106,Kab. Seram Bagian Barat,2009,48000,33.11,7.97,2.66,210595
+81,Prov. Maluku,8106,Kab. Seram Bagian Barat,2010,49700,30.08,6.13,1.73,239048
+81,Prov. Maluku,8107,Kab. Seram Bagian Timur,2007,31800,39.83,7.6,2.06,151145
+81,Prov. Maluku,8107,Kab. Seram Bagian Timur,2008,30800,36.98,9.29,2.93,163645
+81,Prov. Maluku,8107,Kab. Seram Bagian Timur,2009,29300,34.67,7.4,2.27,206480
+81,Prov. Maluku,8107,Kab. Seram Bagian Timur,2010,31300,31.44,7.54,2.49,234377
+81,Prov. Maluku,8108,Kab. Maluku Barat Daya,2010,27600,39.22,6.95,1.78,234688
+81,Prov. Maluku,8109,Kab. Buru Selatan,2010,11800,21.82,6.82,3.18,333337
+81,Prov. Maluku,8171,Kota Ambon,2007,16800,6.51,1.31,0.32,160798
+81,Prov. Maluku,8171,Kota Ambon,2008,21200,7.92,0.85,0.15,208216
+81,Prov. Maluku,8171,Kota Ambon,2009,21100,7.61,0.97,0.21,268913
+81,Prov. Maluku,8171,Kota Ambon,2010,25600,7.67,1.1,0.3,305245
+81,Prov. Maluku,8172,Kota Tual,2009,13900,30.42,6.35,1.99,206352
+81,Prov. Maluku,8172,Kota Tual,2010,18700,32.01,9.5,3.79,234232
+82,Prov. Maluku Utara,8201,Kab. Halmahera Barat,2007,15300,16.19,3.07,0.95,142708
+82,Prov. Maluku Utara,8201,Kab. Halmahera Barat,2008,15300,16.12,3.28,1.08,167364
+82,Prov. Maluku Utara,8201,Kab. Halmahera Barat,2009,13800,14.34,3.21,1.07,193436
+82,Prov. Maluku Utara,8201,Kab. Halmahera Barat,2010,12900,13.3,2.54,0.73,207427
+82,Prov. Maluku Utara,8202,Kab. Halmahera Tengah,2007,9800,30.18,5.58,1.47,163618
+82,Prov. Maluku Utara,8202,Kab. Halmahera Tengah,2008,9600,28.52,5.9,1.63,197098
+82,Prov. Maluku Utara,8202,Kab. Halmahera Tengah,2009,9100,26.64,5.3,1.73,255844
+82,Prov. Maluku Utara,8202,Kab. Halmahera Tengah,2010,10500,24.56,4.22,1.12,274349
+82,Prov. Maluku Utara,8203,Kab. Kepulauan Sula,2007,17700,14.07,2.03,0.5,148239
+82,Prov. Maluku Utara,8203,Kab. Kepulauan Sula,2008,17400,13.71,2.16,0.49,191633
+82,Prov. Maluku Utara,8203,Kab. Kepulauan Sula,2009,14700,11.51,2.31,0.78,198491
+82,Prov. Maluku Utara,8203,Kab. Kepulauan Sula,2010,11900,8.98,1.04,0.19,212848
+82,Prov. Maluku Utara,8204,Kab. Halmahera Selatan,2007,23300,12.95,1.94,0.52,138083
+82,Prov. Maluku Utara,8204,Kab. Halmahera Selatan,2008,23000,12.54,1.82,0.37,177239
+82,Prov. Maluku Utara,8204,Kab. Halmahera Selatan,2009,20800,10.97,1.68,0.39,177674
+82,Prov. Maluku Utara,8204,Kab. Halmahera Selatan,2010,18900,9.51,1.43,0.31,190525
+82,Prov. Maluku Utara,8205,Kab. Halmahera Utara,2007,17500,9.63,1.08,0.2,107690
+82,Prov. Maluku Utara,8205,Kab. Halmahera Utara,2008,16600,8.9,2.04,0.52,139961
+82,Prov. Maluku Utara,8205,Kab. Halmahera Utara,2009,15200,7.93,1.41,0.42,151693
+82,Prov. Maluku Utara,8205,Kab. Halmahera Utara,2010,13100,7.82,0.95,0.18,162665
+82,Prov. Maluku Utara,8206,Kab. Halmahera Timur,2007,13500,21.54,3.03,0.59,205514
+82,Prov. Maluku Utara,8206,Kab. Halmahera Timur,2008,13800,21.13,9.61,4.48,276959
+82,Prov. Maluku Utara,8206,Kab. Halmahera Timur,2009,13500,19.55,3.02,0.73,282667
+82,Prov. Maluku Utara,8206,Kab. Halmahera Timur,2010,14200,19.3,5.43,2.05,303112
+82,Prov. Maluku Utara,8207,Kab. Pulau Morotai,2010,5600,10.59,2.22,0.61,166505
+82,Prov. Maluku Utara,8271,Kota Ternate,2007,6900,4.26,0.81,0.21,228202
+82,Prov. Maluku Utara,8271,Kota Ternate,2008,6900,4.15,0.75,0.15,234491
+82,Prov. Maluku Utara,8271,Kota Ternate,2009,7200,4.22,0.65,0.18,313322
+82,Prov. Maluku Utara,8271,Kota Ternate,2010,8400,4.53,0.47,0.08,335985
+82,Prov. Maluku Utara,8272,Kota Tidore Kepulauan,2007,5900,7.43,1.08,0.25,169856
+82,Prov. Maluku Utara,8272,Kota Tidore Kepulauan,2008,5200,6.54,0.8,0.12,204196
+82,Prov. Maluku Utara,8272,Kota Tidore Kepulauan,2009,4900,6.01,0.61,0.12,250690
+82,Prov. Maluku Utara,8272,Kota Tidore Kepulauan,2010,6300,7.08,0.91,0.17,268822
+91,Prov. Papua Barat,9101,Kab. Fakfak,2007,24700,39.57,8.79,3.12,270365
+91,Prov. Papua Barat,9101,Kab. Fakfak,2008,24500,37.55,9.21,2.98,245342
+91,Prov. Papua Barat,9101,Kab. Fakfak,2009,23400,35.29,7.41,2.3,289107
+91,Prov. Papua Barat,9101,Kab. Fakfak,2010,22200,33.25,6.97,2.14,320919
+91,Prov. Papua Barat,9102,Kab. Kaimana,2007,31000,33.84,6.83,1.89,160706
+91,Prov. Papua Barat,9102,Kab. Kaimana,2008,32500,33.95,10.36,3.65,213899
+91,Prov. Papua Barat,9102,Kab. Kaimana,2009,9800,23.51,3.83,0.94,226850
+91,Prov. Papua Barat,9102,Kab. Kaimana,2010,9700,20.8,4.3,1.16,251812
+91,Prov. Papua Barat,9103,Kab. Teluk Wondama,2007,76400,47.34,12.75,4.53,278175
+91,Prov. Papua Barat,9103,Kab. Teluk Wondama,2008,82600,43.57,14.21,5.94,289442
+91,Prov. Papua Barat,9103,Kab. Teluk Wondama,2009,11100,48.47,10.66,3.41,296732
+91,Prov. Papua Barat,9103,Kab. Teluk Wondama,2010,11600,44.25,13.52,5.57,329383
+91,Prov. Papua Barat,9104,Kab. Teluk Bintuni,2007,13700,35.22,7.31,2.12,211324
+91,Prov. Papua Barat,9104,Kab. Teluk Bintuni,2008,10600,23.25,5.58,1.65,216657
+91,Prov. Papua Barat,9104,Kab. Teluk Bintuni,2009,28200,51.91,13.83,5.06,350817
+91,Prov. Papua Barat,9104,Kab. Teluk Bintuni,2010,24900,47.53,15.84,7.37,389419
+91,Prov. Papua Barat,9105,Kab. Manokwari,2007,16000,28.05,7.48,2.91,165792
+91,Prov. Papua Barat,9105,Kab. Manokwari,2008,16400,26.66,9.31,3.71,204720
+91,Prov. Papua Barat,9105,Kab. Manokwari,2009,70200,40.8,14.18,6.66,341271
+91,Prov. Papua Barat,9105,Kab. Manokwari,2010,63800,34,9.61,3.93,378823
+91,Prov. Papua Barat,9106,Kab. Sorong Selatan,2007,11400,30.07,6.84,1.89,217042
+91,Prov. Papua Barat,9106,Kab. Sorong Selatan,2008,10400,23.76,6.64,2.31,220837
+91,Prov. Papua Barat,9106,Kab. Sorong Selatan,2009,16300,26.76,6.25,2,209315
+91,Prov. Papua Barat,9106,Kab. Sorong Selatan,2010,8700,23.02,4.15,1.19,227968
+91,Prov. Papua Barat,9107,Kab. Sorong,2007,25900,51.37,14.59,5.58,247951
+91,Prov. Papua Barat,9107,Kab. Sorong,2008,30100,50.39,16.29,7.32,274014
+91,Prov. Papua Barat,9107,Kab. Sorong,2009,33400,34.45,10.61,4.71,223625
+91,Prov. Papua Barat,9107,Kab. Sorong,2010,23600,33.43,8.12,3.18,243554
+91,Prov. Papua Barat,9108,Kab. Raja Ampat,2007,11500,53.34,13.02,4.3,186128
+91,Prov. Papua Barat,9108,Kab. Raja Ampat,2008,12000,47.36,13.02,4.42,227686
+91,Prov. Papua Barat,9108,Kab. Raja Ampat,2009,9700,23.71,2.86,0.48,221776
+91,Prov. Papua Barat,9108,Kab. Raja Ampat,2010,10000,23.58,4.46,1.29,241540
+91,Prov. Papua Barat,9109,Kab. Tambrauw,2010,2700,44.71,10.55,3.43,245060
+91,Prov. Papua Barat,9110,Kab. Maybrat,2010,13300,40.13,9.24,3,248702
+91,Prov. Papua Barat,9171,Kota Sorong,2007,56200,35.71,9.41,3.55,392698
+91,Prov. Papua Barat,9171,Kota Sorong,2008,18200,14.93,7.93,4.94,287984
+91,Prov. Papua Barat,9171,Kota Sorong,2009,25400,15.12,2.76,0.86,402953
+91,Prov. Papua Barat,9171,Kota Sorong,2010,26800,14.04,2.93,1,438863
+94,Prov. Papua,9401,Kab. Merauke,2007,51600,31.56,8.23,2.81,184048
+94,Prov. Papua,9401,Kab. Merauke,2008,26700,15.69,3.54,1.18,189428
+94,Prov. Papua,9401,Kab. Merauke,2009,26500,15.44,2.95,0.76,212148
+94,Prov. Papua,9401,Kab. Merauke,2010,28600,14.54,3.79,1.49,230729
+94,Prov. Papua,9402,Kab. Jayawijaya,2007,109700,50.31,13.99,5.96,177486
+94,Prov. Papua,9402,Kab. Jayawijaya,2008,105400,48.15,10.16,3.04,184745
+94,Prov. Papua,9402,Kab. Jayawijaya,2009,45400,46.3,8.4,2.17,223114
+94,Prov. Papua,9402,Kab. Jayawijaya,2010,84600,41.84,9.12,2.88,242655
+94,Prov. Papua,9403,Kab. Jayapura,2007,29400,30.91,7.59,2.68,281731
+94,Prov. Papua,9403,Kab. Jayapura,2008,21300,21.8,6.31,2.19,281326
+94,Prov. Papua,9403,Kab. Jayapura,2009,20400,20.77,4.68,1.57,290401
+94,Prov. Papua,9403,Kab. Jayapura,2010,21400,18.64,4.36,1.7,315835
+94,Prov. Papua,9404,Kab. Nabire,2007,75900,45.56,20.31,11.61,255521
+94,Prov. Papua,9404,Kab. Nabire,2008,63200,37.56,11.89,4.36,256072
+94,Prov. Papua,9404,Kab. Nabire,2009,36300,35.69,10.87,4.51,307257
+94,Prov. Papua,9404,Kab. Nabire,2010,44300,33.68,7.66,2.55,334168
+94,Prov. Papua,9408,Kab. Yapen Waropen,2007,32300,43.54,8.76,2.25,299111
+94,Prov. Papua,9408,Kab. Yapen Waropen,2008,28500,37.31,14.23,5.62,297755
+94,Prov. Papua,9408,Kab. Yapen Waropen,2009,27900,36.13,9.66,3.59,307044
+94,Prov. Papua,9408,Kab. Yapen Waropen,2010,28200,33.54,8.98,3.41,333936
+94,Prov. Papua,9409,Kab. Biak Numfor,2007,48700,46.98,11.81,3.86,307550
+94,Prov. Papua,9409,Kab. Biak Numfor,2008,39400,37.06,11.97,4.43,308763
+94,Prov. Papua,9409,Kab. Biak Numfor,2009,39500,36.51,9.06,3.45,317590
+94,Prov. Papua,9409,Kab. Biak Numfor,2010,42500,33.61,9.91,4.48,345406
+94,Prov. Papua,9410,Kab. Paniai,2007,60900,52.18,11.01,3,218221
+94,Prov. Papua,9410,Kab. Paniai,2008,56300,48.29,12.58,4.53,231989
+94,Prov. Papua,9410,Kab. Paniai,2009,57900,47.68,13.77,5.28,260417
+94,Prov. Papua,9410,Kab. Paniai,2010,65700,43.47,11.02,3.76,283225
+94,Prov. Papua,9411,Kab. Puncak Jaya,2008,57700,49.42,8.91,2.08,237588
+94,Prov. Papua,9411,Kab. Puncak Jaya,2009,34400,46.92,10,2.85,305754
+94,Prov. Papua,9411,Kab. Puncak Jaya,2010,45200,43.8,16.28,8.18,332533
+94,Prov. Papua,9412,Kab. Mimika,2007,44100,32.73,9.36,3.64,297276
+94,Prov. Papua,9412,Kab. Mimika,2008,37800,26.63,9.75,4.06,279520
+94,Prov. Papua,9412,Kab. Mimika,2009,35700,24.74,7.94,3.62,354241
+94,Prov. Papua,9412,Kab. Mimika,2010,41800,22.57,7.11,3.54,385267
+94,Prov. Papua,9413,Kab. Boven Digoel,2007,9600,29.52,7.12,2.17,189335
+94,Prov. Papua,9413,Kab. Boven Digoel,2008,9100,27.49,10.68,4.56,193418
+94,Prov. Papua,9413,Kab. Boven Digoel,2009,9300,27.01,6.55,2.42,234964
+94,Prov. Papua,9413,Kab. Boven Digoel,2010,14500,25.79,3.29,0.56,255543
+94,Prov. Papua,9414,Kab. Mappi,2007,23000,34.04,6.01,1.76,173622
+94,Prov. Papua,9414,Kab. Mappi,2008,24400,36.23,8.12,2.45,183312
+94,Prov. Papua,9414,Kab. Mappi,2009,24400,34.94,8.43,2.67,184264
+94,Prov. Papua,9414,Kab. Mappi,2010,27200,33.11,5.15,1.07,200403
+94,Prov. Papua,9415,Kab. Asmat,2007,21500,33.49,5.15,1.18,175119
+94,Prov. Papua,9415,Kab. Asmat,2008,25700,39.77,15.95,7.38,195389
+94,Prov. Papua,9415,Kab. Asmat,2009,26000,38.69,6.71,1.58,203821
+94,Prov. Papua,9415,Kab. Asmat,2010,27400,35.4,11.03,4.45,221672
+94,Prov. Papua,9416,Kab. Yahukimo,2007,69400,48.34,13.92,4.94,120864
+94,Prov. Papua,9416,Kab. Yahukimo,2008,72700,50.63,22.68,10.32,196411
+94,Prov. Papua,9416,Kab. Yahukimo,2009,74500,49.61,7.57,1.68,198511
+94,Prov. Papua,9416,Kab. Yahukimo,2010,77400,46.21,5.98,1.2,215897
+94,Prov. Papua,9417,Kab. Pegunungan Bintang,2008,42000,45.81,18.06,8.09,229905
+94,Prov. Papua,9417,Kab. Pegunungan Bintang,2009,41800,43.77,15.92,8,284051
+94,Prov. Papua,9417,Kab. Pegunungan Bintang,2010,26200,40.08,7.46,2.39,308929
+94,Prov. Papua,9418,Kab. Tolikara,2007,21100,45.3,6.8,1.43,114063
+94,Prov. Papua,9418,Kab. Tolikara,2008,21100,45.08,6.89,1.5,117439
+94,Prov. Papua,9418,Kab. Tolikara,2009,21900,44.63,5.75,1.13,155394
+94,Prov. Papua,9418,Kab. Tolikara,2010,47900,41.17,8,2.3,169004
+94,Prov. Papua,9419,Kab. Sarmi,2007,10200,31.2,5.79,1.35,188962
+94,Prov. Papua,9419,Kab. Sarmi,2008,8300,24.52,4.77,1.31,199459
+94,Prov. Papua,9419,Kab. Sarmi,2009,5200,22.63,3.32,0.74,237225
+94,Prov. Papua,9419,Kab. Sarmi,2010,7100,21.09,2.55,0.6,258002
+94,Prov. Papua,9420,Kab. Keerom,2007,11000,27.07,6.21,2.19,205320
+94,Prov. Papua,9420,Kab. Keerom,2008,11500,27.19,10.39,5.23,237125
+94,Prov. Papua,9420,Kab. Keerom,2009,11500,22.57,6.38,2.35,298989
+94,Prov. Papua,9420,Kab. Keerom,2010,11800,24.12,5.49,1.81,325176
+94,Prov. Papua,9426,Kab. Waropen,2007,10300,46.93,6.96,1.41,306235
+94,Prov. Papua,9426,Kab. Waropen,2008,9900,44.5,17.57,7.28,309470
+94,Prov. Papua,9426,Kab. Waropen,2009,6700,44,9.63,2.91,309954
+94,Prov. Papua,9426,Kab. Waropen,2010,10000,39.88,10.93,4.02,337101
+94,Prov. Papua,9427,Kab. Supiori,2007,6900,53.25,12.36,3.94,168048
+94,Prov. Papua,9427,Kab. Supiori,2008,6100,50.92,7.72,1.64,174192
+94,Prov. Papua,9427,Kab. Supiori,2009,6200,50.66,13,4.69,229260
+94,Prov. Papua,9427,Kab. Supiori,2010,7300,45.75,18.28,9.43,249340
+94,Prov. Papua,9428,Kab. Mamberamo Raya,2009,8800,44.43,8.62,2.3,323282
+94,Prov. Papua,9428,Kab. Mamberamo Raya,2010,7400,39.98,13.13,5.84,351596
+94,Prov. Papua,9429,Kab. Nduga,2009,13200,47.28,3.89,0.51,194643
+94,Prov. Papua,9429,Kab. Nduga,2010,34600,42.53,6.21,1.19,211691
+94,Prov. Papua,9430,Kab. Lanny Jaya,2009,27400,47.73,17.47,9.68,233929
+94,Prov. Papua,9430,Kab. Lanny Jaya,2010,71700,46.55,19.16,10.15,254417
+94,Prov. Papua,9431,Kab. Mamberamo Tengah,2009,11200,47.07,15.73,6.88,219167
+94,Prov. Papua,9431,Kab. Mamberamo Tengah,2010,19000,43.15,2.64,0.24,238363
+94,Prov. Papua,9432,Kab. Yalimo,2009,8700,47.76,5.98,1.31,185425
+94,Prov. Papua,9432,Kab. Yalimo,2010,22800,44.13,9.32,3.11,201665
+94,Prov. Papua,9433,Kab. Puncak,2009,24000,49.2,19.36,9.26,315061
+94,Prov. Papua,9433,Kab. Puncak,2010,42000,44.65,10.24,3.28,342655
+94,Prov. Papua,9434,Kab. Dogiyai,2009,25500,36.57,7.78,2.42,278520
+94,Prov. Papua,9434,Kab. Dogiyai,2010,28300,33.96,9.75,3.58,302914
+94,Prov. Papua,9435,Kab. Intan Jaya,2010,18600,47.82,13.44,5.05,294524
+94,Prov. Papua,9436,Kab. Deiyai,2010,32100,49.58,7.32,1.5,285675
+94,Prov. Papua,9471,Kota Jayapura,2007,52900,25.3,5.67,1.86,454145
+94,Prov. Papua,9471,Kota Jayapura,2008,42100,18.67,10.34,6.13,457338
+94,Prov. Papua,9471,Kota Jayapura,2009,39100,17.87,3.78,1.32,463629
+94,Prov. Papua,9471,Kota Jayapura,2010,45500,17.31,3.01,0.79,504235
